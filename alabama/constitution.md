@@ -1,491 +1,538 @@
 # Constitution of the State of Alabama
 
 ## Preamble
-We, the people of the Alabama Territory, having the right of admission into the General Government, as a member of the Union, consistent with the Constitution and laws of the United States, by our Representatives, assembled in Convention at the town of Huntsville, on Monday the 5th day of July, one thousand eight hundred and nineteen, in pursuance of an act of Congress, entitled "An act to enable the people of the Alabama Territory to form a Constitution and State Government, and for the admission of such State into the Union, on an equal footing with the original States;" in order to establish justice, insure tranquility, provide for the common defence, promote the general welfare, and secure to ourselves and our posterity the rights of life, liberty, and property, do ordain and establish the following Constitution, or form of Government; and do mutually agree with each other to form ourselves into a Free and Independent State, by the name of "THE STATE OF ALABAMA." And we do hereby recognize, confirm, and establish the boundaries assigned to said State by the act of Congress aforesaid, "to wit: Beginning at the point where the thirty-first degree of north latitude intersects the Perdido River; thence, east, to the western boundary line of the State of Georgia; thence, along said line, to the southern boundary line of the State of Tennessee; thence, west, along said boundary line, to the Tennessee River; thence, up the same, to the mouth of Bear Creek; thence, by a direct line, to the northwest corner of Washington county; thence, due south, to the Gulph of Mexico; thence, eastwardly, including all Islands within six leagues of the shore, to the Perdido River; and thence, up the same, to the beginning;" subject to such alteration as is provided in the third section of said act of Congress, and subject to such enlargement as may be made by law in consequence of any cession of territory by the United States, or either of them.
+Revised by order of the Convention of the People, assembled at Montgomery on the Seventh Day of January, A. D., 1861.  
 
-## Article I
+We the People of the State of Alabama, having separated ourselves from the Government known as the United States of America, and being now by our representatives in Convention assembled, and acting in our sovereign and independent character; in order to establish justice, insure domestic tranquillity, and secure the blessings of liberty to ourselves and our posterity - invoking the favor and guidance of Almighty God - do ordain and establish the following Constitution and form of Government for the State of Alabama: And the boundaries of this State are established to be: Beginning where the thirty-first degree of North latitude crosses the Perdido river; thence East, to the boundary line of the State of Georgia; thence along said line to the Southern boundary of the State of Tennessee; thence West, along the Southern boundary line of the State of Tennessee, crossing the Tennessee river, and on to the intersection of said river by said line; thence up said river to the mouth of Big Bear creek; thence by a direct line to the North-west corner of Washington county in this State, as originally formed; thence Southerly along the line of Mississippi to the Gulf of Mexico; thence Eastwardly, including all Islands within six leagues of the shore, to the Perdido river; and thence up the same to the beginning.
+
+## Article I  
 ### Declaration of Rights
-That the general, great, and essential principles of liberty and free government may be recognized and established, We Declare:
+That the general, great and essential principles of liberty and free government may be recognized and established, we declare:  
 
 ###### Section 1
-That all freemen, when they form a social compact, are equal in rights; and that no man, or set of men, are entitled to exclusive, separate public emoluments or privileges, but in consideration of public services.
+That all freemen, when they form a social compact, are equal in rights; and that no man or set of men are entitled to exclusive, separate public emoluments or privileges, but in consideration of public services.  
 
 ###### Section 2
-All political power is inherent in the people, and all free governments are founded on their authority, and instituted for their benefit; and, therefore, they have, at all times an unalienable and indefeasible right to alter, reform, or abolish their form of government, in such manner as they may think expedient.
+All political power is inherent in the people, and all free governments are founded on their authority, and instituted for their benefit; and, therefore, they have at all times an inalienable and indefeasible right to alter, reform, or abolish their form of government, in such manner as they may think expedient.  
 
 ###### Section 3
-No person within this state shall, upon, any pretence, be deprived of the inestimable privilege of worshipping God in the manner most agreeable to his own conscience; nor be compelled to attend any place of worship, nor shall any one ever be obliged to pay any tythes, taxes, or other rate, for the building or repairing any place of worship, or for the maintenance of any minister or ministry.
+No person within this State shall, upon any pretence be deprived of the inestimable privilege of worshiping God in the manner most agreeable to his own conscience; nor be compelled to attend any place of worship; nor shall any one ever be obliged to pay any tithes, taxes or other rate, for the building or repairing any place of worship, or for the maintenance of any minister or ministry.  
 
 ###### Section 4
-No human authority ought, in any case whatever, to control or interfere with the rights of conscience.
+No human authority ought, in any case whatever, to control or interfere with the rights of conscience.  
 
 ###### Section 5
-No person shall be hurt, molested, or restrained in his religious profession, sentiments, or persuasion, provided he does not disturb others in their religious worship.
+No person shall be hurt, molested or restrained in his religious profession, sentiments or persuasions, provided he does not disturb others in their religious worship.  
 
 ###### Section 6
-The civil rights, privileges, or capacities of any citizen, shall in no way be diminished, or enlarged, on account of his religious principles.
+The civil rights, privileges, or capacities of any citizen, shall in no way be diminished or enlarged, on account of his religious principles.  
 
 ###### Section 7
-There shall be no establishment of religion by law; no preference shall ever be given by law to any religious sect, society, denomination, or mode of worship; and no religious test shall ever be required as a qualification to any office or public trust under this state.
+There shall be no establishment of religion by law; no preference shall ever be given by law to any religious sect, society, denomination, or mode of worship; and no religious test shall ever be required as a qualification to any office or public trust under this State.  
 
 ###### Section 8
-Every citizen may freely speak, write, and publish his sentiments on all subjects, being responsible for the abuse of that liberty.
+Every citizen may freely speak, write and publish his sentiments on all subjects, being responsible for the abuse of that liberty.  
 
 ###### Section 9
-The people shall be secure in their persons, houses, papers, and possessions, from unreasonable seizures or searches; and no warrant to search any place, or to seize any person or thing, shall issue, without describing them as nearly as may be, nor without probable cause, supported by oath or affirmation.
+The people shall be secure in their persons, houses, papers, and possessions from unreasonable seizures or searches; and no warrant to search any place, or to seize any person or thing, shall issue without describing them as nearly as may be, nor without probable cause, supported by oath or affirmation.  
 
 ###### Section 10
-In all criminal prosecutions, the accused has a right to be heard by himself, and counsel; to demand the nature and cause of the accusation, and have a copy thereof; to be confronted by the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and, in all prosecutions, by indictment or information, a speedy public trial, by an impartial jury of the county or district in which the offence shall have been committed: he shall not be compelled to give evidence against himself, nor shall he be deprived of his life, liberty, or property, but by due course of law.
+In all criminal prosecutions, the accused has a right to be heard by himself and counsel; to demand the nature and cause of the accusation, and have a copy thereof; to be confronted by the witnesses against him; to have compulsory process for obtaining witnesses in his favor; and, in all prosecutions, by indictment or information, a speedy public trial by an impartial jury of the county or district in which the offense shall have been committed: he shall not be compelled to give evidence against himself, nor shall he be deprived of his life, liberty, or property, but by due course of law.  
 
 ###### Section 11
-No person, shall be accused, arrested, or detained, except in cases ascertained by law, and according to the forms which the same has prescribed; and no person shall be punished, but in virtue of a law, established and promulgated prior to the offence, and legally applied.
+No person shall be accused, arrested, or detained, except in cases ascertained by law, and according to the forms which the same has prescribed; and no person shall be punished, but in virtue of a law, established and promulgated prior to the offense, and legally applied.  
 
 ###### Section 12
-No person shall, for any indictable offence, be proceeded against criminally, by information; except in cases arising in the land or naval forces, or the militia when in actual service, or by leave of the court for oppression or misdemeanor in office.
+No person shall, for any indictable offense, be proceeded against criminally by information; except in cases arising in the land and naval forces, or the militia when in actual service, or by leave of the court, for oppression or misdemeanor in office.  
 
 ###### Section 13
-No person shall, for the same offence, be twice put in jeopardy of life or limb; nor shall any person's property be taken or applied to public use, unless just compensation be made therefor.
+No person shall, for the same offense, be twice put in jeopardy of life or limb; nor shall any person's property be taken or applied to public use, unless just compensation be made therefor.  
 
 ###### Section 14
-All courts shall be open, and every person, for an injury done him in his lands, goods, person, or reputation, shall have remedy by due course of law, and right and justice administered, without sale, denial, or delay.
+All courts shall be open, and every person, for an injury done him, in his lands, goods, person or reputation, shall have remedy by due course of law, and right and justice administered without sale, denial or delay.  
 
 ###### Section 15
-No power of suspending laws shall he exercised, except by the General Assembly, or its authority.
+No power of suspending laws shall be exercised, except by the general assembly, or its authority.  
 
 ###### Section 16
-Excessive bail shall not be required, nor excessive fines imposed, nor cruel punishments inflicted.
+Excessive bail shall not be required, nor excessive fines imposed, nor cruel punishments inflicted.  
 
 ###### Section 17
-All persons shall, before conviction, be bailable by sufficient securities, except for capital offences, when the proof is evident, or the presumption great: and the privilege of the writ of "habeas corpus" shall not be suspended, unless when, in cases of rebellion, or invasion, the public safety may require it.
+All persons shall, before conviction, be bailable by sufficient securities, except for capital offenses, when the proof is evident, or the presumption great; and the privilege of the writ of "habeas corpus" shall not be suspended, unless when, in cases of rebellion, or invasion, the public safety may require it.  
 
 ###### Section 18
-The person of a debtor, where there is not strong presumption of fraud, shall not be detained in prison, after delivering up his estate for the benefit of his creditors, in such manner as shall be prescribed by law.
+The person of a debtor, where there is not strong presumption of fraud, shall not be detained in prison, after delivering up his estate for the benefit of his creditors, in such manner as shall be prescribed by law.  
 
 ###### Section 19
-No ex post facto law, nor law impairing the obligation of contracts, shall be made.
+No *ex post facto* law, nor law impairing the obligations of contracts shall be made.  
 
 ###### Section 20
-No person shall be attainted of treason or felony by the General Assembly. No attainder shall work corruption of blood, nor forfeiture of estate.
+No person shall be attainted of treason or felony by the general assembly. No attainder shall work corruption of blood, nor forfeiture of estate.  
 
 ###### Section 21
-The estates of suicides shall descend or vest as in cases of natural death; if any person shall be killed by casualty, there shall be no forfeiture by reason thereof.
+The estates of suicides shall descend or vest as in cases of natural death; if any person shall be killed by casualty, there shall be no forfeiture by reason thereof.  
 
 ###### Section 22
-The citizens have a right, in a peaceable manner, to assemble together for their common good, and to apply to those invested with the powers of government, for redress of grievances, or other proper purposes, by petition, address, or remonstrance.
+The citizens have a right, in a peaceable manner, to assemble together for their common good, and to apply to those invested with the powers of government for redress of grievances, or other proper purposes, by petition, address, or remonstrance.  
 
 ###### Section 23
-Every citizen has a right to bear arms in defence of himself and the State.
+Every citizen has a right to bear arms in defense of himself and the State.  
 
 ###### Section 24
-No standing army shall be kept up without the consent of the General Assembly; and, in that case, no appropriation of money for its support shall be for a longer term than one year; and the military shall, in all cases, and at all times, be in strict subordination to the civil power.
+No standing army shall be kept up without the consent of the general assembly; and, in that case, no appropriation of money for its support shall be for a longer term than one year; and the military shall, in all cases, and at all times, be in strict subordination to the civil power.  
 
 ###### Section 25
-No soldier shall, in time of peace, be quartered in any house, without the consent of the owner; nor in time of war, but in a manner to be prescribed by law.
+No soldier shall, in time of peace, be quartered in any house, without the consent of the owner; nor in time of war, but in a manner to be prescribed by law.  
 
 ###### Section 26
-No title of nobility, or hereditary distinction, privilege honor, or emolument, shall ever be granted or conferred in this State; nor shall any office be created, the appointment of which shall be for a longer term than during good behaviour.
+No title of nobility, or hereditary distinction, privilege, honor, or emolument, shall ever be granted or conferred in this State; nor shall any office be created, the appointment of which shall be for a longer term than during good behavior.  
 
 ###### Section 27
-Emigration from this state shall not be prohibited, nor shall any citizen be exiled.
+Emigration from this State shall not be prohibited, nor shall any citizen be exiled.  
 
 ###### Section 28
-The right of trial by jury shall remain inviolate.
+The right of trial by jury shall remain inviolate.  
 
 ###### Section 29
-No person shall be debarred from prosecuting or defending any civil cause, for or against him or herself, before any tribunal in this State, by him or herself or counsel.
+No person shall be debarred from prosecuting or defending any civil cause, for or against him or herself, before any tribunal in this State, by him or herself, or counsel.  
 
 ###### Section 30
-This enumeration of certain rights shall not be construed to deny or disparage others retained by the people: and, to guard against any encroachments on the rights herein retained, or any transgression of any of the high powers herein delegated, we declare, that every thing in this article is excepted out of the general powers of government, and shall forever remain inviolate; and that all laws contrary thereto, or to the following provisions, shall be void.
+This enumeration of certain rights shall not be construed to deny or disparage others retained by the people: and to guard against any encroachments on the rights herein retained, or any transgression of any of the high powers herein delegated, we declare, that every thing in this article is excepted out of the general powers of government, and shall forever remain inviolate; and that all laws contrary thereto, or to the following provisions, shall be void.
 
-## Article II
+## Article II  
 ### Distribution of Powers
 ###### Section 1
-The powers of the government of the State of Alabama shall be divided into three distinct departments; and each of them confided to a separate body of magistracy, to wit: those which are legislative, to one; those which are executive, to another; and those which are judicial, to another.
+The powers of the government of the State of Alabama shall be divided into three distinct departments; and each of them confided to a separate body of magistracy, to-wit: those which are legislative to one; those which are executive, to another; and those which are judicial to another.  
 
 ###### Section 2
-No person, or collection of persons, being of one of those departments, shall exercise any power, properly belonging to either of the others, except in the instances herein after expressly directed or permitted.
+No person, or collection of persons, being of one of those departments, shall exercise any power properly belonging to either of the others, except in the instances hereinafter expressly directed or permitted.
 
-## Article III
+## Article III  
 ### Legislative Department
 ###### Section 1
-The Legislative power of this State shall be vested in two distinct branches: the one to be styled the Senate, the other the House of Representatives, and both together, "the General Assembly of the State of Alabama;" and the style of their Laws shall be, "Be it enacted by the Senate and House of Representatives of the State of Alabama, in General Assembly convened."
+The legislative power of this State shall be vested in two distinct branches; the one to be styled the Senate, the other the House of Representatives, and both together "The General Assembly of the State of Alabama"; and the style of their laws shall be, "Be it enacted by the Senate and House of Representatives of the State of Alabama in General Assembly convened."  
 
 ###### Section 2
-The members of the House of Representatives shall be chosen by the qualified electors, and shall serve for the term of one year, from the day of the commencement of the general election, add no longer.
+The members of the House of Representatives shall be chosen by the qualified electors, and shall serve for the term of two years from the day of the commencement of the general election, and no longer.  
 
 ###### Section 3
-The Representatives shall be chosen every year, on the first Monday and the day following in August, until otherwise directed by law.
-
+The representatives shall be chosen every two years, on the first Monday in August, until otherwise directed by law.  
 ###### Section 4
-No person shall be a representative unless he be a white man, a citizen of the United States, and shall have been an inhabitant of this State two years next preceding his election, and the last year thereof a resident of the county, city, or town, for which he shall be chosen, and shall have attained the age of twenty-one years.
+No person shall be a representative, unless he be a white man, a citizen of the State of Alabama, and shall have been an inhabitant of this State two years next preceding his election, and the last year thereof, a resident of the county, city, or town, for which he shall be chosen, and shall have attained the age of twenty-one years.  
 
 ###### Section 5
-Every white male person of the age of twenty-one years, or upwards, who shall be a citizen of the United States, and shall have resided in this State one year next preceding an election, and the last three months within the county, city, or town, in which he offers to vote, shall be deemed a qualified elector: Provided, that no soldier, seaman, or marine, in the regular army or navy of the United States, shall be entitled to vote at any election in this State; and provided, also, that no elector shall be entitled to vote except in the county, city, or town, (entitled to separate representation,) in which he may reside at the time of the election.
-
+Every male white person of the age of twenty-one years, or upwards, who shall be a citizen of this State, and shall have resided therein one year next preceding an election, and the last three months within a county, city, or town, in which he offers to vote, shall be deemed a qualified elector, but no elector shall be entitled to vote except in the county, city, or town, (entitled to separate representation) in which he may reside at the time of the election.  
 ###### Section 6
-Electors shall, in all cases, except in those of treason, felony, or breach of the peace, be privileged from arrest during their attendance at elections, and in going to and returning from the same.
+Electors shall, in all cases, except in those of treason, felony, or breach of the peace, be privileged from arrest during their attendance at elections, and in going to and returning from the same.  
 
 ###### Section 7
-In all elections by the people, the electors shall vote by ballot until the General Assembly shall otherwise direct.
+In all elections by the people, the electors shall vote by ballot, until the general assembly shall otherwise direct.  
 
 ###### Section 8
-Elections for Representatives for the several counties shall be held at the place of holding their respective courts, and at such other places as may be prescribed by law: Provided that, when it shall appear to the General Assembly that any city or town shall have a number of white inhabitants equal to the ratio then fixed, such city or town shall have a separate representation, according to the number of white inhabitants therein; which shall be retained so long as such city or town shall contain a number of white inhabitants equal to the ratio which may from time to time be fixed by law; and thereafter, and during the existence of the right of separate representation, in such city or town, elections for the county in which such city or town (entitled to such separate representation) is situated, shall not be held in such city or town; but it is understood and hereby declared, that no city or town shall be entitled to separate representation unless the number of white inhabitants in the county in which such city or town is situated, residing out of the limits of said city or town, be equal to the existing ratio; or unless the residuum or fraction of such city or town shall, when added to the white inhabitants of the county residing out of the limits of said city or town, he equal to the ratio fixed by law for one representative; and provided, that, if the residuum or fraction of any city or town, entitled to separate representation, shall, when added to the residuum of the county in which it may lie, be equal to the ratio fixed by law for one representative, then the aforesaid county, city, or town, having the largest residuum, shall be entitled to such representation: and provided, also, that when there are two or more counties adjoining, which have residuums or fractions over and above the ratio then fixed by law, if said residuums or fractions, when added together, will amount to such ratio, in that case one representative shall be added to that county having the largest residuum.
+Elections for representatives for the several counties shall be held at the place of holding their respective courts, and at such other places as may be prescribed by law: *Provided,* That when it shall appear to the general assembly, that any city or town shall have a number of white inhabitants equal to the ratio then fixed, such city or town shall have a separate representation, according to the number of white inhabitants therein; which shall be retained so long as such city or town shall contain a number of white inhabitants, equal to the ratio which may from time to time be fixed by law; and thereafter, and during the existence of the right of separate representation, in such city or town, elections for the county in which such city or town (entitled to such separate representation) is situated, shall not be held in such city or town: but it is understood, and hereby declared, that no city or town shall be entitled to separate representation , unless the number of white inhabitants in the county in which such city or town is situated, residing out of the limits of such city or town, be equal to the existing ratio or unless the residuum or fraction of such city or town shall, when added to the white inhabitants of the county, residing out of the limits of said city or town, be equal to the ratio fixed by law for one representative; *and, provided,* that, if the residuum or fraction of any city or town, entitled to separate representation, shall, when added to the residuum of the county in which it may lie, be equal to the ratio fixed by law for one representative, then the aforesaid county, city or town, having the largest residuum, shall be entitled to such representation: *and, provided, also,* that where there are two or more counties adjoining, which have residuums or fractions over and above the ratio then fixed by law, if said residuums or fractions, when added together, will amount to such ratio, in that case one representative shall be added to that county having the largest residuum.  
 
 ###### Section 9
-The General Assembly shall, at their first meeting and in the years one thousand eight hundred and twenty, one thousand eight hundred and twenty-three, one thousand eight hundred and twenty-six, and every six years thereafter, cause an enumeration to be made of all the inhabitants of the State, and the whole number of the representatives shall, at the first session held, after making every such enumeration, be fixed by the General Assembly, and apportioned among the several counties, cities, or towns, entitled to separate representation, according to their respective numbers of white inhabitants; and the said apportionment, when made, shall not be subject to alteration, until after the next census shall be taken. The House of Representatives shall not consist of less than forty-four, nor more than sixty members, until the number of white inhabitants shall be one hundred thousand, and, after that event, the whole number of representatives shall never be less than sixty nor more than one hundred; Provided, however, that each county shall be entitled to at least one representative.
+The General Assembly shall cause an enumeration to made in the year eighteen hundred and fifty, and eighteen hundred and fifty-five, and every ten years thereafter, of all the white inhabitants of this State; and the whole number of representatives shall, at the first regular session after such enumeration, be apportioned among the several counties, cities, or towns, entitled to separate representation, according to their respective number of white inhabitants, and the said apportionment, when made, shall not be subject to alteration until after the next census shall be taken.  
 
 ###### Section 10
-The General Assembly shall, at the first session after making every such enumeration, fix by law the whole number of senators, and shall divide the state into the same number of districts, as nearly equal in the number of white inhabitants as may be, each of which districts shall be entitled to one senator and no more; provided that the whole number of senators shall never be less than one fourth, nor more than one third of the whole number of representatives.
+The general assembly shall, at the first session after making every such enumeration, fix by law the whole number of senators, and shall divide the State into the same number of districts, as nearly equal in the number of white inhabitants as may be, each of which districts shall be entitled to one senator, and no more: *Provided* , that the whole number of senators shall never be less than one-fourth, nor never more than one-third, of the whole number of representatives.  
 
 ###### Section 11
-When a senatorial district shall be composed of two or more counties, the counties of which such district consists shall not be entirely separated by any county belonging to another district; and no county shall be divided in forming a district.
+When a senatorial district shall be composed of two or more counties, the counties of which such district consists, shall not be entirely separated by any county belonging to another district; and no county shall be divided in forming a district.  
 
 ###### Section 12
-Senators shall be chosen by the qualified electors, for the term of three years, at the same time, in the same manner, and at the same places, where they may vote for Members of the House of Representatives; and no person shall be a Senator unless he be a white man, a citizen of the United States, and shall have been an inhabitant of this State two years next preceding his election, and the last year thereof a resident of the district for which he shall be chosen, and shall have attained to the age of twenty-seven years.
+Senators shall be chosen by the qualified electors, for the term of four years, at the same time, and in the same manner, and at the places where they may vote for members of the House of Representatives; and no person shall be a senator, unless he be a white man, a citizen of the State, and an inhabitant thereof two years next preceding his election, and the last year thereof, a resident of the district for which he shall be chosen; and shall have attained to the age of twenty-seven years.  
 
 ###### Section 13
-The Senators chosen according to the apportionment under the census ordered to be taken in one thousand eight hundred and twenty-six, when convened, shall be divided by lot into three classes, as nearly equal as may be. The seats of the Senators of the first class shall be vacated at the expiration of the first year, those of the second class at the expiration of the second year, and those of the third class at the expiration of the third year, so that one third may be annually chosen thereafter, and a rotation thereby kept up perpetually. Such mode of classifying new additional Senators shall be observed as will, as nearly as possible, preserve an equality of members in each class.
+Senators shall be chosen for the term of four years; yet, at the general election after every new apportionment, elections shall be held anew in every senatorial district; and the senators elected, when convened at the first session, shall be divided by lot into two classes, as nearly equal as may be: the seats of those of the first class shall be vacated at the expiration of two years, and those of the second class at the expiration of four years, dating in both cases from the day of election, so that one half may be biennially chosen, except as above provided.  
 
 ###### Section 14
-The House of Representatives, when assembled, shall choose a Speaker, and its other officers; and the Senate shall annually choose a President and its other officers. Each house shall judge of the qualifications, elections, and returns, of its own members; but a contested election shall be determined in such a manner as shall be directed by law.
+The House of Representatives, when assembled, shall choose a speaker, and its other officers; and the Senate shall choose a President and its other officers, biennially: each house shall judge of the qualifications, elections and returns of its own members; but a contested election shall be determined in such manner as shall be directed by law.  
 
 ###### Section 15
-A majority of each house shall constitute a quorum to do business, but a smaller number may adjourn from day to day, and may compel the attendance of absent members, in such manner, and under such penalties, as each House may provide.
+A majority of each house constitute a quorum to do business, but a smaller number may adjourn from day to day, and may compel the attendance of absent members, in such manner and under such penalties, as each house may provide.  
 
 ###### Section 16
-Each House may determine the rules of its own proceedings, punish members for disorderly behavior, and, with the consent of two thirds, expel a member; but not a second time for the same cause; and shall have all other powers necessary for branch of the legislature of a free and independent State.
+Each house may determine the rules of its own proceedings, punish members for disorderly behavior, and, with the consent of two-thirds, expel a member; but not a second time for the same cause; and shall have all other powers necessary for a branch of the legislature of a free and independent State.  
 
 ###### Section 17
-Each House, during the session, may punish, by imprisonment, any person, not a member, for disrespectful or disorderly behavior in its presence, or for obstructing any of its proceedings: provided, that such imprisonment shall not, at any one time, exceed forty-eight hours.
+Each house, during the session, may punish by imprisonment, any person, not a member, for disrepectful or disorderly behavior in its presence, or for obstructing any of its proceedings: *Provided* , that such imprisonment shall not at any one time, exceed forty-eight hours.  
 
 ###### Section 18
-Each house shall keep a journal of its proceedings, and cause the same to be published immediately after its adjournment, excepting such parts as, in its judgment, may require secrecy; and the yeas and nays of the members of either house, on any question, shall, at the desire of any two members present, be entered on the journals. And any member of either house shall have liberty to dissent from or protest against any act or resolution which he may think injurious to the public or an individual, and have the reasons of his dissent entered on the Journals.
+Each house shall keep a journal of its proceedings, and cause the same to be published immediately after its adjournment, excepting such parts as, in its judgment, may require secrecy; and the yeas and nays of the members of either house, on any question, shall at the desire of one tenth of the members, be entered on the journals. Any member of either house shall have liberty to dissent from, or protest against, any act or resolution, which he may think injurious to the public or an individual, and have the reasons of his dissent entered on the journals.  
 
 ###### Section 19
-Senators and Representatives shall, in a11 cases, except treason, felony, or breach of the peace, be privileged from arrest during the session of the General Assembly, and in going to and returning from the same; allowing one day for every twenty miles such member may reside from the place at which the General Assembly is convened; nor shall any member be liable to answer for any thing spoken in debate in either House, in any court or place elsewhere.
+Senators and Representatives shall, in all cases, except treason, felony or breach of the peace, be privileged from arrest, during the session of the General Assembly, and in going to and returning from the same; allowing one day for every twenty miles such member may reside from the place at which the General Assembly is convened; nor shall any member be liable to answer for any thing spoken in debate in either house, in any court or place elsewhere.  
 
 ###### Section 20
-When vacancies happen in either House, the Governor, or the person exercising the powers of the Governor, shall issue writs of election to fill such vacancies.
+When vacancies happen in either house, the Governor, or the person exercising the powers of the Governor, shall issue writs of election to fill vacancies.  
 
 ###### Section 21
-The doors of each House shall be open, except on such occasions as, in the opinion of the House, may require secrecy.
+The doors of each house shall be open, except on such occasions, as in the opinion of the house, may require secrecy.  
 
 ###### Section 22
-Neither house shall, without the consent of the other, adjourn for more than three days, nor to any other place than that in which they may be sitting.
+Neither house shall, without the consent of the other, adjourn for more than three days, nor to any other place than that in which they may be sitting.  
 
 ###### Section 23
-Bills may originate in either House, and be amended, altered, or rejected, by the other; but no bill shall have the force of a law until on three several days it be read in each House, and free discussion be allowed thereon, unless, in cases of urgency, four-fifths of the House in which the bill shall be depending may deem it expedient to dispense with this rule; and every bill, having passed both Houses, shall be signed by the Speaker and President of their respective Houses: provided, that all bills for raising revenue shall originate in the House of Representatives, but the Senate may amend or reject them as other bills.
+Bills may originate in either house, and be amended, altered, or rejected, by the other; but no bill shall have the force of a law, until on three several days it be read in each house; and free discussion be allowed thereon; unless, in case of urgency, four-fifths of the house, in which the bill shall be depending, may deem it expedient to dispense with this rule: and every bill, having passed both houses, shall be signed by the Speaker and President of their respective houses: *Provided* , that all bills for raising revenue shall originate in the House of Representatives, but the Senate may amend or reject them as other bills.  
 
 ###### Section 24
-Each member or the General Assembly shall receive from the public treasury such compensation for his services as may be fixed by law; but no increase of compensation shall take effect during the session at which such increase shall have been made.
+Each member of the General Assembly shall receive from the public treasury, such compensation for his services, as may be fixed by law; but no increase of compensation shall take effect during the session at which such increase shall have been made.  
 
 ###### Section 25
-No Senator or representative shall, during the term for which he shall have been elected, be appointed to any civil office of profit under this state, which shall have been created, or the emoluments of which shall have been increased, during said term; except such offices as may be filled by elections by the people.
+No Senator or Representative shall during the term for which he shall have been elected, be appointed to any civil office of profit under this State; except such offices as may be filled by elections by the people.  
 
 ###### Section 26
-No person holding any lucrative office under the United States, (the office of postmaster excepted,) this state, or any other power, shall be eligible to the General Assembly: provided, that offices in the militia, to which there is attached no annual salary, or the office of justice of the peace, or that of the quorum or county court, while it has no salary, shall not be deemed lucrative.
+No person holding any lucrative office under this State, or any other power, the office of Postmaster, offices in the militia to which there is attached no annual salary, justices of the peace, commissioners of the Court of County Commissioners, notary public, and commissioner of deeds excepted, shall be eligible to the General Assembly of this State.  
 
 ###### Section 27
-No person who may hereafter be a collector or holder of public moneys, shall have a seat in either house of the General Assembly, or be eligible to any office of trust or profit under this State, until he shall have accounted for, and paid into the treasury, all sums for which he may be accountable.
+No person who may hereafter be a collector or holder of public moneys, shall have a seat in either house of the General Assembly, or be eligible to any office of trust or profit under this State, until he shall have accounted for, and paid into the treasury, all sums for which he may be accountable.  
 
 ###### Section 28
-The first election for Senators and Representatives shall be general throughout the State; and shall be held on the third Monday and Tuesday in September next.
+The General Assembly shall meet annually, on such day as may be provided by law, and may continue in session not more than thirty days. The next session of the General Assembly shall commence on the second Monday in November, eighteen hundred and sixty-one.  
 
 ###### Section 29
-The first session of the General Assembly shall commence on the fourth Monday in October next, and be held at the town of Huntsville, and all subsequent sessions at the town of Cahawba, until the end of the first session of the General Assembly, to be held in the year one thousand eight hundred and twenty-five: during that session the General Assembly shall have power to designate by law (to which the Executive concurrence shall not be required) the permanent seat of Government, which shall not thereafter be changed; Provided, however, that, unless such designation be then made by law, the government shall continue permanently at the town of Cahawba; and provided, also, that the General Assembly shall make no appropriations previous to the year one thousand eight hundred and twenty-five, for the building of any other State House than that now provided for by law.
+No special law shall be enacted for the benefit of individuals or private corporations, in cases which are provided for by a general law, or where the relief sought, can be given by any court of this State.  
 
-## Article IV
+###### Section 30
+Private property shall not be taken for private use, or for the use of corporations, other than municipal, without the consent of the owner; but the right of way may be secured by law, to persons and corporations, over the lands of persons and corporations; also, the right to establish depots, stations and turn-outs to works of public improvement: *Provided* , just compensation is made to the owner of such land.  
+
+###### Section 31
+No power to levy taxes shall be delegated to individuals or private corporations.  
+
+###### Section 32
+Taxes shall not be levied for the benefit of individuals or corporations, other than municipal corporations, without the consent of the tax-payer; but this section shall not be so construed as to effect the power of the General Assembly to perfect or secure any right or privilege arising under any existing law of this State; and no right or privilege arising under any existing law of this State, shall be affected by this section.  
+
+###### Section 33
+The General Assembly shall not borrow or raise money on the credit of the State, except for purposes of military defense against actual or threatened invasion, rebellion, or insurrection, unless two-thirds of the members elected to each house, shall concur; nor shall the debts or liabilities of any corporation, person or persons, or other State be guaranteed; or any money, credit or thing loaned, or given away, unless by a like concurrence of each house, voting, in cases provided for in this section, by *ayes* and *nays* to be placed upon the journals.
+
+## Article IV  
 ### Executive Department
 ###### Section 1
-The supreme executive power of this State shall be vested in a chief magistrate, who shall be styled the Governor of the State of Alabama.
+The supreme executive power of this State shall be vested in a chief magistrate, who shall be styled the Governor of the State of Alabama.  
 
 ###### Section 2
-The Governor shall be elected by the qualified electors, at the time and places when they shall respectively vote for Representatives.
+The Governor shall be elected by the qualified electors, at the time and places when they shall respectively vote for Representatives.  
 
 ###### Section 3
-The returns of every election for Governor shall be sealed up, and transmitted to the seat of government, directed to the Speaker of the House of Representatives, who shall, during the first week of the session, open and publish them in presence of both Houses of the General Assembly. The person having the highest number of votes shall be Governor; but if two, or more, shall be equal and the highest in votes, one of them shall be chosen Governor by the joint vote of both Houses. Contested elections for Governor shall be determined by both Houses of the General Assembly, in such manner as shall be prescribed by law.
+The returns of every election for Governor, shall be sealed up, and transmitted to the seat of government, directed to the speaker of the House of Representatives, who shall, during the first week of the session, open and publish them in presence of both houses of the General Assembly. The person having the highest number of votes shall be Governor, but if two or more shall be equal and highest in votes, one of them shall be chosen Governor by the joint vote of both houses. Contested elections for Governor shall be determined by both houses of the General Assembly, in such manner as shall be prescribed by law.  
 
 ###### Section 4
-The Governor shall hold his office for the term of two years from the time of his installation, and until his successor shall be duly qualified; but shall not be eligible for more than four years in every term of six years; he shall be at least thirty years of age, shall be a native citizen of the United States, and shall have resided in this state at least four years next preceding the day of his election.
+The Governor shall hold his office for the term of two years, from the time of his installation, and until his successor shall be qualified; but shall not be eligible for more than four years in any term of six years; he shall be at least thirty years of age, shall be a citizen of the State of Alabama, and native of one of the States of the Territories, lately styled the United States of America.  
 
 ###### Section 5
-He shall, at stated times, receive a compensation for his services, which shall not be increased or diminished during the term for which he shall have been elected.
+He shall, at stated times, receive a compensation for his services, which shall not be increased or diminished during the term for which he shall have been elected.  
 
 ###### Section 6
-He shall be commander in chief of the army and navy of this State, and of the militia thereof, except when they shall be called into the service of the United States. And when acting in the service of the United States, the General Assembly shall fix his rank.
+He shall be commander-in-chief of the army and navy of this State, except when acting with any other power, in which case, the General Assembly shall fix his rank.  
 
 ###### Section 7
-He may require information, in writing, from the officers in the executive department, on any subject relating to the duties of their respective offices.
+He may require information in writing from the officers of the executive department, on any subject relating to the duties of their respective offices.  
 
 ###### Section 8
-He may, by proclamation, on extraordinary occasions, convene the General Assembly at the seat of government, or at a different place, if that shall have become, since their last adjournment, dangerous from an enemy, or from contagious disorders; and in case of disagreement between the two houses with respect to the time of adjournment, he may adjourn them to such time as he shall think proper, not beyond the day of the next annual meeting of the General Assembly.
+He may, by proclamation, on extraordinary occasions, convene the General Assembly at the seat of government, or at a different place, if that shall have become, since their last adjournment, dangerous from an enemy , or from contagious disorders; in case of disagreement between the two houses, with respect to the time of adjournment, he may adhourn them to such time as he shall think proper, not beyond the day of the next annual meeting of the General Assembly.
 
 ###### Section 9
-He shall, from time to time, give to the General Assembly information of the state of the government, and recommend to their consideration such measures as he may deem expedient.
+He shall, from time to time, give to the General Assembly, information of the state of the government, and recommend to their consideration such measures as he may deem expedient.  
 
 ###### Section 10
-He shall take care that all the laws be faithfully executed.
+He shall take care that the laws be faithfully executed.  
 
 ###### Section 11
-In all criminal and penal cases, except in those of treason and impeachment, he shall have power to grant reprieves and pardons, and remit fines and forfeitures, under such rules and regulation as shall be prescribed by law. In cases of treason, he shall have power, by and with the advice and consent of the Senate, to grant reprieves and pardons; and he may, in the recess of the Senate, respite the sentence until the end of the next session of the General Assembly.
+In all criminal and penal cases, except in those of treason and impeachment, he shall have power to grant reprieves and pardons, and remit fines and forfeitures, under such rules and regulations as shall be prescribed by law. In cases of treason, he shall have power, by, and with the advice and consent of the Senate, to grant reprieves and pardons; and he may in the recess of the Senate, respite the sentence until the end of the next session of the General Assembly.  
 
 ###### Section 12
-There shall be a seal of this State, which shall be kept by the Governor, and used by him officially; and the present seal of the Territory shall be the seal of the State, until otherwise directed by the General Assembly.
+There shall be a Seal of this State, which shall be kept by the Governor, and used by him officially.  
 
 ###### Section 13
-All commissions shall be in the name and by the authority of the State of Alabama, be sealed with the state seal, signed by the Governor, and attested by the Secretary of State.
+All commissions shall be in the name, and by the authority of the State of Alabama, be sealed with the State Seal, signed by the Governor, and attested by the Secretary of State.  
 
 ###### Section 14
-There shall be a Secretary of State appointed by joint vote of both Houses of the General Assembly, who shall continue in office during the term of two years. He shall keep a fair register of all official acts and proceedings of the Governor, and shall, when required, lay the same, and all papers, minutes, and vouchers, relative thereto, before the General Assembly; and shall perform such other duties as may be required of him by law.
+There shall be a Secretary of State, appointed by a joint vote of both houses of the General Assembly, who shall continue in office during the term of two years. He shall keep a fair register of all official acts and proceedings of the Governor, and shall, when required, lay the same, and all papers, minutes and vouchers relative thereto, before the General Assembly; and shall perform such other duties as may be required of him by law.  
 
 ###### Section 15
-Vacancies that may happen in offices, the appointment to which is vested in the General Assembly, shall be filled by the Governor, during the recess of the General Assembly, by granting commissions, which shall expire at the end of the next session.
+Vacancies that may happen in offices, the appointment of which is vested in the General Assembly, shall be filled by the Governor, during the recess of the General Assembly, by granting commissions, which shall expire at the end of the next session.  
 
 ###### Section 16
-Every bill which shall have passed both Houses of the General Assembly shall be presented to the Governor; if he approve he shall sign it, but, if not, he shall return it, with his objections, to the House in which it shall have originated, who shall enter the objections, at large, upon the journals, and proceed to reconsider it; if, after such reconsideration, a majority of the whole number elected to that House shall agree to pass the bill, it shall be sent, with the objections, to the other House, by which it shall likewise be reconsidered, if approved by a majority of the whole number elected to that House, it shall become a law; but in such cases the votes of both Houses shall be determined by yeas and nays, and the names of the members voting for or against the bill shall be entered on the journals of each House respectively. If any bill shall not be returned by the Governor within five days, Sundays excepted, after it shall have been presented to him, the same shall be a law in like manner as if he had signed it, unless the General Assembly, by their adjournment, prevent its return, in which case, it shall not be a law.
+Every bill which shall have passed both houses of the General Assembly, shall be presented to the Governor; if he approve, he shall sign it, but if not, he shall return it with his objections, to the house in which it shall have originated, who shall enter the objections at large upon the journals, and proceed to reconsider it; if after such reconsideration, a majority of the whole number elected to that house shall agree to pass the bill, it shall be sent, with the objections, to the other house, by which it shall likewise be reconsidered; if approved by a majority of the whole number elected to that house, it shall become a law: but in such cases, the votes of both houses shall be determined by *yeas* and *nays* , and the names of the members voting for or against the bill shall be entered on the journals of each house respectively: if any bill shall not be returned by the Governor within five days, Sundays excepted, after it shall have been presented to him, the same shall be a law in like manner as if he had signed it, unless the General Assembly, by their adjournment, prevent its return, in which case it shall not be a law.  
 
 ###### Section 17
-Every order, resolution, or vote, to which the concurrence of both Houses may be necessary, except on questions of adjournment, shall be presented to the Governor, and, before it shall take effect, be approved by him, or, being disapproved, shall be repassed by both Houses, according to the rules and limitations prescribed in the case of a bill.
+Every order, resolution, or vote, to which the concurrence of both houses may be necessary, except on questions of adjournment, shall be presented to the Governor, and, before it shall take effect, be approved by him, or being disapproved, shall be repassed by both houses, according to the rules and limitations prescribed in the case of a bill.  
 
 ###### Section 18
-In case of the impeachment of the Governor, his removal from office, death, refusal to qualify, resignation, or absence from the state, the President of the Senate shall exercise all the power and authority appertaining to the office of Governor, until the time pointed out by this constitution for the election of Governor shall arrive, unless the General Assembly shall provide, by law, for the election of a Governor, to fill such vacancy, or until the Governor absent or impeached shall return or be acquitted.
+In case of the impeachment of the Governor, his removal from office, death, refusal to qualify, resignation, or absence from the State, the President of the Senate shall exercise all the power and authority appertaining to the office of Governor, until the time, pointed out by this Constitution for the election of Governor, shall arrive, unless the General Assembly shall provide by law for the election of a Governor to fill such vacancy, or until the Governor absent or impeached, shall return or be acquitted.  
 
 ###### Section 19
-If, during the vacancy of the office of Governor, the President of the Senate shall be impeached, removed from office, refuse to qualify, resign, die, or be absent from the state, the Speaker of the House of Representatives shall, in like manner, administer the government.
+If, during the vacancy of the office of Governor, the President of the Senate shall be impeached, removed from office, refuse to qualify, resign, die, or be absent from the State, the Speaker of the House of Representatives, shall, in like manner, administer the government. If there is no President of the Senate, or no Speaker of the House of Representatives, the Secretary of State shall exercise all the duties and powers appertaining to the office of Governor, until the office of Governor is filled, as provided by this Constitution.  
 
 ###### Section 20
-The President of the Senate and Speaker of the House of Representatives, during the time they respectively administer the government, shall receive the same compensation which the Governor would have received, had he been employed in the duties of his office.
+The President of the Senate and Speaker of the House of Representatives, and the Secretary of State, during the times they respectively administer the government, shall receive the same compensation which the Governor would have received, had he been employed in the duties of his office.  
 
 ###### Section 21
-The Governor shall always reside, during the session of the General Assembly, at the place where their session may be held, and at all other times, wherever, in their opinion, the public good require.
+The Governor shall always reside during the session of the General Assembly, at the place where their session may be held, and at all other times, wherever, in their opinion, public good may require.  
 
 ###### Section 22
-No person shall hold the office of Governor, and any other office or commission, civil or military, either in this state, or under any state, or the United States, or any other power, at one and the may same time.
+No person shall hold the office of Governor, and any other office or commission, civil or military, either in this State, or under any State, or any other power, at one and the same time.  
 
 ###### Section 23
-A state Treasurer and a Comptroller of public accounts shall be annually elected, by joint vote of both Houses of the General Assembly.
+A State Treasurer and a Comptroller of public accounts, shall be biennially elected by joint vote of both houses of the General Assembly.  
 
 ###### Section 24
-A sheriff shall be elected in each county by the qualified electors thereof, who shall hold his office for the term of three years, unless sooner removed, and who shall not be eligible to serve either as principal or deputy for the three succeeding years. Should a vacancy occur subsequent to an election, it shall be filled by the Governor, as in other cases, and the person so appointed shall continue in office until the next general election, when such vacancy shall be filled by the qualified electors, and the sheriff then elected shall continue in office for three years.
+A sheriff shall be elected in each county by the qualified electors thereof, who shall hold his office for the term of three years, unless sooner removed, and who shall not be eligible to serve either as principal or deputy, for the three succeeding years. Should a vacancy occur subsequent to an election, it shall be filled by the Governor, as in other cases, and the person so appointed shall continue in office until the next general election, when such vacancy shall be filled by the qualified electors, and the sheriff then elected shall continue in office for three years.
 
-### Militia
+### Militia
 ###### Section 1
-The General Assembly shall provide, by law, for organizing and disciplining the militia of this state, in such manner as they shall deem expedient, not incompatible with the constitution and laws of the United States in relation thereto.
+The General Assembly shall provide by law for organizing and disciplining the militia of this State.  
 
 ###### Section 2
-Any person who conscientiously scruples to bear arms shall not be compelled to do so, but shall pay an equivalent for personal service.
+Any person who conscientiously scruples to bear arms shall not be compelled to do so, but shall pay an equivalent for personal service.  
 
 ###### Section 3
-The Governor shall have power to call forth the militia to execute the laws of the state, to suppress insurrections, and repel invasions.
+The Governor shall have power to call forth the militia to execute the laws of the State, to suppress insurrections, and repel invasions.  
 
 ###### Section 4
-All officers of the militia shall be elected or appointed in such manner as may be prescribed by law: Provided, that the General Assembly shall not make any such elections or appointment, other than those of Adjutants General and Quarter Masters General.
+All officers of the militia shall be elected or appointed in such manner as may be prescribed by law: *Provided* , that the General Assembly shall not make any such elections or appointments, other than those of adjutants-general, and quarter-masters general.  
 
 ###### Section 5
-The Governor shall appoint his Aids-de-camp; Majors General, their Aids-de-camp, and all other division staff officers; Brigadiers General shall appoint their Aids, and all other brigade staff officer; and Colonels shall appoint their regimental staff officers.
+The Governor shall appoint his aids-de-camp; majors general, their aids-de-camp, and all division and staff officers; brigadiers general shall appoint their aids, and all other brigade staff officers; and colonels shall appoint their regimental staff officers.  
 
 ###### Section 6
-The General Assembly shall fix, by law, the method of dividing the militia into divisions, brigades, regiments, battalions, and companies: and shall fix the rank of all staff officers.
+The General Assembly shall fix, by law, the method of dividing the militia into divisions, brigades, regiments, battalions, and companies; and shall fix the rank of all staff officers.
 
-## Article V
+## Article V  
 ### Judicial Department
 ###### Section 1
-The judicial power of this state shall be vested in one Supreme Court, circuit courts to be held in each county in the state, and such inferior courts of law and equity, to consist of not more than five members, as the General Assembly may, from time to time, direct, ordain, and establish.
+The judicial power of this State shall be vested in one Supreme Court, Circuit Courts to be held in each county in the State, and such inferior courts of law and equity, to consist of not more than five members, as the General Assembly may, from time to time, direct, ordain and establish.  
 
 ###### Section 2
-The supreme court, except in cases otherwise directed by this constitution, shall have appellate jurisdiction only, which shall be co-extensive with the state, under such restrictions and regulations, not repugnant to this constitution, as may, from time to time, be prescribed by law; Provided, that the supreme court shall have power to issue writs of injunction, mandamus, quo-warranto, habeas corpus, and such other remedial and original writs, as may be necessary to give it a general superintendence and control of inferior jurisdiction.
+The Supreme Court, except in cases otherwise directed by this Constitution, shall have appellate jurisdiction only, which shall be co-extensive with the State, under such restrictions and regulations, not repugnant to this Constitution, as may from time to time, be prescribed by law: *Provided* , that the Supreme Court shall have power to issue writs of *injunction, mandamus, quo warranto, habeas corpus* , and such other remedial and original writs as may be necessary to give it a general superintendence and control of inferior jurisdiction.  
 
 ###### Section 3
-Until the General Assembly shall otherwise prescribe, the powers of the supreme court shall be vested in, and its duties shall be performed by, the Judges of the several circuit courts, within this state: and they or a majority of them shall hold such sessions of the Supreme court, and at such times, as may be directed by law: Provided, that no Judge of the Supreme Court shall be appointed before the commencement of the first session of the General Assembly, which shall be begun and held after the first day of January, in the year one thousand eight hundred and twenty-five.
+The Supreme Court shall be holden at the seat of government, but may adjourn to a different place, if that shall have become dangerous from an enemy or from disease.  
 
 ###### Section 4
-The Supreme Court shall be holden at the seat of government, but may adjourn to a different place, if that shall have become dangerous from an enemy or from disease.
+The State shall be divided into convenient circuits, and each circuit shall contain not less than three, nor more than six counties; and for each circuit there shall be appointed a Judge, who shall, after his appointment, reside in the circuit for which he may be appointed.  
 
 ###### Section 5
-The State shall be divided into convenient circuits, and each circuit shall contain not less than three, nor more than six counties: and for each circuit there shall be appointed a judge, who shall, after his appointment, reside in the circuit for which he may be appointed.
+The Circuit Court shall have original jurisdiction in all matters, civil and criminal, within this State, not otherwise excepted in this Constitution; but in civil cases, only where the matter or sum in controversy exceeds fifty dollars.  
 
 ###### Section 6
-The Circuit Court shall have original jurisdiction in all matters, civil and criminal, within this State, not otherwise excepted in this constitution: but, in civil cases, only when the matter or sum in controversy exceeds fifty dollars.
+A Circuit Court shall be held in each county in the State, at least twice in every year, and the judges of the several Circuit Courts may hold courts for each other, when they may deem it expedient, and shall do so when directed by law.  
 
 ###### Section 7
-A Circuit Court shall be held in each county in the State, at least twice in every year, and the judges of the several circuit courts may hold courts for each other, when they may deem it expedient, and shall do so when directed by law.
+The General Assembly shall have power to establish a Court or Courts of Chancery, with original and appellate jurisdiction; *Provided,* that the judges of the several circuit courts shall have power to issue writs of injunction, returnable into the Courts of Chancery.  
 
 ###### Section 8
-The General Assembly shall have power to establish a court or courts of chancery with original and appellate equity jurisdiction: and, until the establishment of such court or courts, the said jurisdiction shall be vested in the judges of the circuit courts respectively: Provided that the judges of the several circuit courts shall have power to issue writs of injunction, returnable into the courts of chancery.
+The General Assembly shall have power to establish, in each county within this State, a Court of Probate, for the granting of letters testamentary, and of administration, and for orphans' business.  
 
 ###### Section 9
-The General Assembly shall have power to establish, in each county within this State, a court of probate, for the granting of letters testamentary and of administration, and for orphans' business.
+A competent number of Justices of the Peace shall be appointed in and for each county, in such mode and for such term of office as the General Assembly may direct. Their jurisdiction in civil cases shall be limited to causes in which the amount in controversy shall not exceed fifty dollars; and in all cases tried by a Justice of the Peace, right of appeal shall be secured, under such rules and regulations as may be prescribed by law.  
 
 ###### Section 10
-A competent number of Justices of the Peace shall be appointed, in and for each county, in such mode, and for such term of office, as the General Assembly may direct. Their jurisdiction in civil cases shall be limited to causes in which the amount in controversy shall not exceed fifty dollars. And in all cases tried by a Justice of the Peace, right of appeal shall be secured, under such rules and regulations as may be prescribed by law.
+Judges of the Supreme and Circuit Courts, and Courts of Chancery, shall, at stated times, receive for their services a compensation, which shall be fixed by law, and shall not be diminished during their continuance in office; but they shall receive no fees or perquisites of office, nor hold any other office of profit or trust under this State, or any other power.  
 
 ###### Section 11
-Judges of the Supreme and Circuit Courts, and Courts of Chancery, shall, at stated times, receive for their services a compensation, which shall be fixed by law, and shall not be diminished during their continuance in office: but they shall receive no fees or perquisites of office, nor hold any other office of profit or trust under this State, the United States, or any other power.
+Chancellors and Judges of the Supreme Court shall be elected by joint vote of both houses of the General Assembly; but at and after the session of the General Assembly, to be held in the winter of the year eighteen hundred and forty-nine-fifty, the General Assembly shall provide by law for the election of judges of the circuit Courts, by the qualified electors of their circuits respectively, and for the election of Judges of the Courts of Probate, and other inferior courts, (not including Chancellors) by the qualified electors of the counties, cities, or districts, for which such courts may be respectively established; the first Monday in November in any year shall be the day for any election of such judges by the people, or such other day not to be within a less period than two months of the general election for Governor, members of the General Assembly, or members of Congress, as the General Assembly may by law prescribe; but no change to be made in any circuit, or district, or in the mode or time of electing, shall affect the right of any Judge to hold office during the term prescribed by the Constitution, except at the first election thereof, to be made by the people, after the ratification of these amendments or either of them, which elections shall then, all be had on the same day throughout the State, and the terms of the Judges then to be elected, shall commence on that day; vacancies in the office of Judge, shall be filled by the Governor, and the persons appointed thereto by him, shall hold until the next first Monday in November, or other election day of Judges, and until the election and qualification of their successors respectively; and the General Assembly have power to annex to the offices of any of the Judges of the inferior courts the duties of clerks of such courts respectively.  
 
 ###### Section 12
-Chancellors, Judges of the Supreme Court, Judges of the Circuit Courts, and Judges of the Inferior Courts, shall be elected by joint vote of both Houses of the General Assembly.
+The Judges of the several courts of this State, shall hold their offices for the term of six years; and for wilful neglect of duty, or other reasonable cause, which shall not be sufficient ground for impeachment, the Governor shall remove any of them on the address of two-thirds of each house of the General Assembly; *Provided* , however, that the cause or causes for which such removal shall be required, shall be stated at length in such address, and entered on the journals of each house; *And provided, further,* That the cause or causes shall be notified to the Judge so intended to be removed, and he shall be admitted to a hearing in his own defense, before any vote for such address shall pass; and in all such cases the vote shall be taken by *yeas* and *nays* , and entered on the journal of each house, respectively; *And provided, also,* That the Judges now in office may hold their offices until the session of the General Assembly, which shall be held in the year one thousand eight hundred and thirty-three, and until their successors shall be elected and qualified, unless removed by address or impeachment.  
 
 ###### Section 13
-The Judges of the several Courts in this State shall hold their offices during good behavior; and, for wilful neglect of duty, or other reasonable cause, which shall not be sufficient ground for impeachment, the Governor shall remove any of them, on the address of two thirds of each House of the General Assembly; provided, however, that the cause or causes for which such removal shall be required, shall be stated at length in such address, and entered on the journals of each House; and provided further, that the cause or causes shall be notified to the judge so intended to be removed, and he shall be admitted to a hearing in his own defence, before any vote for such address shall pass; and in all such cases the vote shall be taken by yeas and nays, and entered on the journals of each House respectively; and provided, also, that the judges of the several circuit courts who shall be appointed before the commencement of the first session of the General Assembly, which shall be begun and held after the first day of January in the year of our Lord one thousand eight hundred and twenty-five, shall only hold their offices during good behavior, until the end of the said session, at which time their commissions shall expire.
+No person who shall have arrived at the age of seventy years shall be appointed to, or continue in, the office of Judge in this State.  
 
 ###### Section 14
-No person who shall have arrived at the age of seventy years shall be appointed to, or continue in, the office of Judge in this State.
+Clerks of the Circuit and Inferior Courts in this State, shall be elected by the qualified electors in each county, for the term of four years, and may be removed from office for such causes and in such manner as may be prescribed by law; and should a vacancy occur, subsequent to an election, it shall be filled by the Judge or Judges of the court in which such vacancy exists; and the person so appointed shall hold his office until the next general election; *Provided* , however, that after the year one thousand eight hundred and twenty-six, the General Assembly may prescribe a different mode of appointment, but shall not make such appointment.  
 
 ###### Section 15
-The clerks of the circuit and inferior courts in this State shall be elected by the qualified electors in each county, for the term of four years, and may be removed from office for such causes, and in such manner as may be prescribed by law; and, should a vacancy occur subsequent to an election, it shall be filled by the Judge or Judges of the Court in which such vacancy exists; and the person so appointed shall hold his office until the next general election; provided, however, that, after the year one thousand eight hundred and twenty-six, the General Assembly may prescribe a different mode of appointment.
+The Judges of the Supreme Court shall, by virtue of their offices, be conservators of the peace throughout the State; as also the Judges of the Circuit Courts in their respective districts, and Judges of the inferior courts in their respective counties.  
 
 ###### Section 16
-The Judges of the Supreme Court shall, by virtue of their offices, be conservators of the peace throughout the State; and also the Judges of the Circuit Courts in their respective districts, and Judges of the inferior Courts in their respective counties.
+The style of all process shall be "The State of Alabama", and all prosecutions shall be carried on in the name, and by the authority of the State of Alabama, and shall conclude "against the peace and dignity of the same."  
 
 ###### Section 17
-The style of all process shall be "the State of Alabama," and all prosecutions shall be carried on in the name and by the authority of the State of Alabama, and shall conclude "against the peace and dignity of the same."
-
-###### Section 18
-There shall be an Attorney General for the State, and as many Solicitors as the General Assembly may deem necessary, to be elected by joint vote thereof, who shall hold their offices for the term of four years, and shall receive for their services a compensation, which shall not be diminished during their continuance in office.
+There shall be an Attorney General from the State, and as many solicitors as the General Assembly may deem necessary, to be elected by a joint vote thereof, who shall hold their offices for the term of four years, and shall receive for their services a compensation, which shall not be diminished during their continuance in office.
 
 ### Impeachments
 ###### Section 1
-The House of Representatives shall have the sole power of impeaching.
+The House of Representatives shall have the sole power of impeaching.  
 
 ###### Section 2
-All impeachments shall be tried by the Senate: when sitting for that purpose, the Senators shall be on oath or affirmation: and no person shall be convicted without the concurrence of two-thirds of the members present.
+All impeachments shall be tried by the Senate; when sitting for that purpose, the Senators shall be on oath or afffirmation; and no person shall be convicted without the concurrence of two-thirds of the members present.  
 
 ###### Section 3
-The Governor and all civil officers shall be liable to impeachment for any misdemeanor in office; but judgment in such cases shall not extend further than removal from office, and to disqualification to hold any office of honor, trust, or profit under the State; but the party convicted shall nevertheless be liable and subject to indictment, trial, and punishment, according to law.
+The Governor and all civil officers shall be liable to impeachment for any misdemeanor in office; but judgment in such cases shall not extend further than removal from office, and to disqualification to hold any office of honor, trust or profit under the State; but the party convicted shall, nevertheless, be liable and subject to indictment, trial, and punishment, according to law.
 
-## Article VI
+## Article VI  
 ### General Provisions
 ###### Section 1
-The members of the General Assembly, and all officers, executive and judicial, before they enter on the execution of their respective offices, shall take the following oath or affirmation, to wit: "I solemnly swear (or affirm, as the case may be) that I will support the Constitution of the United States, and Constitution of the State of Alabama, so long as I continue a citizen thereof, and that I will faithfully discharge, to the best of my abilities, the duties of -------- according to law: so help me God."
+The members of the General Assembly, and all officers, executive and judicial, before they enter on the execution of their respective offices, shall take the following oath or affirmation, to wit: "I do solemnly swear [or affirm, as the case may be] that I will support the Constitution of the State of Alabama so long as I continue a citizen thereof, and that I will faithfully discharge, to the best of my abilities, the duties of_______________ according to law, so help me God!"  
 
 ###### Section 2
-Treason against the State shall consist only in levying war against it, or in adhering to its enemies, giving them aid and comfort. No person shall be convicted of treason unless on the testimony of two witnesses to the same overt act, or his own confession in open court.
+Treason against the State shall consist only in levying war against it, or in adhering to its enemies, giving them aid and comfort. No person shall be convicted of treason, unless on the testimony of two witnesses to the same overt act, or his own confession in open court.  
 
 ###### Section 3
-The General Assembly shall have power to pass such penal laws, to suppress the evil practice of Duelling, extending to disqualification from office or the tenure thereof, as they may deem expedient.
+The General Assembly shall have power to pass such penal laws to suppress the evil practice of duelling, extending to disqualification from office, or the tenure thereof, as they may deem expedient.  
 
 ###### Section 4
-Every person shall be disqualified from holding any office or place of honor or profit, under the authority of the State, who shall be convicted of having given or offered any bribe to procure his election or appointment.
+Every person shall be disqualified from holding any office or place of honor or profit, under the authority of the State, who shall be convicted of having given or offered any bribe to procure his election or appointment.  
 
 ###### Section 5
-Laws shall be made to exclude from office, from suffrage, and from serving as Jurors, those who shall hereafter be convicted of bribery, perjury, forgery, or other high crimes or misdemeanors. The privilege of free suffrage shall be supported by laws regulating elections, and prohibiting, under adequate penalties, all undue influence thereon, from power, bribery, tumult, or other improper conduct.
+Laws shall be made to exclude from office, from suffrage, and from serving as jurors, those who shall hereafter be convicted of bribery, perjury, forgery, or other high crimes, or misdemeanors. The privelege of free suffrage shall be supported by laws regulating elections, and prohibiting under adequate penalties, all undue influence thereon from power, bribery, tumult, or improper conduct.  
 
 ###### Section 6
-In all elections by the General Assembly, the members thereof shall vote viva voce, and the votes shall be entered on the journals.
+In all elections by the General Assembly, the members thereof shall vote *viva voce* , and the votes shall be entered on the journals.  
 
 ###### Section 7
-No money shall be drawn from the Treasury, but in consequence of an appropriation made by law; and a regular statement and account of the receipts and expenditures of all public moneys shall be published annually.
+No money shall be drawn from the treasury, but in consequence of an appropriation made by law; and a regular statement and account of receipts and expenditures of all public moneys shall be published annually.  
 
 ###### Section 8
-All lands liable to taxation in this State shall be taxed in proportion to their value.
+All lands liable to taxation in this State, shall be taxed in proportion to their value.  
 
 ###### Section 9
-The General Assembly shall direct, by law, in what manner, and in what courts, suits may be brought against the State.
+The General Assembly shall direct, by law, in what manner, and in what courts, suits may be brought against the State.  
 
 ###### Section 10
-It shall be the duty of the General Assembly to regulate, by law, the cases in which deductions shall be made from the salaries of public officers, for neglect of duty in their official capacities, and the amount of such deduction.
+It shall be the duty of the General Assembly to regulate, by law, the cases in which deductions shall be made from the salaries of public officers, for neglect of duty in their official capacities, and the amount of such deduction. 
 
 ###### Section 11
-Absence on business of this State, or of the United States, or on a visit, or necessary private business, shall not cause a forfeiture of a residence once obtained.
+Temporary absence from this State, shall not cause a forfeiture of a residence once obtained.  
 
 ###### Section 12
-No Member of Congress, nor any person holding any office of profit or trust under the United States, (the office of Postmaster excepted) or either of them, or any foreign power, shall hold or exercise any office of profit under this State.
+No member or delegate to any Congress of other States or powers, nor persons holding any office of profit or trust under any foreign power, shall hold or exercise any office of profit under this State: *Provided* , that this section does not apply to any deputy, delegate or commissioner elected by this convention.  
 
 ###### Section 13
-Divorces from the bonds of matrimony shall not be granted, but in cases provided for by law, by suit in Chancery: and no decree for such divorce shall have effect until the same shall be sanctioned by two thirds of both Houses of the General Assembly.
+Divorces from the bonds of Matrimony shall not be granted, but in cases provided for by law in chancery. But decrees for divorce shall be final, unless appealed from within three months from the date of the enrollment thereof.  
 
 ###### Section 14
-In prosecutions for the publishing of papers investigating the official conduct of officers or men in public capacity, or when the matter published is proper for public information, the truth thereof may be given in evidence; and, in all indictments for libels, the jury shall have a right to determine the law and the facts, under the direction of the courts.
+In prosecutions for the publishing of papers investigating the official conduct of officers, or men in public capacity, or when the matter published is proper for public information, the truth thereof may be given in evidence; and in all indictments for libels, the jury shall have the right to determine the law and the facts under the direction of the courts.  
 
 ###### Section 15
-Returns of all elections for officers who are to be commissioned by the Governor, and for members of the General Assembly, shall be made to the Secretary of State.
+Returns of all elections for officers who are to be commissioned by the Governor, and for members of the General Assembly, shall be made to the Secretary of State.  
 
 ###### Section 16
-No new county shall be established by the General Assembly, which shall reduce the county or counties, or either of them, from which it shall be taken to a less content that nine hundred square miles; nor shall any county be laid off of less contents. Every new county, as to the right of suffrage and representation, shall be considered as a part of the county or counties from which it was taken, until entitled by numbers to the right of separate representation.
+The General Assembly may, by a vote of two-thirds of both branches thereof, arrange and designate boundaries for the several counties of this State, which shall not be altered, except by a like vote of the General Assembly. But no new county shall be hereafter formed of less extent than nine hundred square miles, nor shall it contain, at the time, less than one hundredth part of the population of the State, and no existing county shall be hereafter reduced below such area or population by the formation of a new county.  
 
 ###### Section 17
-The General Assembly shall, at their first session, which may be holden in the year eighteen hundred and twenty-eight, or at several counties within the limits of this State, to which the Indian title shall have been extinguished, in such manner as they may deem expedient; which boundaries shall not be afterwards altered, unless by the agreement of two thirds of both branches of the General Assembly, and in all cases of ceded Territory acquired by the State, the General Assembly may make such arrangements and designations of the boundaries of counties within such ceded Territory as they may deem expedient, which shall only be altered in like manner; provided that no county hereafter to be formed shall be of less extent than nine hundred square miles.
+It shall be the duty of the General Assembly to pass such laws as may be necessary and proper to decide differences by arbitrators, to be appointed by the parties, who may choose that summary mode of adjustment.  
 
 ###### Section 18
-It shall be the duty of the General Assembly to pass such laws as may be necessary and proper, to decide differences by arbitrators, to be appointed by the parties, who may choose that summary mode of adjustment.
+It shall be the duty of the General Assembly, as soon as circumstances will permit, to form a penal code, founded on principles of reformation.  
 
 ###### Section 19
-It shall be the duty of the General Assembly, as soon as circumstances will permit, to form a penal code, founded on principles of reformation, and not of vindictive justice.
+Within five days after the adoption of this Constitution, the body or our laws, civil and criminal, shall be revised, digested and arranged, under proper heads, and promulgated, in such manner as the General Assembly may direct: and a like revision, digest, and promulgation, shall be made within every subsequent period of ten years.  
 
 ###### Section 20
-Within five years after the adoption of this Constitution, the body of our laws, civil and criminal, shall be revised, digested, and arranged under proper heads, and promulgated in such manner as the General Assembly may direct: and a like revision, digest, and promulgation, shall be made within every subsequent period of ten years.
+The General Assembly shall make provisions by law for obtaining correct knowledge of the several objects proper for improvement in relation to the navigable waters, and to the roads in this State, and for making a systematic and economical application of the means appropriated to those objects.  
 
 ###### Section 21
-The General Assembly shall make provision by law for obtaining correct knowledge of the several objects proper for improvement in relation to the navigable waters, and to the roads in this State, and for making a systematic and economical application of the means appropriated to those objects.  
-SEC. 22\. In the event of the annexation of any foreign territory to this State, by a cession from the United States, laws may be passed, extending to the inhabitants of such territory all the rights and privileges which may be required by the terms of such cession; any thing in this Constitution to the contrary notwithstanding.
+In the event of the annexation of any foreign territory to this State, laws may be passed, extending to the inhabitants of such territory, all the rights and privileges which may be required by the terms of such acquisition: anything in this constitution to the contrary notwithstanding.  
 
 ### Education
-Schools and the means of education shall forever be encouraged in this State; and the General Assembly shall take measures to preserve, from unnecessary waste or damage, such lands as are or hereafter may be granted by the United States for the use of schools within each township in this State, and apply the funds, which may be raised from such lands; in strict conformity to the object of such grant. The General Assembly shall take like measures for the improvement of such lands as have been or may be hereafter granted by the United States to this State, for the support of a Seminary of learning, and the moneys which may be raised from such lands, by rent, lease, or sale, or from any other quarter, for the purpose, aforesaid, shall be and remain a fund for the exclusive support of a State University, for the promotion of the arts, literature, and the sciences: and it shall be the duty of the General Assembly, as early as may be, to provide effectual means for the improvement and permanent security of the funds and endowments of such institution.
+Schools, and the means of education, shall forever be encouraged in this State; and the General Assembly shall take measures to preserve, from unnecessary waste or damage, such lands as have been granted by the United States for the use of schools, within each township in this State, and apply the funds, which may be raised from such lands, in strict conformity to the object of such grant. The General Assembly shall take like measures for the improvement of such lands as have been granted by the United States to this State, for the support of a seminary of learning, and the moneys which may be raised from such lands, by rent, lease, or sale, or from any other quarter, for the purpose aforesaid, shall be and remain a fund for the exclusive support of a State University, for the promotion of the arts, literature and the sciences; and it shall be the duty of the General Assembly, as early as may be, to provide effectual means for the improvement and permanent security of the funds and endowments of such institution.  
 
-### Establishment of Banks
+### Banking 
 ###### Section 1
-One State Bank may be established, with such number of branches as the General Assembly may, from time to time, deem expedient: Provided, that no branch bank shall be established, nor bank charter renewed, under the authority of this State, without the concurrence of two thirds of both Houses of the General Assembly; and provided, also, that not more than one bank nor branch bank shall be established, nor bank charter renewed, at any one session of the General Assembly; nor shall any bank or branch bank be established, or bank charter renewed, but in conformity with the following rules:
-
-1. At least two-fifths of the capital stock shall be reserved for the State.  
-2. A proportion of power in the direction of the bank shall be reserved to the State, equal at least to its proportion of stock therein.  
-3. The State, and the individual stockholders, shall be liable, respectively, for the debts of the bank, in proportion to their stock holden therein.  
-4. The remedy for collecting debts shall be reciprocal, for and against the bank.  
-5. No bank shall commence operations until half of the capital stock subscribed for, be actually paid in gold or silver, which amount shall, in no case, be less than one hundred thousand dollars.  
-6. In case any bank or branch bank shall neglect or refuse to pay, on demand, any bill, note, or obligation, issued by the corporation, according to the promise therein expressed, the holder of any such note, bill, or obligation, issued by the corporation, according to the promise therein expressed, the holder of any such note, bill, or obligation, shall be entitled to receive and recover interest thereon, until the same shall be paid or specie payments are resumed by said bank, at the rate of twelve per cent per annum from the date of such demand, unless the General Assembly shall sanction such suspension of specie payments; and the General Assembly shall have power, after such neglect or refusal, to adopt such measures as they may deem proper, to protect and secure the rights of all concerned: and to declare the charter of such bank forfeited.  
-7. After the establishment of a general state bank, the banks of this State now existing may be admitted as branches thereof, upon such terms as the Legislature and the said banks may agree, subject nevertheless to the preceding rules.
-
-### Slaves
-###### Section 1
-The General Assembly shall have no power to pass laws for the emancipation of slaves, without the consent of their owners, or without paying their owners, previous to such emancipation, a full equivalent in money for the slaves so emancipated. They shall have no power to prevent emigrants to this State from bringing with them such persons as are deemed slaves by the laws of any one of the United States, so long as any person of the same age or description shall be continued in slavery by the laws of this State: Provided, that such person or slave be the bona fide property of such emigrants; and provided, also, that laws may be passed to prohibit the introduction into this State of slaves, who have committed high crimes in other States or Territories. They shall have power to pass laws to permit the owners of slaves to emancipate them, saving the rights of creditors, and preventing them from becoming a public charge. They shall have full power to prevent slaves from being brought into this State as merchandize, and also to oblige the owners of slaves to treat them with humanity, to provide for them necessary food and clothing, to abstain from all injuries to them extending to life or limb, and, in case of their neglect, or refusal to comply with the directions of such laws, to have such slave or slaves sold for the benefit of the owner or owners.
+No bank shall be established, nor bank charter renewed under the authority of this State, without the concurrence of two-thirds of each house of the General Assembly.  
 
 ###### Section 2
-In the prosecution of slaves for crimes, of a higher grade than petit larceny, the General Assembly shall have no power to deprive them of an impartial trial by a petit jury.
+Not more than one bank shall be established, nor bank charter renewed at any one session of the General Assembly, nor shall any bank be established, or bank charter renewed, but in conformity with the following rules.  
 
-###### Section 3
-Any person who shall maliciously dismember or deprive a slave of life, shall suffer such punishment as would be inflicted in case the like offence had been committed on a free white person, and on the like proof; except in case of insurrection of such slave.
+1. The stockholders shall be liable respectively for the debts of the bank in proportion to their stock holden therein.  
+2. The remedy for collecting debts shall be reciprocal for and against the bank.
+3. No bank shall commence operations until half of the capital stock subscribed for be actually paid in gold or silver, which amount shall, in no case, be less than one hundred thousand dollars.  
+4. Should any bank neglect or refuse to pay on demand any bill, note or obligation, issued by the corporation, according to the promise therein expressed, the holder of any such note, bill, or obligation shall be entitled to receive and recover interest thereon until the same shall be paid, or specie payments are resumed by said bank, at the rate of twelve per cent. per annun from the date of such demand, unless the General Assembly shall sanction such suspension of specie payments by a vote ot two-thirds of each house of the General Assembly.  
+5. Whenever any bank suspends specie payments, the charter is thereby forfeited, unless such suspension is legalized, as is provided by the preceding rule at the then next ensuing session of the General Assembly after such suspension.  
 
-### Mode of Amending And Revising the Constitution
-The General Assembly, whenever two-thirds of each house shall deem it necessary, may propose amendments to this Constitution; which proposed amendments shall be duly published in print, at least three months before the next general election of Representatives, for the consideration of the people, and it shall be the duty of the several returning officers at the next general election which shall be held for Representatives, to open a poll for, and make a return to the Secretary of State for the time being, of the names of all those voting for representatives, who have voted on such proposed amendments; and if thereupon it shall appear that a majority of all the citizens of this state, voting for representatives, have voted in favor of such proposed amendments; and two thirds of each House of the next General Assembly shall, after such an election, and before another, ratify the same amendments by yeas and nays, they shall be valid, to all intents and purposes, as parts of this Constitution: Provided, that the said proposed amendments shall at each of the said sessions have been read three times, on three several days, in each House.
-
-### Schedule
+### Slavery  
 ###### Section 1
-That no inconvenience may arise from a change of Territorial to a permanent State Government, it is declared that all rights, actions, prosecutions, claims, and contracts, as well of individuals as of bodies corporate, shall continue as if no such change had taken place: and all process which shall, before the third Monday in September next, be issued in the name of the Alabama Territory, shall be as valid as if issued in the name of the State.
+No slave in this State shall be emancipated by any act done to take effect in this State, or any other country.  
 
 ###### Section 2
-All fines, penalties, forfeitures, and escheats accruing to the Alabama Territory, shall accrue to the use of the State.
+The humane treatment of slaves shall be secured by law.  
 
 ###### Section 3
-The validity of all bonds and recognizances, executed to the Governor of the Alabama Territory, shall not be impaired by the change of government, but may be sued for and recovered in the name of the Governor of the State of Alabama and his successors in office: and all criminal or penal actions arising or now depending within the limits of this State, shall be prosecuted to judgment and execution in the name of said State; all causes of action arising to individuals, and all suits at law or in equity, now depending in the several Courts within the limits of this State and not already barred by law, may be commenced in, or transferred to, such Courts as may have jurisdiction thereof.
+Laws may be enacted to prohibit the introduction into this State, of slaves who have committed high crimes in other States or territories, and to regulate or prevent the introduction of slaves into this State as merchandise.  
 
 ###### Section 4
-All officers, civil or military, now holding commissions under the authority of the United States or of the Alabama Territory within this State, shall continue to hold and exercise their respective offices under the authority of this State, until they shall be superseded under the authority of this Constitution, and shall receive from the Treasury of this State the same compensation which they heretofore received, in proportion to the time they shall be so employed. The Governor Shall have power to fill vacancies by commissions, to expire so soon as elections or appointments can be made to such offices, by authority of this Constitution.
+In the prosecution of slaves for crimes, of a higher grade than petit larceny, the General Assembly shall have no power to deprive them of an impartial trial by a petiti jury.  
 
 ###### Section 5
-All laws and parts of laws, now in force in the Alabama Territory, which are not repugnant to the provisions of this Constitution, shall continue and remain in force as the laws of this State, until they expire by their own limitation, or shall be altered, or repealed by the Legislature thereof.
+Any person who shall maliciously dismember or deprive a slave of life, shall suffer such punishment as would be inflicted in case the like offense had been committed on a free white person, and on the like proof, except in case of insurrection of such slave.  
+
+### Explanatory Provisions
+#### Part I
+**Relating To The Change From The Territorial To The State Form Of Government**
+
+###### Section 1
+That no inconvience may arise from a change of territorial to a permanent State government, it is declared that all rights, actions, prosecutions, claims, and contracts, as well of individuals, as of bodies corporate, shall continue as if no such change had taken place; and all process, which shall, before the third Monday in September next, be issued in the name of the Alabama territory, shall be as valid as if issued in the name of the State.  
+
+###### Section 2
+All fines, penalties, forfeitures, and escheats, accruing to the Alabama territory, shall accrue to the use of the State.  
+
+###### Section 3
+The validity of all bonds and recognizances, executed to the Governor of the Alabama territory, shall not be impaired by the change of government, by may be sued for and recovered in the name of the Governor of the State of Alabama, and his successors in office; and all criminal and penal actions, arising or now depending within the limits of this State, shall be prosecuted to judgment and execution in the name of said State, all causes of action arising to individuals, and all suits at law or in equityn now depending in the several courts, within the limits of this State, and not already barred by law, may be commenced in, or transferred to, such courts as may have jurisdiction thereof.  
+
+###### Section 4
+All officers, civil or military, now holding commissions under the authority of the United States, or of the Alabama territory, within this State, shall continue to hold and exercise their respective offices under the authority of this State, until they shall be superseded under the authority of this Constitution, and shall receive from the treasury of this State, the same compensation which they heretofore received, in proportion to the time they shall be so employed. The Governor shall have power to fill vacancies by commissions, to expire so soon as elections or appointments can be made to such offices, by authority of this Constitution.  
+
+###### Section 5
+All laws and parts of laws, now in force in the Alabama territory, which are not repugnant to the provisions of this Constitution, shall continue and remain in force as the laws of this State, until they expire by their own limitation, or shall be altered, or repealed, by the Legislature thereof.  
+
+#### Part II  
+**Relating To The Secession Of The State Of Alabama From The Government Of The United States**  
+
+##### Chapter I
+###### Section 1
+*Be it declared and ordained by the people of the State of Alabama in Convention assembled* , That the State of Alabama now withdraws, and is hereby withdrawn from the Union known as "the United States of America", and henceforth ceases to be one of said United States, and is, and of right ought to be a *Sovereign* and *Independent State* .  
+
+###### Section 2
+*Be it further declared and ordained by the people of the State of Alabama in Convention assembled* , That all the powers over the territory of said State, and over the people thereof, heretofore delegated to the government of the United States of America, be, and they are hereby withdrawn from said government, and are hereby resumed and vested in the people of the State of Alabama.  
+
+###### Section 3
+*Be it ordained by the people of Alabama in Convention Assembled,* That the Constitution framed and adopted on the 11th day of March, 1861, by the Deputies from the States of South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana, and Texas, in convention assembled, at Montgomery, Alabama, be, and the same is hereby **Approved, Ratified** and **Adopted** , as the Federal Constitution for the people of Alabama.  
+
+##### Chapter II
+###### Section 1
+No law enacted by the authority of the State of Alabama, in force on the 11th day of January, A. D., 1861, and consistent with the Constitution of this State, and not inconsistent with the ordinances of this Convention, is affected by the ordinance known as the Ordinance of Secession, adopted on said day, and entitled "An Ordinance to dissolve the Union between the State of Alabama and other States, united under the compact styled the Constitution of the United States."  
+
+###### Section 2
+No office, civil or military, created by this State, or under the authority of its laws, in force on the eleventh day of January, A. D., 1861, and no officer lawfully exercising the powers or duties of such office, is affected by said Ordinance of Secession, except the offices of the members of the House of Representatives, and of the Senators of the Congress of the United States of America, and these are abrogated.  
+
+###### Section 3
+No offense against the laws of this State, committed before or since the adoption of said Ordinance of Secession, is affected by said ordinance, and no offender against said laws, is relieved or discharged from the consequences of such offense by said ordinance; and no amercement, fine, penalty, forfeiture, escheat, bond, or recognizance, accruing or enuring, in whole or in part, to the State of Alabama, whether in action or in judgment, is affected by said ordinance.  
+
+###### Section 4
+No bond issued by authority of the laws of this State, or bills or coin lawfully used as money in this State, and no bond, obligation, debt or duty, due or owing to this State, or enuring, in whole or in part, to this State, before or since the adoption of said ordinance, is affected thereby.  
+
+###### Section 5
+No process or proceeding of any Court of this State, is affected by said Ordinance of Secession.  
 
 ###### Section 6
-Every white male person above the age of twenty one years, who shall be a citizen of the United States, and resident in this State at the time of the adoption of this Constitution, shall be deemed a qualified elector at the first election to be holden in this State. And every white male person who shall reside within the limits of this State at the time of the adoption of this Constitution, and shall be otherwise qualified, shall be entitled to hold any office or place of honor, trust, or profit under this State; any thing in this Constitution to the contrary notwithstanding.
+No right, title, franchise, easement, license or privilege given, granted or conferred to, or upon any person or body corporate, under and by authority of the laws of this State, and no right of possession of property, action or prosecution, title, claim, contract, agreement, obligation, debt or duty, of any person or body corporate, is affected by said Ordinance of Secession, unless the same is inconsistent with said ordinance, or is affected by some other ordinance of this Convention.  
 
 ###### Section 7
-The President of this Convention shall issue writs of election directed to the Sheriffs of the several counties, requiring them to cause an election to be held for a Governor, Representative to the Congress of the United States, Members of the General Assembly, Clerks of the several Courts and Sheriffs of the respective counties, at the respective places of election and in said counties, on the third Monday and the day following in September next, which elections shall be conducted in the manner prescribed by the existing election laws of the Alabama Territory; and the said Governor and Members of the General Assembly, then duly elected, shall continue to discharge the duties of their respective offices, for the time prescribed by this Constitution, and until their successors shall be duly qualified.
+No rights acquired, or vested in any body corporate under the Constitution of the United States, or under any act of Congress passed in pursuance thereof, or under any law of this State, and not incompatible with said Ordinance of Secession, is affected by said ordinance.  
 
-###### Section 8
-Until the first enumeration shall be made, as directed by this Constitution, the county of Autauga shall be entitled to two representatives; the county of Baldwin to one representative; the county of Blount to three representatives; the county of Cahawba to one representative; the county of Clark to two representatives; the county of Conecuh to two representatives; the county of Cotaco to two representatives; the county of Dallas to two representatives; the county of Franklin to two representatives; the county of Lauderdale to two representatives; the county of Lawrence to two representatives; the county of Limestone to three representatives; the county of Madison to eight representatives; the county of Marengo to one representative; the county of Marion to one representative; the county of Monroe to five representatives; the county of Montgomery to three representatives; the county of Mobile to one representative; the county of St. Clair to one representative; the county of Shelby to two representatives; the county of Tuscaloosa to three representatives; and the county of Washington to two representatives. And each county shall be entitled to one senator, who shall serve for one term.
+##### Part III.  
+**Relating To The Changes In The Constitution Of Alabama**
 
-###### Section 9
-The oaths of office, herein directed to be taken, may be administered by any Justice of the Peace, until the General Assembly shall otherwise direct.
+###### Section 1
+*Be it ordained by the people of the State of Alabama in Convention assembled* , That no change made in the Constitution of the State of Alabama, by this Convention, shall have the effect to divest any right, title, or legal trust existing at the time of making such change. But all such changes shall have a prospective and not a retrospective effect, unless otherwise declared in the change itself.  
 
-## Amendment I
-The Judges of the several courts of this State shall hold their offices for the term of six years; and for wilful neglect of duty, or other reasonable cause, which shall not be sufficient ground for impeachment, the Governor shall remove any of them on the address of two-thirds of each house of the General Assembly: Provided, however , That the cause or causes for which such removal shall be required, shall be stated at length in such address, and entered on the Journals of each house: And provided, further , That the cause or causes shall be notified to the Judge so intended to be removed, and he shall be admitted to a hearing in his own defence, before any vote for such address shall pass; and in all such cases the vote shall be taken by yeas and nays, and entered on the Journals of each house respectively: And provided, also , That the judges now in office may hold their offices until the session of the General Assembly which shall be held in the year one thousand eight hundred and thirty-three, and until their successors shall be elected and qualified, unless removed by address or impeachment.
+###### Section 2
+*Be it ordained by the people of Alabama in Convention assembled* , That, an ordinance adopted by the people of this State, in Convention, at Huntsville, on the second day of August, one thousand eight hundred and nineteen, disclaiming forever all right to the waste or unappropriated lands lying within this State, is hereby repealed; but the navigable waters of this State shall remain forever free to the citizens of this State, and of such States as may unite with the State of Alabama, in a Southern slaveholding Confederacy. But no right heretofore obtained, by any person or corporation, to erect a bridge, or bridges, across the navigable waters of this State, shall be affected by this ordinance; *Provided* , That the navigation of such rivers be not obstructed thereby.  
 
-## Amendment II
-(a) Strike out the words "one year" where they occur in the second section of the third article, and insert in lieu thereof "two years". Strike out the words "every year" where they occur in the third section of third article, and insert in lieu thereof "at each session". Strike out the word "annual" where it occurs in the eighth section of the fourth article, and insert in lieu thereof "biennial". Strike out the thirteenth section of the third article, and insert in lieu thereof the following: "at the first meeting of the General Assembly after the adoption of the proposed amendments, the senators when convened shall be divided into two classes, as nearly equal as may be. The seats of the senators of the first class shall be vacated at the expiration of the two next ensuing years; so that one half may be biennially chosen thereafter, and a rotation thereby kept up perpetually."
+**Mode Of Amending Or Revising The Constitution**
+The General Assembly, whenever two-thirds of each House shall deem it necessary, may propose amendments to this Constitution, which proposed amendments, shall be duly published in print, at least three months before the next general election of Representatives, for the consideration of the people, and it shall be the duty of the several returning officers, at the next general election which shall be held for Representatives, to open a poll for, and make a return to the Secretary of State, for the time being, of the names of all those voting for Representatives, who have voted on such proposed amendments, and if, thereupon, it shall appear that a majority of all the citizens of this State, voting for Representatives, have voted in favor of such proposed amendments, and two-thirds of each House of the next General Assembly, shall, after such an election, and before another, ratify the same amendments by *yeas* and *nays* , they shall be valid, to all intents and purposes, as parts of this Constitution: *Provided* , That the said proposed amendments shall, at each of the said sessions, have been read three times, on three several days, in each House; *Provided further* , That a Convention of the people of the State may be called by a vote of two-thirds of each branch of the General Assembly, under such rules and regulations as the Legislature may prescribe, to amend the Constitution or for any other purpose.  
 
-(b) Strike out the twenty-ninth section of the third article, which permanently locates the seat of government in this State.
+Adopted by the people of Alabama by the unanimous vote of their delegates in Convention assembled, at the Capitol, in the city of Montgomery, on this the twentieth day of March, in the year of our Lord, one thousand eight hundred and sixty-one, and of the Confederate States of America the first year.  
 
-## Amendment III
-Strike out the ninth section of the third article of the Constitution, and in lieu thereof insert the following: "Section 9. The General Assembly shall cause an enumeration to be made in the year eighteen hundred and fifty, and eighteen hundred and fifty-five, and every ten years thereafter, of all the white inhabitants of this State; and the whole number of representatives shall at the first regular session after such enumeration, be apportioned among the several counties, cities, or towns entitled to separate representation, according to their respective number of white inhabitants, and the said apportionment when made shall not be subject to alteration until after the next census shall be taken. The number of representatives shall not exceed one hundred, and the number of senators shall not exceed thirty-three; yet each county, nothwithstanding it may not have a number of white inhabitants equal to the ratio fixed, shall have one representative."
+#### Impeachments
+###### Section 1
+The House of Representatives shall have the sole power of impeaching.  
 
-Strike out the thirteenth section of the third article of the Constitution, and insert in lieu thereof the following: "Section 13. Senators shall be chosen for the term of four years: yet at the general election after every new apportionment, elections shall be held anew in every senatorial district; and the senators elected, when convened at the first session, shall be divided by lot into two classes, as nearly equal as may be: the seats of those of the first class shall be vacated at the expiration of two years, and those of the second class at the expiration of four years, dating in both cases from the day of election, so that one-half may be biennially chosen, except as above provided."
+###### Section 2
+All impeachments shall be tried by the Senate; when sitting for that purpose, the Senators shall be on oath or afffirmation; and no person shall be convicted without the concurrence of two-thirds of the members present.  
 
-At the end of the twelfth section of the fifth article of the Constitution add: "But at and after the session of the General Assembly to be held in the winter of the years eighteen hundred and forty-nine-fifty, the General Assembly shall provide by law for the election of judges of the Circuit Courts by the qualified electors of their circuits respectively, and for the elections of judges of the Courts of Probate and other inferior courts (not including chancellors) by the qualified electors of the counties, cities, or districts for which such courts may be respectively established; the first Monday in November in any year shall be the day for any election of such judges by the people, or such other day, not to be within a less period than two months of the general election for Governor, members of the General Assembly, or members of Congress, as the General Assembly may by law prescribe: but no change to be made in any circuit or district, or in the mode or time of electing, shall affect the right of any judge to hold office during the term prescribed by the Constitution, except at the first elections thereof to be made by the people after the ratification of these amendments or either of them, which elections shall then all be had on the same day throughout the State, and the terms of the judges then to be elected shall commence on that day: vacancies in the office of judge shall be filled by the Governor, and the persons appointed thereto by him shall hold until the next first Monday in November, or other election day of judges, and until the election and qualification of their successors respectively; and the General Assembly shall have power to annex to the offices of any of the judges of the inferior courts the duties of clerks of such courts respectively."
+###### Section 3
+The Governor and all civil officers shall be liable to impeachment for any misdemeanor in office; but judgment in such cases shall not extend further than removal from office, and to disqualification to hold any office of honor, trust or profit under the State; but the party convicted shall, nevertheless, be liable and subject to indictment, trial, and punishment, according to law.
