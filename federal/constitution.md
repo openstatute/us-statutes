@@ -254,3 +254,14 @@ The validity of the public debt of the United States, authorized by law, includi
 
 ### Section 5
 The Congress shall have power to enforce, by appropriate legislation, the provisions of this article.
+
+Section 1. The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.
+
+Section 2. The Congress shall have power to enforce this article by appropriate legislation.
+
+## Amendment XV
+### Section 1
+The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.
+
+### Section 2
+The Congress shall have power to enforce this article by appropriate legislation.
