@@ -10015,3 +10015,53 @@ Every polling place in Tuscaloosa County shall be open for voting on election da
 **Phase-out of Supernumerary Programs in Wilcox County; Participation in Employees' Retirement System.**
 
 No person elected or appointed sheriff, or any elected or appointed Wilcox County official may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every elected or appointed sheriff and every elected or appointed Wilcox County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Wilcox County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office. For the purposes of this amendment, the words "elected or appointed county official" shall include any person appointed to serve the remaining term of an elected or appointed county official, but shall not include a judge, district attorney, legislator, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 743
+**Bingo Games in Greene County.**
+
+For purposes of this amendment, the following words have the following meanings:
+
+1. BINGO. That specific kind of game commonly known as bingo in which prizes are awarded on the basis of designated numbers or symbols on a card or electronic marking machine conforming to numbers or symbols selected at random.
+
+2. EQUIPMENT. The receptacle and numbered objects drawn from it, the master board upon which such objects are placed as drawn, the cards or sheets bearing numbers or other designations to be covered and the objects used to cover them or electronic card marking machines, and the board or signs, however operated, used to announce or display the numbers or designations as they are drawn.
+
+3. NONPROFIT ORGANIZATION. A bona fide religious, educational, service, senior citizens', fraternal, or veterans' organization which operates without profit to its members and which either has been in existence continuously as such an organization for a period of three years or is exempt from taxation by virtue of having been classified as a tax exempt nonprofit organization by the Internal Revenue Service, United States Government. This term includes a volunteer fire department and a volunteer rescue squad.
+
+Bingo games for prizes or money may be operated by a nonprofit organization in Greene County. The sheriff shall promulgate rules and regulations for the licensing, permitting, and operation of bingo games within the county. The sheriff shall insure compliance with such rules or regulations and all of the following:
+
+(1) No person under the age of 19 years shall be permitted to play any game or games of bingo, nor shall any person under the age of 19 years be permitted to conduct or assist in the operation of any game of bingo.
+
+(2) Bingo games shall be operated exclusively on the premises owned or leased by the nonprofit organization operating the bingo game. Such location shall be specified in the application of the nonprofit organization.
+
+(3) A nonprofit organization may not enter into any contract with any individual, firm, association, or corporation to have the individual or entity operate bingo games or concessions on behalf of the nonprofit organization. A nonprofit organization may not pay consulting fees to any individual or entity for any services performed in relation to the operation or conduct of a bingo game.
+
+(4) A nonprofit organization may not lend its name or allow its identity to be used by another person or entity in the operating, promoting, or advertising of a bingo game in which the nonprofit organization is not directly and solely operating the bingo game.
+
+(5) All equipment shall be stamped or clearly marked in letters no less than one-half inch in height and one-fourth inch in width (except for the letter "I") with the name of the nonprofit organization using the equipment. A nonprofit organization or other person or entity may not use equipment marked with the name of another nonprofit organization.
+
+(6) Prizes given by any nonprofit organization for the playing of bingo games shall not exceed ten thousand dollars ($10,000) in cash or gifts of equivalent value during any bingo session .
+
+(7) A nonprofit organization may not advertise bingo except to the extent and in the manner authorized by rule of the sheriff. If the sheriff allows a nonprofit organization to advertise bingo, the nonprofit organization shall indicate in the advertisement the purposes for which the net proceeds will be used by the nonprofit organization.
+
+(8) A nonprofit organization shall display its bingo license conspicuously at the location where the bingo game is conducted.
+
+(9) The sheriff shall determine by regulation the days of operation during any calendar week and the hours of operation.
+
+A violation of this amendment is a Class A misdemeanor as specified by general law.
+
+## Amendment 744
+**Bingo Games in Macon County.**
+
+The operation of bingo games for prizes or money by nonprofit organizations for charitable, educational, or other lawful purposes shall be legal in Macon County. The sheriff shall promulgate rules and regulations for the licensing and operation of bingo games within the county. The sheriff shall insure compliance pursuant to any rule or regulation and the following requirements:
+
+(1) No person under the age of 19 years shall be permitted to play any game or games of bingo, nor shall any person under the age of 19 years be permitted to conduct or assist in the operation of any game of bingo.
+
+(2) No bingo license shall be issued to any nonprofit organization, unless the organization shall have been in existence for at least three years in the county immediately prior to the issuance of the permit or license.
+
+(3) Bingo games may be operated on the premises owned or leased by the nonprofit organization operating the bingo game.
+
+(4) A nonprofit organization may enter into a contract with any individual, firm, association, or corporation to have the individual or entity operate bingo games or concessions on behalf of the nonprofit organization. A nonprofit organization may pay consulting fees to any individual or entity for any services performed in relation to the operation or conduct of a bingo game.
+
+(5) A nonprofit organization may lend its name or allow its identity to be used by another person or entity in the operating or advertising of a bingo game in which the nonprofit organization is not directly and solely operating the bingo game.
+
+(6) Prizes given by any nonprofit organization for the playing of bingo games shall not exceed the cash amount or gifts of equivalent value set by rule or regulation during any bingo session during any calendar week.
