@@ -64,267 +64,253 @@ That the people have a right, to assemble together to consult for their common g
 That no person shall be liable to be transported out of this state for trial for any offence committed within the same.
 
 ## Chapter II: Plan or Frame of Government
+### Delegation and Distribution of Powers
 #### Section 1
-The Commonwealth, or State of Vermont, shall be governed hereafter, by a Governor (or Lieutenant Governor) Council, and an Assembly of the Representatives of the freemen of the same, in manner and form following:
+The Commonwealth or State of Vermont shall be governed by a Governor (or Lieutenant-Governor), a Senate and a House of Representatives of the freemen of the same, in the manner and form following:
 
 #### Section 2
-The Supreme Legislative power shall be vested in a House of Representatives of the freemen of the Commonwealth or State of Vermont.
+The Supreme Legislative power shall be exercised by a Senate and a House of Representatives.
 
 #### Section 3
-The Supreme Executive power shall be vested in a Governor, or, in his absence, a Lieutenant Governor, and Council.
+The Supreme Executive power shall be exercised by a Governor, or, in his absence, a Lieutenant-Governor.
 
 #### Section 4
-Courts of justice shall be maintained in every county in this State, and also in new counties, when formed; which courts shall be open for the trial of all causes proper for their cognizance; and justice shall be therein impartially administered, without corruption, or unnecessary delay. The Judges of the Supreme Court shall be Justices of the peace throughout the State; and the several Judges of the County Courts, in their respective counties, by virtue of their office, except in the trial of such causes as may be appealed to the County Court.
+Courts of Justice shall be maintained in every county in this State, and also in counties when formed.
 
 #### Section 5
-A future Legislature may, when they shall conceive the same to be expedient and necessary, erect a Court of Chancery, with such powers as are usually exercised by that Court, or as shall appear for the interest of the Commonwealth.—Provided they do not constitute themselves the Judges of the said Court.
+The Legislative, Executive, and Judiciary departments, shall be separate and distinct, so that neither exercise the powers properly belonging to the others.
 
 #### Section 6
-The Legislative, Executive, and Judiciary departments, shall be separate and distinct, so that neither exercise the powers properly belonging to the other.
+The Senate and the House of Representatives shall be styled, The General Assembly of the State of Vermont. Each shall have and exercise the like powers in all acts of legislation; and no bill, resolution, or other thing, which shall have been passed by the one, shall have the effect of, or be declared to be, a law, without the concurrence of the other. Provided, That all Revenue bills shall originate in the House of Representatives; but the Senate may propose or concur in amendments, as on other bills. Neither House during the session of the General Assembly, shall, without the consent of the other, adjourn for more than three days, nor to any other place than that in which the two Houses shall be sitting; and in case of disagreement between the two Houses with respect to adjournment, the Governor may adjourn them  to such time as he shall think proper. They may prepare bills and enact them into laws, redress grievances, grant charters of incorporation, subject to the provisions of section 65, constitute towns, borroughs, cities and counties; and they shall have all other powers necessary for the Legislature of a free and sovereign State; but they shall have no power to add to, alter, abolish, or infringe any part of this Constitution.
 
 #### Section 7
-In order that the freemen of this State might enjoy the benefit of election as equally as may be, each town within this State, that consists, or may consist of eighty taxable inhabitants, within one septenary or seven years next after the establishing this Constitution, may hold elections therein, and choose each two Representatives; and each other inhabited town in this State, may, in like manner, choose each one Representative, to represent them in the General Assembly, during the said septenary, or seven years, and after that, each inhabited town may, in like manner hold such election, and choose each one representative, forever thereafter.
+The General Assembly shall meet biennially on the first Wednesday next after the first Monday of January, beginning in A. D. 1915.
 
 #### Section 8
-The House of Representatives of the freeman of this State, shall consist of persons most noted for wisdom and virtue, to be chosen by ballot, by the freemen of every town in this State, respectively, on the first Tuesday of September annually, forever.
-
-#### Section 9
-The Representatives so chosen (a majority of whom shall constitute a quorum for transacting any other business than raising a State tax, for which two thirds of the members elected shall be present) shall meet on the second Thursday of the succeeding October, and shall be stiled The General Assembly of the State of Vermont: they shall have power to choose their Speaker, Secretary of the State, their Clerk, and other necessary officers of the House—sit on their own adjournment—prepare bills and enact them into laws—judge of the elections and qualifications of their own members: they may expel members but not for causes known to their constituents antecedent to their election: they may administer oaths or affirmations in matters depending before them—redress grievances—impeach state criminals—grant charters of incorporation—constitute towns, boroughs, cities and counties: they may annually, on their first session after their election, in conjunction with the Council (or oftener if need be) elect Judges of the Supreme and several County and Probate Courts, Sheriffs and Justices of the peace; and also, with the Council, may elect Major-Generals and Brigadier-Generals, from time to time, as often as there shall be occasion: and they shall have all other powers necessary for the Legislature of a free and sovereign State: but they shall have no power to add to, alter, abolish, or infringe any part of this Constitution.
-
-#### Section 10
-The Supreme Executive Council of this State, shall consist of a Governor, Lieutenant Governor, and twelve persons, chosen in the following manner, viz. The freemen of each town shall, on the day of election for choosing Representatives to attend the General Assembly, bring in their votes for Governor, with his name fairly written, to the Constable, who shall seal them up, and write on them, Votes for the Governor, and deliver them to the Representative chosen to attend the General Assembly; and at the opening of the General Assembly, there shall be a committee appointed out of the Council and Assembly, who, after being duly sworn to the faithful discharge of their trust, shall proceed to receive, sort, and count the votes for the Governor, and declare the person who has the major part of the votes, to be Governor for the year ensuing. And if there be no choice made, then the Council and General Assembly, by their joint ballot, shall make choice of a Governor. The Lieutenant Governor and Treasurer shall be chosen in the manner above directed. And each freeman shall give in twelve votes for twelve Councillors, in the same manner, and the twelve highest in nomination shall serve for the ensuing year as Councillors.
-
-#### Section 11
-The Governor, and in his absence the Lieutenant Governor, with the Council, (a major part of whom, including the Governor or Lieutenant Governor, shall be a quorum to transact business) shall have power to commission[ate] all Officers—and also to appoint Officers, except where provision is, or shall be otherwise made, by law, or this Frame of Government—and shall supply every vacancy in any office, occasioned by death or otherwise, until the office can be filled in the manner directed by law or this Constitution. They are to correspond with other states—transact business with officers of government civil and military—and to prepare such business as may appear to them necessary, to lay before the General Assembly. They shall sit as Judges to hear and determine on impeachments, taking to their assistance, for advice only, the Judges of the Supreme Court. And shall have power to grant pardons and remit fines, in all cases whatsoever, except in treason and murder; in which they shall have power to grant reprieves, but not to pardon, until after the end of the next session of Assembly; and except in cases of impeachment, in which there shall be no remission, or mitigation of punishment, but by act of legislation. They are also to take care that the laws be faithfully executed. They are to expedite the execution of such measures as may be resolved upon by the General Assembly. And they may draw upon the Treasury for such sums as may be appropriated by the House of Representatives. They may also lay embargoes, or prohibit the exportation of any commodity, for any time not exceeding thirty days, in the recess of the House only. They may grant such licenses as shall be directed by law; and shall have power to call together the General Assembly, when necessary, before the day to which they shall stand adjourned. The Governor shall be Captain-General and Commander in Chief of the forces of the State, but shall not command in person, except advised thereto by the Council, and then only so long as they shall approve thereof. And the Lieutenant Governor shall, by virtue of his office, be Lieutenant General of all the forces of the State. The Governor, or Lieutenant Governor, and the Council, shall meet at the time and place with the General Assembly: the Lieutenant Governor shall, during the presence of the Commander in Chief, vote and act as one of the Council: and the Governor, and in his absence the Lieutenant Governor, shall, by virtue of their offices, preside in Council, and have a casting but no other vote. Every Member of the Council shall be a Justice of the peace for the whole State, by virtue of his office. The Governor and Council shall have a Secretary, and keep fair books of their proceedings, wherein any councillor may enter his dissent, with his reasons to support it; and the Governor may appoint a Secretary for himself and his Council.
-
-#### Section 12
-The Representatives having met, and chosen their Speaker and Clerk, shall each of them, before they proceed to business, take and subscribe, as well the oath or affirmation of allegiance herein after directed (except where they shall produce certificates of their having heretofore taken and subscribed the same) as the following oath or affirmation, viz.
-
-You do solemnly swear (or affirm) that as a Member of this Assembly, you will not propose, or assent to any bill, vote or resolution, which shall appear to you injurious to the people, nor do or consent to any act or thing whatever, that shall have a tendency to lessen or abridge their rights and priviledges, as declared by the Constitution of this State; but will, in all things, conduct yourself as a faithful, honest Representative and guardian of the people, according to the best of your judgment and abilities. (In case of an oath) So help you God. (And in case of an affirmation) under the pains and penalties of perjury.
-
-#### Section 13
 The doors of the House in which the General Assembly of this Commonwealth shall sit, shall be open for the admission of all persons who behave decently, except only when the welfare of the State may require them to be shut.
 
+#### Section 9
+The votes and proceedings of the General Assembly shall be printed (when one-third of the members of either House think it necessary) as soon as convenient after the end of the session, with the yeas and nays of the House of Representatives on any question when required by five members, and of the Senate when required by one Senator, (except where the votes shall be taken by ballot), in which case every member of either House shall have a right to insert the reason of his vote upon the minutes.
+
+#### Section 10
+The style of the laws of this State shall be, It is hereby enacted by the General Assembly of the State of Vermont.
+
+#### Section 11
+Every bill which shall have passed the Senate and House of Representatives shall, before it becomes a law, be presented to the Governor; if he approve, he shall sign it; if not, he shall return it, with his objections in writing to the House in which it shall have originated; which shall proceed to reconsider it. If, upon such reconsideration, two-thirds of the members present of that House shall pass the bill, it shall, together with the objections, be sent to the other House, by which it shall likewise be reconsidered, and, if approved by two-thirds of the members present of that House, it shall become a law.
+
+But, in all such cases, the votes of both Houses shall be taken by yeas and nays, and the names of the persons voting for or against the bill shall be entered on the journal of each House, respectively. If any bill shall not be returned by the Governor, as aforesaid, within five days (Sundays excepted) after it shall have been presented to him, the same shall become a law in like manner as if had signed it; unless the two Houses by their adjournment within three days after the presentation of such bill shall prevent its return; in which case it shall not become a law.
+
+#### Section 12
+No member of the General Assembly shall, directly or indirectly, receive any fee or reward, to bring forward or advocate any bill, petition, or other business to be transacted in the Legislature; or advocate any cause, as counsel in either House of legislation, except when employed in behalf of the State.
+
+#### Section 13
+In order that the freemen of this State may enjoy the benefit of election as equally as may be, each inhabited town in this State may, forever hereafter, hold elections therein and choose each one Representative to represent them in the House of Representatives.
+
 #### Section 14
-The votes and proceedings of the General Assembly shall be printed (when one third of the Members think it necessary) as soon as convenient after the end of each session, with the yeas and nays on any question, when required by any Member; (except where the votes shall be taken by ballot) in which case, every Member shall have a right to insert the reasons of his vote upon the minutes.
+The Representatives so chosen (a majority of whom shall constitute a quorum for transacting any other business than raising a State tax, for which two-thirds of the members elected shall be present) shall meet as required by section 7, and sahll be styled the House of Representatives: they shall have power to choose their Speaker, their Clerk, and other necessary officiers, sit on their own adjournments subject to the limitations of section 6, judge of the elections and qualifications of their own members; they may expel members, but not for causes known to their constituents antecedent to their election, administer oaths and affirmations in matters depending before them, and impeach state criminals.
 
 #### Section 15
-The stile of the laws of this State in future to be passed, shall be, It is hereby enacted by the General Assembly of the State of Vermont.
+No person shall be elected a Representative until he has resided in this State two years, the last of which shall be in the town for which he is elected.
 
 #### Section 16
-To the end that laws, before they are enacted, may be more maturely considered, and the inconvenience of hasty determinations as much as possible prevented, all bills which originate in the Assembly, shall be laid before the Governor and Council for their revision and concurrence, or proposals of amendment; who shall return the same to the Assembly, with their proposals of amendment, if any, in writing; and if the same are not agreed to by the Assembly, it shall be in the power of the Governor and Council to suspend the passing of such bills until the next session of the Legislature. Provided, that if the Governor and Council shall neglect or refuse to return any such bill to the Assembly, with written proposals of amendment, within five days, or before the rising of the Legislature, the same shall become a law.
+The Representatives having met, and chosen their Speaker and Clerk, shall each of them, before they proceed to business, take and subscribe, as well the oath or affirmation of allegiance hereinafter directed (except where they shall produce certificates of their having theretofore taken and subscribed the same) as the following oath or affirmation:
+
+You do solemnly swear (or affirm) that as a member of this Assembly, you will not propose, or assent to, any bill, vote or resolution, which shall appear to you injurious to the people, nor do nor consent to any act or thing whatever, that shall have a tendency to lessen or abridge their rights and privileges, as declared by the Constitution of this State; but will, in all things, conduct yourself as a faithful, honest Representative and guardian of the people, according to the best of your judgment and ability. (In case of an oath) So help you God. (Or in case of an affirmation) Under the pains and penalties of perjury.
 
 #### Section 17
-No money shall be drawn out of the Treasury, unless first appropriated by act of Legislation.
+The Representatives having met on the day appointed by law for the commencement of a biennial session of the General Assembly, and chosen their Speaker, and the Senators having met, shall, before they proceed to business, take and subscribe the following oath, in addition to the oath prescribed in the foregoing section:
+
+You do solemnly swear (or affirm) that you did not at the time of your election to this body, and that you do not now, hold any office of profit or trust under the authority of Congress. So help you God. (Or in case of an affirmation) Under the pains and penalties of perjury.
+
+The words "office of profit or trust under the authority of Congress" shall be construed to mean any office created directly or indirectly by Congress, and for which emolument is provided from the Treasury of the United States.
 
 #### Section 18
-No person shall be elected a Representative, until he has resided two years in this State: the last of which shall be in the town for which he is elected.
+The Senate shall be composed of thirty Senators, to be of the freemen of the county for which are elected, respectively, who shall have attained the age of thirty years, and they shall be elected biennially by the freemen of each county respectively.
+
+The Senators shall be apportioned to the several counties, according to the population, as ascertained by the census taken under the authority of Congress in the year 1910, regard being always had, in such apportionment, to the counties having the largest fraction, and each county being given at least one Senator.
+
+The Legislature shall make a new apportionment of the Senators to the several counties, after the taking of each census of the United States, or after a census taken for the purpose of such apportionment, under the authority of this State, always regarding the above provisions of this section.
 
 #### Section 19
-No member of the Council or House of Representatives, shall, directly or indirectly, receive any fee or reward, to bring forward, or advocate any bill, petition, or other business, to be transacted in the Legislature; or advocate any cause, as Council, in either House of Legislation, except when employed in behalf of the State.
+The Senate shall have the like powers to decide on the election and qualifications of, and to expel any of, its members, make its own rules, and appoint its own officers, as are incident to, or are possessed by, the House of Representatives. A majority shall constitute a quorum. The Lieutenant-Governor shall be President of the Senate, except when hell exercise the office of Governor, or when his office shall be vacant, or in his absence, in which cases the Senate shall appoint one of its own members to be President of the Senate, pro tempore. And the President of the Senate shall have a casting vote, but no other.
 
+### Executive Department
 #### Section 20
-No person ought in any case, or in any time, to be declared guilty of treason or felony, by the Legislature.
+The Governor, and in his absence, the Lieutenant-Governor, shall have power to commission all officers, and also to appoint officers, except where provision is, or shall be, otherwise made by law or this Frame of Government; and shall supply every vacancy in any office, occasioned by death or otherwise, until the office can be filled in the manner directed by law or this Constitution. He is to correspond with other States, transact business with officers of government, civil and military, and prepare such business as may appear to him necessary, to lay before the General Assembly. He shall have power to grant pardons and remit fines in all cases whatsoever, except in treason in which he shall have power to grant reprieves, but not to pardon, until after the end of the next session of the General Assembly; and except in cases of impeachment, in which he shall not grant reprieve or pardon, and there shall be no remission, or mitigation of punishment, but by act of legislation. He is also to take care that the laws be faithfully executed. He is to expedite the execution of such measures as may be resolved upon by the General Assembly. And he may draw upon the Treasury for such sums as may be appropriated by the General Assembly. He may also lay embargoes, or prohibit the exportation of any commodity, for any time not exceeding thirty days, in the recess of the General Assembly only. He may grant such licenses as shall be directed by law; and shall have power to call together the General Assembly, when necessary, before the day to which they shall stand adjourned. The Governor shall be Captain-General and Commander--in-Chief of the forces of the State, but shall not command in person, in time of war, or insurrection, unless by the advice and consent of the Senate, and no longer than they shall approve thereof. And the Lieutenant-Governor shall, by virtue of his office, be Lieutenant-General of all the forces of the State.
 
 #### Section 21
-Every man of the full age of twenty one years, having resided in this State for the space of one whole year next before the election of Representatives, and is of a quiet and peaceable behaviour, and will take the following oath or affirmation, shall be entitled to all the privileges of a freeman of this State.
-
-"You solemnly swear (or affirm) that whenever you give your vote or suffrage, touching any matter that concerns the State of Vermont, you will do it so as in your conscience you shall judge will most conduce to the best good of the same, as established by the constitution, without fear or favour of any man."
+The Governor may have a Secretary of Civil Military Affairs, to be by him appointed during pleasure, whose services he may at all times command; and for whose compensation provision shall be made by law.
 
 #### Section 22
-The inhabitants of this State shall be trained and armed for its defence, under such regulations, restrictions, and exceptions, as Congress, agreeably to the Constitution of the United States, and the Legislature of this State, shall direct. The several companies of Militia shall, as often as vacancies happen, elect their Captain and other Officers, and the Captain and Subalterns shall nominate and recommend the field officers of their respective regiments, who shall appoint their staff Officers.
+All commisions shall be in the name of The Freemen of the State of Vermont, sealed with the State Seal, signed by the Governor, and in his absence by the Lieutenant-Governor, and attested by the Secretary; which Seal shall be kept by the Governor.
 
 #### Section 23
-All Commissions shall be in the name of the freemen of the State of Vermont, sealed with the State Seal, signed by the Governor, and in his absence, the Lieutenant Governor, and attested by the Secretary; which seal shall be kept by the Governor.
+No person shall be eligible to the office of Governor or Lieutenant-Governor until he shall have resided in this State four years next preceding the day of his election.
 
 #### Section 24
-Every officer of state, whether judicial or executive, shall be liable to be impeached by the General Assembly, either when in office, or after his resignation or removal for mal-administration. All impeachments shall be before the Governor, or Lieutenant Governor, and Council, who shall hear and determine the same and may award costs; and no trial or impeachment shall be a bar to a prosecution at law.
+The Legislature shall provide by general law what officer shall act as Governor whenever there shall be a vacancy in both the offices of Governor and Lieutenant-Governor, occasioned by a failure to elect, or by the removal from office, or by the death or resignation of both Governor and Lieutenant-Governor, or by the inability of both Governor and Lieutenant-Governor to exercise the powers and discharge the duties of the office of Governor; and such officer so designated, shall exercise the powers and discharge the duties apperataining to the office of Governor accordingly until the disability shall be removed, or a Governor shall be elected. And in case there shall be a vacancy in the office of Treasurer, by reason of any of the causes enumerated, the Governor shall appoint a Treasurer for the time being, who shall act as Treasurer until the disability shall be removed, or a new election shall be made.
 
 #### Section 25
-As every freeman, to preserve his independence (if without a sufficient estate) ought to have some profession, calling, trade, or farm, whereby he may honestly subsist, there can be no necessity for, nor use in, establishing offices of profit, the usual effects of which are, dependence and servility, unbecoming freemen, in the possessors or expectants, and faction, contention and discord among the people. But if any man is called into public service to the prejudice of his private affairs, he has a right to a reasonable compensation; and whenever an office through increase of fees or otherwise, becomes so profitable as to occasion many to apply for it, the profits ought to be lessened by the Legislature. And if any officer shall wittingly and willfully take greater fees than the law allows him, it shall ever after disqualify him from holding any office in this State, until he shall be restored by act of Legislation.
+The Treasurer of the State shall, before entering upon the duties of his office, give sufficient security to the Secretary of State, in behalf of the State of Vermont, before the Governor of the State or one of the Justices of the Supreme Court. And Sheriffs and High Bailiffs, before entering upon the duties of their respective offices, shall give sufficient security to the Treasurer of their respective counties, before one of the Justices of the Supreme Court, or the two Assistant Judges of the County Court of their respective counties, in such manner and in such sums as shall be directed by the Legislature.
 
 #### Section 26
-No person in this State, shall be capable of holding or exercising more than one of the following offices at the same time, viz. Governor, Lieutenant Governor, Judge of the Supreme Court, Treasurer of the State, Member of the Council, Member of the General Assembly, Surveyor General, or Sheriff. Nor shall any person holding any office of profit or trust under the authority of Congress, be eligible to any appointment in the Legislature, or of holding any executive or judiciary office under this State.
+The Treasurer's accounts shall be annually audited, and a fair state thereof laid before the General Assembly at its biennial session in January.
 
 #### Section 27
-The Treasurer of the State shall, before the Governor and Council, give sufficient security to the Secretary of the State, in behalf of the General Assembly; and each High Sheriff, before the first Judge of the County Court, to the Treasurer of their respective Counties, previous to their respectively entering upon the execution of their offices, in such manner, and in such sums as shall be directed by the Legislature.
+No money shall be drawn out of the Treasury, unless first appropriated by act of legislation.
 
+### Judiciary Department
 #### Section 28
-The Treasurer's accounts shall be annually audited, and a fair state thereof laid before the General Assembly, at their session in October.
+The Courts of Justice shall be open for the trial of all causes proper for their cognizance; and justice shall be therein impartially administered, without corruption, or unnecessary delay. The Justices of the Supreme Court shall be Justices of the Peace throughout the State; and the several Judges of the County Courts, in their respective counties, by virtue of their office, except in the trial of such causes as may be appealed to the County Court.
 
 #### Section 29
-Every officer, whether judicial, executive or military, in authority under this State, before he enters upon the execution of his office, shall take and subscribe the following oath or affirmation of allegiance to this State, (unless he shall produce evidence that he has before taken the same) and also the following oath or affirmation of office, except military officers, and such as shall be exempted by the Legislature.
-
-The oath or affirmation of allegiance.
-
-"You do solemnly swear (or affirm) that you will be true and faithful to the State of Vermont, and that you will not, directly or indirectly, do any act or thing injurious to the Constitution or Government thereof, as established by Convention. (If an oath) So help you God. (If an affirmation) under the pains and penalties of perjury."
-
-The oath or affirmation of office.
-
-"You do solemnly swear (or affirm) that you will faithfully execute the office of for the of ; and will therein do equal right and justice to all men, to the best of your judgment and abilities, according to law. (If an oath) So help you God. (If an affirmation) under the pains and penalties of perjury.
+The Legislature may, when they shall conceive the same to be expedient and necessary, erect a Court of Chancery, with such powers as are usually exercised by that Court, or as shall appear for the interest of the Commonwealth.-Provided they do not constitute themselves the Judges of the said Court.
 
 #### Section 30
-No person shall be eligible to the office of Governor, or Lieutenant Governor, until he shall have resided in this State four years next preceeding the day of his election.
-
-#### Section 31
 Trials of issues, proper for the cognizance of a Jury, in the Supreme and County Courts, shall be by Jury, except where parties otherwise agree; and great care ought to be taken to prevent corruption or partiality in the choice and return, or appointment of Juries.
 
+#### Section 31
+All prosecutions shall commence, By the authority of the State of Vermont. All Indictments shall conclude with these words, against the peace and dignity of the State. And all fines shall be proportioned to the offences.
+
 #### Section 32
-All prosecutions shall commence, By the authority of the State of Vermont; all Indictments shall conclude with these words, against the peace and dignity of the State. And all fines shall be proportioned to the offences.
+The person of a debtor, where there is not strong presumption of fraud, shall not be continued in prison after his delivering up and assining over, bona fide, all his estate, real and personal, in possession, reversion or remainder, for the use of his creditors, in such manner as shall be regulated by law. And all prisoners, unless in execution, or committed for capital offences, when the proof is evident or presumption great, shall be bailable by sufficient sureties; nor shall excessive bail be exacted for bailable offences.
 
 #### Section 33
-The person of a debtor, where there is not strong presumption of fraud, shall not be continued in prison after delivering up and assigning over, bona fide, all his estate, real and personal, in possession, reversion or remainder, for the use of his creditors, in such manner as shall be hereafter regulated by law. And all prisoners, unless in execution, or committed for capital offences, when the proof is evident or presumption great, shall be bailable by sufficient sureties; nor shall excessive bail be exacted for bailable offences.
+The Writ of Habeas Corpus shall in no case be suspended. It shall be a writ issuable of right; and the General Assembly shall make provision to render it a speedy and effectual remedy in all cases proper therefor.
 
+### Qualifications of Freemen
 #### Section 34
-All elections, whether by the people or in Legislature, shall be free and voluntary: and any elector who shall receive any gift or reward for his vote, in meat, drink, monies or otherwise, shall forfeit his right to elect at that time, and suffer such other penalty as the law shall direct; and any person who shall directly or indirectly, give, promise, or bestow, any such rewards to be elected, shall thereby be rendered incapable to serve for the ensuing year, and be subject to such further punishment as a future Legislature shall direct.
+Every man of the full age of twenty-one years, who is a natural born citizen of this or some one of the United States, or has been naturalized agreeably to the Acts of Congress, having resided in this State for the space of one whole year next before the election of Representatives, and who is of a quiet and peaceable behavior, and will take the following oath or affirmation, shall be entitled to all the privileges of a freeman of this State:
 
+You solemnly swear (or affirm) that whenever you give your vote or suffrage, touching any matter that concerns the State of Vermont, you will do it so as in your conscience you shall judge will most conduce to the best good of the same, as established by the Constitution, without fear or favor of any man.
+
+### Elections. Officers. Terms of Office
 #### Section 35
-All deeds and conveyances of land shall be recorded in the town Clerk's office in their respective towns; and, for want thereof, in the county Clerk's office of the same county.
+The Governor, Lieutenant-Governor, Treasurer, Secretary of State, Auditor of Accounts, Senators, Town Representatives, Assistant Judges of the County Court, Sheriffs, High Bailiffs, State's Attorneys, Judges of Probate and Justices of the Peace, shall be elected biennially on the first Tuesday next after the first Monday of November, beginning in A. D 1914.
 
 #### Section 36
-The Legislature shall regulate entails in such manner as to prevent perpetuities.
+The House of Representatives of the freemen of this State, shall consist of persons most noted for wisdom and virtue, to be chosen by ballot, by the freemen of every town in this State, respectively, on the first Tuesday next after the first Monday of November, beginning in A. D. 1914.
 
 #### Section 37
-To deter more effectually from the commission of crimes, by continued visible punishments of long duration, and to make sanguinary punishments less necessary, means ought to be provided for punishing by hard labour, those who shall be convicted of crimes not capital, whereby the criminal shall be employed for the benefit of the public, or for the reparation of injuries done to private persons: and all persons at proper times ought to be permitted to see them at their labour.
+The freemen of the several towns in each county shall, biennially, give their votes for the Senators apportioned to such county, at the same time, and under the same regulations, as are provided for the election of Governor in section 39. And the person or persons, equal to the number of Senators, apportioned to such county, having the greatest number of legal votes in such county respectively, shall be the Senator or Senators of such county. At every election of Senators, after the votes shall have been taken, the Constable or presiding officer, assisted by the Selectmen and civil authority present, shall sort and count the said votes, and make two lists of the names of all persons votes for, with the number of votes given for each annexed to his name, a record of which be made in the Town Clerk's office, and shall seal up said lists, separately, and write on each the name of the town, and these words, Votes for Senator, or, Votes for Senators, as the case may be, one of which lists shall be delivered, by the presiding officer, to the Representative of said town (if any) and if none be chosen, to the Representative of an adjoining town, to be transmitted to the President of the Senate. The other list, the said presiding officer shall, within ten days, deliver to the Clerk of the County Court for the same county; and the Clerk of each County Court, respectively, or in case of his absence, or disability, the Sheriff of such county, or in case of his absence, or disability, the Sheriff of such county, or in case of the absence or disability of both, the High Bailiff of such county, on the tenth day after such election, shall publicly open, sort, and count said votes; and make a record of the same in the office of the Clerk of such County Court, a copy of which he shall transmit to the Senate; and shall also within ten days thereafter, transmit to the person or persons elected, a certificate of his or their election. Provided, however, that the General Assembly shall have power to regulate by law the mode of balloting for Senators, within the several counties, and to prescribe the means and the manner, by which the result of the balloting shall be ascertained, and through which the Senators chosen shall be certified of their election, and for filling all vacancies in the Senate, which shall happen by death, resignation or otherwise. But they shall not have power to pportion the Senators to the several counties, otherwise than accoriding to the population thereof agreeably to the provisions hereinbefore ordained.
 
 #### Section 38
-The estates of such persons as may destroy their own lives, shall not, for that offence, be forfeited, but descend or ascend in the same manner as if such persons had died in a natural way. Nor shall any article which shall accidentally occasion the death of any person, be henceforth deemed a deodand, or in any wise forfeited on account of such misfortune.
+The term of office of Senators and Town Represenatives shall be two years, commencing on the first Wednesday next after the first Monday of January following their election.
 
 #### Section 39
-Every person, of good character, who comes to settle in this State, having first taken an oath or affirmation of allegiance to the same, may purchase, or by other just means acquire, hold and transfer land, or other real estate; and after one year's residence, shall be deemed a free denizen thereof, and entitled to all rights of a natural born subject of this State, except that he shall not be capable of being elected Governor, Lieutenant Governor, Treasurer, Councillor or Representative in Assembly, until after two years residence.
+The freemen of each town shall, on the day of election for choosing Representatives to attend the General Assembly, bring in their votes for Governor, with his name fairly written, to the Constable, who shall seal them up and write on them, Votes for Governor, and deliver them to Representatives chosen to attend the General Assembly; and at the opening of the General Assembly, there shall be a committee appointed out of the Senate and House of Representatives, who, after being duly sworn to the faithful discharge of their trust, shall proceed to receive, sort, and count the votes for Governor, and declare the person who has the major part of the votes, to be Governor for the two years ensuing. The Lieutenant-Governor and the Treasurer shall be chosen in the manner above directed.
+
+The votes for Governor, Lieutenant-Governor, and Treasurer, of the State, shall be sorted and counted, and the result declared, by a committee appointed by the Senate and House of Representatives.
+
+If, at any time, there shall be no election, by the freemen, of Governor, Lieutenant-Governor, or Treasurer, of the State, the Senate and House of Representatives shall by a joint ballot, elect to fill the office, not filled by the freemen as aforsaid, one of the three candidates for such office (if there be so many) for whom the greatest number of votes shall have been returned.
 
 #### Section 40
-The inhabitants of this State shall have liberty in seasonable times, to hunt and fowl on the lands they hold, and on other lands not enclosed; and in like manner to fish in all boatable and other waters (not private property) under proper regulations, to be hereafter made and provided by the General Assembly.
+The Secretaty of State and the Auditor of Accounts shall be elected by the freemen of the State upon the same ticket with the Governor, Lieutenant-Governor and Treasurer; and the Legislature shall carry this provision into effect by appropriate legislation.
 
 #### Section 41
-Laws for the encouragement of virtue and prevention of vice and immorality, ought to be constantly kept in force, and duly executed: and a competent number of schools ought to be maintained in each town, for the convenient instruction of youth: and one or more grammar schools be incorporated and properly supported, in each county in this State. And all religious societies, or bodies of men, that may be hereafter united or incorporated, for the advancement of religion and learning, or for other pious and charitable purposes, shall be encouraged and protected in the enjoyment of the privileges, immunities and estates, which they in justice ought to enjoy, under such regulations as the General Assembly of this State shall direct.
+The term of office of the Governor, Lieutenant-Governor and Treasurer of the State, respectively, shall commence when they shall be chosen and qualified, and shall continue for the term of two years, or until their successors shall be chosen and qualified, or to the adjournment of the session of the Legislature at which, by the Constitution and laws, their successors are required to be chosen, and not after such adjournment.
 
 #### Section 42
-The declaration of the political rights and privileges of the inhabitants of this State, is hereby declared to be a part of the Constitution of this Commonwealth; and ought not to be violated, on any pretence whatsoever.
+The Justices of the Supreme Court and the Judges of the several County Courts (except Assistant Judges of the County Court), Major-Generals and Brigadier-Generals, shall be elected by the Senate and House of Representatives, in Joint Assembly, at which the presiding officer of the Senate shall preside; and such presiding officer in such Joint Assembly shall have a casting vote, and no other.
 
 #### Section 43
-In order that the freedom of this Commonwealth may be preserved inviolate forever, there shall be chosen, by ballot, by the freemen of this State, on the last Wednesday in March, in the year one thousand seven hundred and ninety-nine, and on the last Wednesday in March, in every seven years thereafter, thirteen persons, who shall be chosen in the same manner the Council is chosen, except they shall not be out of the Council or General Assembly, to be called the Council of Censors; who shall meet together on the first Wednesday of June next ensuing their election, the majority of whom shall be a quorum in every case, except as to calling a convention, in which two thirds of the whole number elected shall agree: and whose duty it shall be to enquire, whether the Constitution has been preserved inviolate in every part, during the last septenary, (including the year of their service); and whether the legislative and executive branches of government have performed their duty, as guardians of the people, or assumed to themselves, or exercised, other or greater powers than they are entitled to by the Constitution. They are also to enquire, whether the public taxes have been justly laid and collected in all parts of this Commonwealth—in what manner the public monies have been disposed of—and whether the laws have been duly executed.—For these purposes they shall have power to send for persons, papers, and records—they shall have authority to pass public censures, to order impeachments, and to recommend to the Legislature the repealing such laws as shall appear to them to have been passed, contrary to the principles of the Constitution: These powers they shall continue to have for and during the space of one year from the day of their election, and no longer. The said Council of Censors shall also have power to call a Convention, to meet within two years after their sitting, if there appears to them an absolute necessity of amending any article of this Constitution, which may be defective—explaining such as may be thought not clearly expressed—and of adding such as are necessary for the preservation of the rights and happiness of the people; but the articles to be amended, and the amendments proposed, and such articles as are proposed to be added or abolished, shall be promulgated at least six months before the day appointed for the election of such Convention, for the previous consideration of the people, that they may have an opportunity of instructing their Delegates on the subject.
+The Joint Assembly may biennially on their first session after their election (or oftener if need be) elect Justices of the Supreme Court and Judges of the several County Courts (except Assistant Judges of the County Courts) and also may elect Major-Generals and Brigadier-Generals, from time to time, as often as there shall be occasion.
 
-## Articles of Amendment
-### Article 1
-No person who is not already a freeman of this State shall be entitled to exercise the privleges of a freeman unless he be a natural born citizen of this or some one of the United States, or until he shall have been naturalized agreeably to the acts of Congress.
+#### Section 44
+The Justices of the Supreme Court shall be elected biennially, and their term of office shall be two years.
 
-### Article 2
-The most numberous branch of the Legislature of this State shall hereafter be styled the House of Representatives.
+#### Section 45
+The Assistant Judges of the County Court, Sheriffs, High Bailiffs, and State's Attorneys shall be elected by the freemen of their respective counties.
 
-### Article 3
-The Supreme Legislative power of this State shall hereafter be exercised by a Senate and the House of Representatives; which shall be styled, "The General Assembly of the State of Vermont." - Each shall have and exercise the like powers in all acts of Legislation; and no bill, resolution, or other thing, which shall have been passed by the one, shall have the effect of, or be declared to be, a law, without the concurrence of the other. Provided, That all Revenue bills shall originate in the House of Representatives, - but the Senate may propose or concur with amendments, as on other bills. Neither House during the session of the General Assembly, shall, without the consent of the other, adjourn for more than three days, nor to any other place than that, in which the two Houses shall be sitting, - and in case of disagreement between the two Houses, with respect to adjournment, the Governor may adjourn them to such time as he shall think proper.
+#### Section 46
+Judges of Probate shall be elected by the freemen of their respective probate districts.
 
-### Article 4
-The Senate shall be composed of thirty Senators, to be of the freemen of the County for which they are elected, respectively, who are thirty years of age or upwards, and to be anullay elected by the freemen of each County respectively.- Each County shall be entitled to one Senator, at least, and the remainder of the Senators shall apportioned to the several Counties according to their population, as the same was ascertained by the last Census, taken under the authority of the United States,- regard being always had, in such apportionment, to the Counties having the greatest fraction.- But the several Counties shall, until after the next Census of the United States, be entitled to elect, and have their Senators, in the following proportion, to wit:
+#### Section 47
+Justices of the Peace shall be elected by the freemen of their respective towns; and towns having less than one thousand inhabitants may elect any number of Justices of the Peace not exceeding five; towns having one thousand and less than two thousand inhabitants, may elect seven; towns having two thousand and less than three thousand inhabitants, may elect ten; towns having three thousand and less than five thousand inhabitants, may elect twelve; and towns having five thousand, or more, inhabitants, may elect fifteen Justices of the Peace.
 
-Bennington County, two; Windham County, three; Rutland County, three; Windsor County, four; Addison County, three; Orange County, three; Washington County, two; Chittenden County, two; Caledonia County, two; Franklin County, three; Orleans County, one; Essex County, one; Grand Isle County, one.
+#### Section 48
+The term of office of the Assistant Judges of the County Court, Sheriffs, High Bailiffs, State's Attorneys, Judges of Probate and Justices of the Peace, shall be two years, and shall commence on the first day of February next after their election.
 
-The Legislature shall make a new apportionment of the Senators, to the several Counties, after the taking of each Census of the United States, or Census taken, for the purpose of such apportionment, by order of the Government of this State - always regarding the above provisions in this article.
+#### Section 49
+The election of the several officers mentioned in the preceding officers mentioned in the preceding section, shall be made at the times and in the manner now directed in the Constitution for the choice of Senators. And the presiding officers of each freemen's meeting, after the votes shall have been taken, sorted and counted, shall, in open meeting, make a certificate of the names of all persons voted for, with the number of votes given for each annexed to his name, and designating the office for which the votes were given, a record of which shall be made in the Town Clerk's office, and he shall seal up said certificate, and shall write thereon the name of the town and the words, Certificate of Votes for and add thereto, in writing, the title of the office voted for, as the case may be, and shall deliver such certificate to some Representative chosen as a member of the General Assembly , whose duty it shall be to cause such certificate of votes to be delivered to the committee of the General Assembly appointed ton canvass the same. And at the sitting of the General Assembly, next after such balloting for the officers aforesaid, there shall be a committee appointed of and by the General Assembly, who shall be sworn to the faithful discharge of their duty, and whose duty it shall be to examine such certificates and ascertain the number of votes given for each candidate, and the persons receiving the largest number of votes for the respective offices, shall be declared duly elected, and by such committe be reported to the General Assembly and the officers so elected shall be commissioned by the Governor. And if two or more persons designated for any one of said offices, shall have received an equal number of votes, the General Assembly shall elect one of such persons to such office.
 
-### Article 5
-The freemen of the several towns in each County shall annually, give their votes of the Senators, apportioned to such County, at the same time, and under the same regulations, as are now provided for the election of Concillors.- And the person or persons, equal in number to the number of Senators, apportioned to such County, having the greatest number of legal votes, in such County respectively, shall be the Senator or Senators, of such County.- At every electon of Senators, after the votes shall have been taken, the Constable or presiding officer, assisted by the Selectmen and civil authority present, shall sort and count the said votes, and make two lists of the names of each person, with the number of votes given for each annexed to his name, a record of which shall be made in the Town Clerk's office, and shall seal up said lists, separated, and write on each the name of the town and these words, "Votes for Senator," or "Votes for Senators," as the case may be, one of which lists shall be delivered, by the presiding officer, to the Representative of said town, (if any) and if none be chosen, to the Representative of an adjoining town, to be transmitted to the President of the Senate;- the other list, the said presiding officer, shall within ten days, deliver to the Clerk of each Couty Court, for the same County,- and the Cleark of each County Court, respectively, or in case of his absence, or disability, to the Sheriff of such County, or in case of the absence or disability of both, to the High Bailiff of such County, on the tenth day after such election, shall publicly, open, sort, and count the said votes;- and make a record of the same in the office of the Clerk of such County Court, a copy of which he shall transmit to the Senate:- and shall also within ten days thereafter, transmit to the person or persons elected, a certificate of his or their election. Provided, However, that the General Assembly shall have power to regulate by Law the mode of balloting for Senators, within the several Counties, and to prescribe the means, and the manner by which the result of the balloting shall be ascertained, and through which the Senators chosen shall be certified of their election, and for filling all vacancies in the Senate, which shall happen by death, resignation or otherwise. But they shall not have power to apportion the Senators to the several Counties, otherwise, than according to the population thereof agreeably to the provisions herein before ordained.
+#### Section 50
+No person in this State shall be capable of holding or exercising more than one of the following offices at the same time: Governor, Lieutenant-Governor, Justice of the Supreme Court, Treasurer of the State, member of the Senate, member of the House of Representatives, Surveyor-General, or Sheriff. Nor shall any person holding any office of profit or trust under the authority of Congress, be eligible to any appointment in the Legislature, or to any executive or judiciary office under this State.
 
-### Article 6
-The Senate shall have the like powers to decide on the election and qualifications of, and to expel any of its members, make its own rules, and appoint its own officers, as are incident to, or are possessed by, the House of Representatives. A majority shall constitute a quorum. The Lieut. Governor shall be President of the Senate, except when he shall exercise the office of Governor, or when his office shall be vacant, or in his absence, in which cases the Senate shall appoint one of its own members, to be President of the Senate, pro tempore. And the President of the Senate shall have a casting vote, but no other.
+#### Section 51
+All elections, whether by the people or the Legislature, shall be free and voluntary: and any elector who shall receive any gift or reward for his vote, in meat, drink, moneys or otherwise, shall forfeit his right to elect at that time, and suffer such other penalty as the law shall direct; and any person who shall directly or indirectly give, promise, or bestow, any such rewards to be elected, shall thereby be rendered incapable to serve for the ensuing year, and be subject to such further punishment as the Legislature shall direct.
 
-### Article 7
-The Senate shall have the sole power of trying and deciding upon all impeachments - when sitting for that purpose, they shall be on oath, or affirmation, and no person shall be convicted, without the concurrence of two thirds of the members present. Judgment in cases of impeachment, shall not extend farther than to removal from office - and disqualification to hold or enjoying any office of honor, or profit, or trust, under this State. But the party convicted shall, nevertheless, be liable and subject to indictment, trial, judgment, and punishment, according to Law.
+### Oath of Allegiance. Oath of Office
+#### Section 52
+Every officer, whether judicial, exccutive, or military, in authority under this State, before he enters upon the execution of his office, shall take and subscribe the following oath or affirmation of allegiance to this State, (unless he shall produce evidence that he has before taken the same) and also the following oath or affirmation of office, except military officers, and such as shall be exempted by the Legislature.
 
-### Article 8
-The Supreme Executive power of the State, shall be exercised by the Governor, or, in case of his absence, or disability, by the Lieut. Governor; who shall have all the powers, and perform all the duties vested in and enjoined upon the Governor and Council, by the Eleventh and Twentyseventh Sections of the second Chapter of the Constitution, as at present established, excepting that he shall not sit as a judge, in case of impeachment, nor grant reprieve or pardon, in any such case; nor shall he command the forces of the State in person, in time of war, or insurrection; unless by the advice and consent of the Senate; and no longer than they shall approve thereof. The Governor may have a Secretary of civil and military affairs, to be by him appointed during pleasure, whose services he may at all times command; and for whose compensation provision shall be made by law.
+The Oath or Affirmation of Allegiance
 
-### Article 9
-The votes for Governor, Lieut. Governor, and Treasurer, of the State, shall be sorted and counted, and the result declared, by a committee appointed by the Senate and House of Representatives. If, at any time, there shall be no election, by the freemen, of Governor, Lieut. Governor, and Treasurer, of the State, the Senate and House of Representative shall, by a joint ballot, eelect to fill the office, not filled by the freemen as aforesaid, one of the three candidates for such office, (if there be so many) for whom the greates number of votes shall have been returned.
+You do solemnly swear (or affirm) that you will be true and faithful to the State of Vermont, and that you will not, directly or indirectly, do any act or thing injurious to the Constitution or Government thereof. (If an oath) So help you God. (If an affirmation) Under the pains and penalties of perjury.
 
-### Article 10
-The Secretary of State, and all officers, whose elections are not otherwise provided for, and who under the existing provisions of the Constitution, are elected by the Council and House of Representatives, shall, hereafter, be elected by the Senate and House of Representatives, in joint assembly, at which the presiding officer of the State, shall preside; and such presiding officer in such joint assembly shall have a casting vote, and no other.
+The Oath or Affirmation of Office
 
-### Article 11
-Every bill which shall have passed the Senate and House of Representatives, shall, before it become a law, be presented to the Governor; if he approve, he shall sign it; ì not, he shall return it, with his objections in writing, to the House, in which it shall have originated; which shall proceed to reconsider it. If, upon such reconsideration, a mjority of the House shall pass the bill, it shall, together with the objections, be sent to ther other House, by which, it shall, likewise, be reconsidered, and, if approved by a majority of that House, it shall be come law. But, in all such cases, the votes of both Houses shall be taken by yeas and nays, and the names of the persons, voting for or against the bill, shall be entered on the journal of each House, respectively. If any bill shall not be returned by the Governor, as aforesaid, within five days, (Sunday excepted) after it shall have been presented to him, the same shall become a law, in like manner, as if he had signed it; unless the two Houses, by their adjournment, within three days after the presentment of such bill, shall prevent its return; in which case, it shall not become a law.
+You do solemnly swear (or affirm) that you will faithfully execute the office of for the of and will therein do equal right and justice to all persons, to the best of your judgment and ability, according to law. (If an oath) So help you God. (If an affirmation) Under the pains and penalties of perjury.
 
-### Article 12
-The Writ of Habeas Corpus shall in no case be suspended.- It shall be a writ, issuable of right; and the General Assembly shall make provision to render it a speedy and effectual remedy in all cases proper therefor.
+### Impeachments
+#### Section 53
+The House Representatives shall have the power to order impeachments, which shall in all cases be by vote of two-thirds of its members.
 
-### Article 13
-Such parts and provisions only for the Constitution of this State, established by Convention on the ninth day of July, one thousand seven hundred and ninety-three, as are altered or superseded by any of the foregoing amendments, or are repugnant thereto, shall hereafter cease to have effect.
+#### Section 54
+Every officer of State, whether judicial or executive, shall be liable to be impeached by the House of Representatives, either when in office or after his resignation or removal for maladministration.
 
-### Article 14
-The Assistant Judges of the County Court shall be elected by the Freemen of their respective Counties.
+The Senate shall have the sole power of trying and deciding upon all impeachments. When sitting for that purpose, they shall be on oath, or affirmation, and no person shall be convicted, without the concurrence of two-thirds of the members present. Judgement in cases of impeachment shall not extend further than to removal from office and disqualification to hold or enjoy any office of honor, or profit, or trust, under this State. But the person convicted shall, nevertheless, be liable and subject to indictment, trial, judgment, and punishment, according to law.
 
-### Article 15
-Sheriffs and High Bailiffs shall be elected by the Freemen of their respective Counties.
+### Militia
+#### Section 55
+The inhabitants of this State shall be trained and armed for its defence, under such regulations, restrictions, and exceptions, as Congress, agreeably to the Constitution of the United States, and the Legislature of this State, shall direct. The several companies of Militia shall, as often as vacancies happen, elect their Captain and other officers, and the Captains and Subalterns shall nominate and recommend the field officers of their respective regiments, who shall appoint their staff officers.
 
-### Article 16
-State's Attorneys shall be elected by the Freemen of their respective Counties.
+### General Provisions
+#### Section 56
+No person ought in any case, or in any time, to be declared guilty of treason or felony, by the Legislature, nor to have his sentence upon conviction for felony commuted, remitted, or mitigated by the Legislature.
 
-### Article 17
-Judges of Probate shall be elected by the Freemen of their respective Probate Districts.
+#### Section 57
+As every freeman, to preserve his independence (if without a sufficient estate) ought to have some profession, calling, trade, or farm, whereby he may honestly subsist, there can be no necessity for, nor use it, establishing offices of profit, the usual effects of which are dependence and servility, unbecoming freemen, in the possessors or expectants, and faction, contention and discord among the people. But if any man is called into public service to the prejudice of his private affairs, he has a right to a reasonable compensation; and whenever an office through increase of fees or otherwise, becomes so profitable as to occasion many to apply for it, the profit ought to be lessened by the Legislature. And if any officer shall wittingly and willfully, take greater fees than the law allows him, it shall ever after disqualify him from holding any office in this State, until he shall be restored by act of legislation.
 
-### Article 18
-Justices of the Peace shall be elected by the Freemen of their respective towns; and towns having less than one thousand inhabitants may elect any number of Justices of the Peace not exceeding five; towns having one thousand, and less than two thousand inhabitants, may elect seven; towns having two thousand and less than three thousand inhabitants, may elect ten; towns having three thousand and less than five thousand inhabitants, may elect twelve; and towns having five thousand, or more, inhabitants, may elect fifteen Justices of the Peace.
+#### Section 58
+All deeds and conveyances of lands shall be recorded in the Town Clerk's office in their respective towns; and, for want thereof, in the County Clerk's office in the same county.
 
-### Article 19
-All the officers named in the preceding articles amendment shall be annually elected by ballot and shall hold their offices for one year, said year commencing on the first day of December next after their election.
+#### Section 59
+The Legislature shall regulate entails in such manner as to prevent perpetuities.
 
-### Article 20
-The election of the several officers mentioned in the preceding articles, excepting town Representatives, shall be made at the times and in the manner now directed in the Constitution for the choice of Senators. And the presiding officer of each Freemen's meeting, after the votes shall have been taken, sorted and counted, shall, in open meeting, make a certificate of the names of each person voted for, with the number of votes given for each, annexed to his name and designating the office for which the votes were given, a record of which shall be made in the Town Clerk's office, and he shall seal up said certificate, and shall write thereon the name of the town and the words, Certificate of Votes for and add thereto, in writing, the title of the office voted for, as the case may be, and shall deliver such certificate to some Representative chosen as a member of the General Assembly, whose duty it shall be to cause such certificate of votes to be delivered to the Committee of the General Assembly appointed to canvass the same. And at the sitting of the General Assembly, next after such balloting for the officers aforesaid, there shall be a Committee appointed of and by the General Assembly, who shall be sworn to the faithful discharge of their duty and whose duty it shall be to examine such certificates and ascertain the number of votes given for each certificate, and the persons receiving the largest number of votes for the respective offices, shall be declared duly elected, by such Committee be reported to the General Assembly and the officers so elected shall be commissioned by the Governor. And if two or more persons designated for any one of said offices, shall have received an equal number of votes, the General Assembly shall elect one of such persons to such office.
+#### Section 60
+To deter more effectually from the commission of crimes, by continued visible punishments of long duration, and to make sanguinary punishments less necessary, means ought to be provided for punishing by hard labor, those who shall be convicted of crimes not capital, whereby the criminal shall be employed for the benefit of the public, or for the reparation of injuries done to private persons: and all persons at proper times ought to be permitted to see them at their labor.
 
-### Article 21
-The term of office of the Governor, Lieutenant Governor, and Treasurer of the State, respectively, shall commence when they shall be chosen and qualified, and shall continue for the term of one year, or until their successors shall be chosen and qualified, or to the adjourment of the session of the Legislature, at which, by the constitution and laws, their successors are required to be chosen, and not after such adjournment. And the Legislature shall provide, by general law, declaring what officer shall act as Governor whenever there shall be a vacancy in both the offices of Governor and Lieutenant Governor, occasioned by a failure to elect, or by the removal from office, or by the death, resignation, or inability of both Governor and Lieutenant Governor, to exercise the powers and discharge the duties appertaining to the office of Governor accordingly until the disability shall be removed, or a Governor shall be elected. And in case there shall be a vacancy in the office of Treasurer, by reason of any of the causes enumerated, the Governor shall appoint a Treasurer for the time being, who shall act as Treasurer until the disability shall be removed, or a new election shall be made.
+#### Section 61
+The estates of such persons as may destroy their own lives, shall not, for that offence, be forfeited, but shall descend or ascend in the same manner as if such persons had died in a natural way. Nor shall any article which shall accidently occasion the death of any person, be deemed a deodand, or in any wise forfeited on account of such misfortune.
 
-### Article 22
-The Treasurer of the State, shall, before entering upon the duties of his office, give sufficient security to the Secretary of State, in behalf of the State of Vermont, before the Governor of the State or one of the Judges of the Supreme Court. And Sheriffs and High Bailiffs, before entering upon the duties of their respective offices, shall give sufficient security to the Treasurer of their respective Counties, before one of the Judges of the Supreme Court, or the two Assistant Judges of the County Court of their respective Counties, in such manner and in such sums as shall be directed by the Legislature.
+#### Section 62
+Every person of good character, who comes to settle in this State, having first taken an oath or affirmation of allegiance to the same, may purchase, or by other just means acquire, hold and transfer land, or other real estate; and after one year's residence shall be deemed a free denizen thereof, and entitled to all rights of a natural born subject of this State, except the privileges of a freeman, the right to which is herein elsewhere determined, and except also that he shall not be capable of being elected Treasurer, or Representative in Assembly, until after two years' residence, nor be eligible to the office of Governor or Lieutenant-Governor until he shall have resided in this State as required by section 23 of this Constitution.
 
-### Article 23
-The Senate shall be composed of thirty Senators, to be of the Freemen of the County for which they are elected, respectively, who shall have attained the age of thirty years, and they shall be elected annually by the Freemen of each County respectively.
+#### Section 63
+The inhabitants of this State shall have liberty in seasonable times, to hunt and fowl on the lands they hold, and on other lands not inclosed, and in like manner to fish in all boatable and other waters (not private property) under proper regulations, to be made and provided by the General Assembly.
 
-The Senators shall be apportioned to the several Counties, according to the population, as ascertained by the census taken under the authority of Congress in the year 1840, regarding being always had, in such apportionment to the Counties having the largest fraction, and giving to each County at least one Senator.
+#### Section 64
+Laws for the encouragement of virtue and prevention of vice and immorality, ought to be constantly kept in force, and duly executed; and a competent number of schools ought to be maintained in each town, for the convenient instruction of youth; and one or more grammer schools to be incorporated and properly supported, in each county in this State. And all religious societies, or bodies of men that may be united or incorporated for the advancement of religion and learning, or for other pious and charitable purposes, shall be encouraged and protected in the enjoyment of the privileges, immunities, and estates, which they in justice ought to enjoy, under such regulations as the General Assembly of this State shall direct.
 
-The Legislature shall make a new apportionment of the Senators to the several Counties, after the taking of each census of the United States, or after a census taken for the purpose of such apportionment, under the authority of this State, always regarding the above provisions of this article.
+#### Section 65
+No charter of incorporation shall be granted, extended, changed or amended by special law, except for such municipal, chartiable, educational, penal or reformatory corporations as are to be and remain under the patronage or control of the State; but the General Assembly shall provide by general laws for the organization of all corporations hereafter to be created. All general laws passed pursuant to this section may be altered from time to time or repealed.
 
-### Article 24
-#### Section 1
-The General Assembly shall meet on the first Wednesday of October, bienially; the first election shall be on the first Tuesday of September, A. D. 1870; the first session of the General Assembly on the first Wednesday of October, A. D. 1870.
+#### Section 66
+The General Assembly may pass laws compelling compensation for injuries received by employees in the course of their employment resulting in death or bodily hurt, for the benefit of such employees, their widows or next of kin. It may designate the class or classes of employers and employees to which such laws shall apply.
 
-#### Section 2
-The Governor, Lieutenant Governor, Treasurer of the State, senators, town representatives, assistant judges of the county court, sheriffs, high bailiffs, State's attorneys, judges of probate and justices of the peace, shall be elected biennially, on the first Tuesday of September, in the manner prescribed by the Constitution of the State.
+#### Section 67
+The Declaration of the political Rights and privileges of the inhabitants of this State, is hereby declared to be a part of the Constitution of this Commonwealth; and ought not to be violated on any pretence whatsoever.
 
-#### Section 3
-The term of office of the Governor, Lieutenant Governor and Treasurer of the State, respectively, shall commence when they shall be chosen and qualified, and shall continue for the term of two years, or until their successors shall be chosen and qualified, or to the adjournment of the session of the Legislature at which, by the Constitution and laws, their successors are required to be chosen, and not after such adjournment.
+### Amendment of the Constitution
+#### Section 68
+At the fifth biennial session of the General Assembly of this State following that of A. D. 1910, and at the session thereof every tenth year thereafter, the Senate may, by a vote of two-thirds of its members, make proposals of amendment to the Constitution of the Senate, which proposals of amendment, if concurred in by a majority of the members of the House of Representatives, shall be entered on the journals of the two Houses, and referred to the General Assembly then next to be chosen, and be published in the principal newspapers of the State; and if a majority of the members of the Senate and of the House of Representatives of the next following General Assembly shall respectively concur in the same proposals of amendment, or any of them, it shall be the duty of the General Assembly to submit the proposals of amendment so concurred in to a direct vote of the freemen of the State; and such of said proposals of amendment as shall receive a majority of the votes of the freemen voting thereon shall become a part of the Constitution of this State.
 
-#### Section 4
-The term of office of senators and town representatives shall be two years , commencing on the first Wednesday of October following their election.
+The General Assembly shall direct the manner of voting by the people upon the proposed amendments, and enact all such laws as shall be necessary to procure a free and fair vote upon each amendment proposed, and to carry into effect all the provisions of this election.
 
-#### Section 5
-The term of office of the assistant judges of the county court, sheriffs, high bailiffs, State's attorneys, judges of probate and justices of the peact, shall be two years, and shall commence on the first day of December next after their election.
+### Temporary Provisions
+#### Section 69
+The persons severally elected in 1912 to the offices mentioned in section 35 shall hold such offices until the term of their successors elected the first Tuesday next after the first Monday of November, A. D. 1914, shall begin as herein provided.
 
-### Article 25
-#### Section 1
-At the session of the General Assembly of this State, A. D. 1880, and at the session thereof every tenth year thereafter, the Senate may, by a vote of two-thirds of its members, make proposals of amendment to the Constitution of the State, which proposals of amendment, if concurred in by a majority of the members of the House of Representatives, shall be entered on the journals of the two Houses, and referred to the General Assembly then next to be chosen, and be published in the principal newspapers of the State; and if a majority of the members of the Senate and of the House of Representatives of the next following General Assembly shall respectively concur in the same proposals of amendment, or any of them, it shall be the duty of the General Assembly to submit the proposals of amendment so concured in to a direct vote of the freemen of the State; and such of said proposals of amendment as shall receive a majority of the votes of the freemen voting thereon shall become a part of the Constitution of this State.
-
-#### Section 2
-The General Assembly shall direct the manner of voting by the people upon the proposed amendments, and enact all such laws as shall be necessary to procure a free and fair vote upon each amendment proposed, and to carry into effect all the provisions of the preceding section.
-
-#### Section 3
-The House of Representatives shall have all the powers now possessed by the Council of Censors to order impeachments, which shall in all cases be by a vote of two-thirds of its members.
-
-#### Section 4
-The forty-third section of the second part of the Constitution of this State is hereby abrogated.
-
-### Article 26
-The Judges of the Supreme Court shall be elected biennially, and their term office shall be two years.
-
-#### Article 27
-The Representatives having met on the day appointed by law for the commencement of a biennial session of the General Assembly, and chosen their Speaker, and the Senators having met, shall, before they proceed to business, take and subscribe the following oath:
-
-"You, , do solemnly swear (or affirm) that you did not at the time of your election to this body and that you do not now, hold any office of profit or trust under the authority of Congress. So help you God, (or, in case of an affirmation,) under the pains and penalties of perjury."
-
-The words "office of profit or trust under the authority of Congress," shall be construed to mean any office created directly or indirectly by Congress, or for which emolument is provided from the Treasury of the United States.
-
-#### Article 28
-##### Section 1
-The Secretary of State and Auditor of Accounts shall be elected by the freemen of the State upon the same ticket with the Governor, Lieutenant Governor and Treasurer.
-
-##### Section 2
-The Legislature shall carry this article into effect by appropriate legislation.
+### Section 70
+The Justices of the Supreme Court are hereby authorized and directed to revise Chapter II of the Constitution by incorporating into said Chapter all amendments of the Constitution that are now or may be then in force and excluding therefrom all sections, clauses and words not in force and rearranging and renumbering the sections thereof under appropriate titles as in their judgments may be most logical and convenient; and said revised Chapter II as certified to the Secretary of State by said Justices or a majority thereof shall be a part of the Constitution of this State in substitution for existing Chapter II and all amendments thereof.
