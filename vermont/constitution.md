@@ -282,3 +282,35 @@ The Senate shall be composed of thirty Senators, to be of the Freemen of the Cou
 The Senators shall be apportioned to the several Counties, according to the population, as ascertained by the census taken under the authority of Congress in the year 1840, regarding being always had, in such apportionment to the Counties having the largest fraction, and giving to each County at least one Senator.
 
 The Legislature shall make a new apportionment of the Senators to the several Counties, after the taking of each census of the United States, or after a census taken for the purpose of such apportionment, under the authority of this State, always regarding the above provisions of this article.
+
+### Article 24
+#### Section 1
+The General Assembly shall meet on the first Wednesday of October, bienially; the first election shall be on the first Tuesday of September, A. D. 1870; the first session of the General Assembly on the first Wednesday of October, A. D. 1870.
+
+#### Section 2
+The Governor, Lieutenant Governor, Treasurer of the State, senators, town representatives, assistant judges of the county court, sheriffs, high bailiffs, State's attorneys, judges of probate and justices of the peace, shall be elected biennially, on the first Tuesday of September, in the manner prescribed by the Constitution of the State.
+
+#### Section 3
+The term of office of the Governor, Lieutenant Governor and Treasurer of the State, respectively, shall commence when they shall be chosen and qualified, and shall continue for the term of two years, or until their successors shall be chosen and qualified, or to the adjournment of the session of the Legislature at which, by the Constitution and laws, their successors are required to be chosen, and not after such adjournment.
+
+#### Section 4
+The term of office of senators and town representatives shall be two years , commencing on the first Wednesday of October following their election.
+
+#### Section 5
+The term of office of the assistant judges of the county court, sheriffs, high bailiffs, State's attorneys, judges of probate and justices of the peact, shall be two years, and shall commence on the first day of December next after their election.
+
+### Article 25
+#### Section 1
+At the session of the General Assembly of this State, A. D. 1880, and at the session thereof every tenth year thereafter, the Senate may, by a vote of two-thirds of its members, make proposals of amendment to the Constitution of the State, which proposals of amendment, if concurred in by a majority of the members of the House of Representatives, shall be entered on the journals of the two Houses, and referred to the General Assembly then next to be chosen, and be published in the principal newspapers of the State; and if a majority of the members of the Senate and of the House of Representatives of the next following General Assembly shall respectively concur in the same proposals of amendment, or any of them, it shall be the duty of the General Assembly to submit the proposals of amendment so concured in to a direct vote of the freemen of the State; and such of said proposals of amendment as shall receive a majority of the votes of the freemen voting thereon shall become a part of the Constitution of this State.
+
+#### Section 2
+The General Assembly shall direct the manner of voting by the people upon the proposed amendments, and enact all such laws as shall be necessary to procure a free and fair vote upon each amendment proposed, and to carry into effect all the provisions of the preceding section.
+
+#### Section 3
+The House of Representatives shall have all the powers now possessed by the Council of Censors to order impeachments, which shall in all cases be by a vote of two-thirds of its members.
+
+#### Section 4
+The forty-third section of the second part of the Constitution of this State is hereby abrogated.
+
+### Article 26
+The Judges of the Supreme Court shall be elected biennially, and their term office shall be two years.
