@@ -314,3 +314,17 @@ The forty-third section of the second part of the Constitution of this State is 
 
 ### Article 26
 The Judges of the Supreme Court shall be elected biennially, and their term office shall be two years.
+
+#### Article 27
+The Representatives having met on the day appointed by law for the commencement of a biennial session of the General Assembly, and chosen their Speaker, and the Senators having met, shall, before they proceed to business, take and subscribe the following oath:
+
+"You, , do solemnly swear (or affirm) that you did not at the time of your election to this body and that you do not now, hold any office of profit or trust under the authority of Congress. So help you God, (or, in case of an affirmation,) under the pains and penalties of perjury."
+
+The words "office of profit or trust under the authority of Congress," shall be construed to mean any office created directly or indirectly by Congress, or for which emolument is provided from the Treasury of the United States.
+
+#### Article 28
+##### Section 1
+The Secretary of State and Auditor of Accounts shall be elected by the freemen of the State upon the same ticket with the Governor, Lieutenant Governor and Treasurer.
+
+##### Section 2
+The Legislature shall carry this article into effect by appropriate legislation.
