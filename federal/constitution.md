@@ -225,3 +225,6 @@ The enumeration in the Constitution, of certain rights, shall not be construed t
 
 ## Amendment X
 The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.
+
+## Amendment XI
+The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State.
