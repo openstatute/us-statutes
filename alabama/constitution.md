@@ -8949,3 +8949,19 @@ The legislature shall have power to levy and provide for the collection of taxes
 **Phase-out of Supernumerary Programs in Chambers County; Participation in Employees' Retirement System.**
 
 No elected or appointed Chambers County official may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every elected or appointed Chambers County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Chambers County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office. No person may participate in both a supernumerary program and the Employees' Retirement System based on the same service. For the purposes of this amendment, the words "elected or appointed Chambers County official" include, subject only to express limitation, any person elected to represent Chambers County in any representative body of the state and includes any person appointed to serve the remaining term of an elected or appointed Chambers County official. The words do not include a judge, district attorney, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 664
+**Election of Board of Education of City of Anniston.**
+
+The Legislature, by local act, may provide for the manner of selection of the members of the Board of Education of the City of Anniston in Calhoun County and may provide further for the operation of the board.
+
+## Amendment 665
+**Election of City Boards of Education - Population Exceeding 125,000**
+
+I. The members of the city board of education of any municipality in the state with a population exceeding 125,000 shall be elected by the qualified electors of the municipality in which the city board of education is located.
+
+II. This amendment shall apply to a municipality with a population exceeding 125,000 if, at the time this amendment is submitted to a statewide vote, a majority of the qualified electors voting on the amendment in the respective municipality vote in favor of the amendment.
+
+III. Upon the application of this amendment to a respective municipality, either at the time of the ratification of this amendment or at a later time, the Legislature shall, by local law, provide for the dissolution of any existing nonelected city board of education in an applicable municipality and for the date the elected city board of education shall be constituted. The existing city board of education shall continue to function until the date of dissolution. Additionally, the Legislature, by local law, may provide for the termination of the terms of office of members of an existing city board of education; the composition of the elected city board of education; initial and succeeding terms of office, including staggered terms; election districts and at-large membership; qualifications; powers, duties, and responsibilities; vacancies; and compensation.
+
+IV. If a municipality comes within the application of this constitutional amendment after the date of ratification of this constitutional amendment, the provisions of this constitutional amendment shall only apply to that municipality if such provisions are approved by a majority vote of the qualified electors of the municipality voting at a special referendum called and conducted pursuant to local law, adopted from time to time by the Legislature.
