@@ -8965,3 +8965,506 @@ II. This amendment shall apply to a municipality with a population exceeding 125
 III. Upon the application of this amendment to a respective municipality, either at the time of the ratification of this amendment or at a later time, the Legislature shall, by local law, provide for the dissolution of any existing nonelected city board of education in an applicable municipality and for the date the elected city board of education shall be constituted. The existing city board of education shall continue to function until the date of dissolution. Additionally, the Legislature, by local law, may provide for the termination of the terms of office of members of an existing city board of education; the composition of the elected city board of education; initial and succeeding terms of office, including staggered terms; election districts and at-large membership; qualifications; powers, duties, and responsibilities; vacancies; and compensation.
 
 IV. If a municipality comes within the application of this constitutional amendment after the date of ratification of this constitutional amendment, the provisions of this constitutional amendment shall only apply to that municipality if such provisions are approved by a majority vote of the qualified electors of the municipality voting at a special referendum called and conducted pursuant to local law, adopted from time to time by the Legislature.
+
+## Amendment 666
+**County and Municipal Government Capital Improvement Trust Fund; Alabama Captial Improvement Trust Fund.**
+
+Section I. The Legislature finds that the capital improvements and technology required by many governmental programs could be more efficiently funded through the establishment of a special trust fund dedicated to funding such improvements. Additionally, municipal and county governments require assistance in the funding of capital improvements. In order to meet these requirements, it is necessary and prudent to redistribute a portion of the Oil and Gas Capital Payments now being paid into the Alabama Trust Fund under Amendment No. 450 to the Constitution of Alabama of 1901. Accordingly, this amendment establishes the County and Municipal Government Capital Improvement Fund and the Alabama Capital Improvement Trust Fund to be administered in accordance with the provisions of this amendment.  Finally, the Legislature finds that it is necessary and desirable to issue general obligations bonds for the purposes of (i) making substantial capital improvements to the state dock facilities at the Port of Mobile, (ii) promoting economic development and industrial recruitment in the state, (iii) providing local government match monies required to issue federal grant revenue bonds for road and bridge improvements and (iv) providing funds to municipal governments for infrastructure improvements.
+
+Section II. As used in this amendment, the following words and phrases shall have the following respective meanings:
+
+"Alabama Trust Fund" means the irrevocable, permanent trust fund created by Amendment No. 450 to the Constitution of Alabama of 1901.
+
+"Alabama Capital Improvement Trust Fund" means one of the special trust funds created by this amendment.
+
+"Capital Improvements" means capital outlay projects that include the planning, designing, inspection, purchasing, construction, reconstruction, improvement, repair or renovation of permanent buildings, docks, structures and sites therefor for the executive, legislative or judicial branches of state government. The term "Capital Improvement" shall also mean the construction or improvement of roads and bridges in the highway system; payment of debt service on the bonded indebtedness issued by the State of Alabama or any public corporation or authority of the State of Alabama; funding economic development and industrial recruitment activities; and the procurement of technical equipment, including computer and telecommunications equipment, required for the operation of any governmental entity.
+
+"County and Municipal Capital Improvement Trust Fund" means one of the special trust funds created by this amendment.
+
+"Docks Improvements" means the acquisition, development, construction, improvement, expansion and modernization of the state docks facilities (including, without limitation, cargo handling facilities) at the Port of Mobile.
+
+"Docks Improvement Costs" means all costs and expenses incurred in connection with the Capital Improvements, including, without limitation, the following:
+
+(a) The costs of acquiring, constructing, installing and equipping Docks Improvements, including all obligations incurred for labor and to contractors, subcontractors, builders and materialmen.
+
+(b) The costs of acquiring land or rights in land and any costs incidental thereto, including recording fees.
+
+(c) The costs of contract bonds and of insurance of all kinds that may be required or necessary during the acquisition, construction or installation of Docks Improvements.
+
+(d) The costs of architectural and engineering services, including test borings, surveys, environmental mitigation, supervision of construction and the like with respect to Docks Improvements.
+
+(e) The costs of acquiring and installing fixtures and equipment, excavation, removal and demolition of structures, and provisions for drainage, stormwater retention, installation of utilities, and similar facilities, and paving.
+
+(f) Interest accruing with respect to General Obligation Bonds for a period of up to two years after the issuance of such General Obligation Bonds.
+
+(g) All costs, expenses and fees incurred in connection with the issuance of General Obligation Bonds, including, without limitation, all legal, accounting, financial, printing, recording, filing and other fees and expenses.
+
+(h) The costs for obtaining bond insurance, letters of credit, or other forms of credit enhancement or liquidity facilities.
+
+(i) All other costs of a nature comparable to or required in connection with those described.
+
+(j) Reimbursement to any person of any of the foregoing costs incurred by such person either for its own account, or for the account of the State of Alabama and without regard to when incurred.
+
+"Economic Development Costs" means the costs and expenses incurred or to be incurred by the state in connection with economic development projects and the recruitment of industrial prospects to the state including, without limitation, site preparation and infrastructure improvements, the costs of training and educating workers in the state and acquiring and constructing training facilities in the state, together with the costs, expenses and fees incurred in connection with the issuance of General Obligation Bonds for such purposes and the costs for obtaining bond insurance and other forms of credit enhancement on General Obligation Bonds issued for such purposes, and the reimbursement to any person of any of the foregoing costs incurred by such person either for its own account or for the account of the State of Alabama, its agencies or authorities.
+
+"Fiscal Year" means the period beginning October 1 and ending September 30 of the following calendar year.
+
+"General Fund" means the general fund in the State Treasury of the State of Alabama.
+
+"General Obligation Bonds" means bonds, including refunding bonds, to be issued by the State of Alabama for the purpose of financing  Docks Improvements Costs, Economic Development Costs, Local Government Match Funds and Municipal Infrastructure Costs, as provided in this amendment.
+
+"Local Government Match Funds" means the monies required to be provided by the State of Alabama as a condition to the issuance of federal grant revenue bonds for road and bridge improvements, together with the costs, expenses and fees incurred in connection with the issuance of General Obligation Bonds for such purposes and the costs of obtaining bond insurance and other forms of credit enhancement on General Obligation Bonds for such purposes.
+
+"Municipal Infrastructure Costs" means the cost of acquiring and constructing municipal infrastructure improvements through the Alabama Department of Transportation, together with the costs, expenses and fees incurred in connection with the issuance of General Obligation Bonds for such purposes and the costs of obtaining bond insurance and other forms of credit enhancement on General Obligation Bonds for such purposes.
+
+"Oil and Gas Capital Payment" means any payment (including any royalty payment) received by the state or any agency or instrumentality thereof as all or part of the consideration for the sale, leasing or other disposition by the state or any agency or instrumentality thereof of any right to explore and drill for or to produce oil, gas or other hydrocarbon minerals in any area on the water side of the high water mark of Mobile Bay or in any other offshore area and shall include any revenue by the state from federal oil and gas leases off the coast of Alabama. Any royalty or other payment, with the exception of any taxes heretofore or hereafter levied, that is based upon or determined with respect to, the production of oil, gas or other hydrocarbon minerals and that is paid to the state or any agency or instrumentality thereof regardless of the time of such payment shall be considered an oil and gas capital payment.
+
+"Realized Capital Gains" means gains from the sale or exchange of assets of the Alabama Trust Fund, other than fixed income assets, to the extent they exceed losses from the sale of such assets. The amount of gain or loss on the sale of an asset shall be determined by subtracting from the proceeds of selling the asset its fair market value as of the end of the immediately preceding fiscal year, or, in the case of the fiscal year in which this amendment is ratified, its fair market value as of the first business day following ratification of this amendment.
+
+"Trust Income" means the Trust Income as defined in Amendment Numbers 450 and 488 to the Constitution of Alabama of 1901.
+
+"Unrealized Capital Gains" means the excess of the fair market value of the Alabama Trust Fund on the last day of the fiscal year over the fair market value of the Trust Fund on the last day of the immediately preceding fiscal year. The fair market value of the Trust Fund on the last day of a fiscal year shall be determined without including the Trust Income for the fiscal year; realized capital gains for the fiscal year; or the fair market value of fixed income assets. For the fiscal year beginning October 1, 2001, the fair market value of the assets on September 30, 2002, shall be determined without regard to the fair market value on the date of transfer of the assets transferred from the Alabama Heritage Trust Fund.
+
+Section III. Distributions of Trust Income and capital gains earned by the Alabama Trust Fund shall be made annually in accordance with the following:
+
+(a) In any fiscal year in which the Trust Income exceeds $60,000,000, ten percent (10%) of the Trust Income shall be distributed to the Municipal Government Capital Improvement Fund created in Section 11-66-4, Code of Alabama 1975, and ten percent (10%) of the Trust Income shall be distributed to the County Government Capital Improvement Fund created in Section 11-29-4, Code of Alabama 1975. The Director of Finance shall certify such amounts to the State Comptroller, who shall make the required distributions not later than April 15 of the following fiscal year. The distributions provided for in this section shall be in lieu of and not in addition to the distributions required by Sections 11-29-5 and 11-66-5, Code of Alabama 1975. The remainder of the Trust Income shall be paid into the General Fund, except as provided by Amendment 543 to the Constitution of Alabama of 1901. Provided, however, the fiscal year following the first fiscal year that the Forever Wild Land Trust receives fifteen million dollars ($15,000,000) from the trust income of the Alabama Trust Fund, one-fourth (1/4) of one percent of the trust income earned from the Alabama Trust Fund shall be allocated to the Alabama Senior Services Trust Fund. This allocation shall increase each fiscal year by one-fourth (1/4) of one percent of the trust income earned from the Alabama Trust Fund; provided, however, that in no event shall such trust income paid to the Alabama Senior Services Trust Fund exceed five million dollars ($5,000,000) in any one fiscal year.
+
+(b) Notwithstanding any other provision of this constitution, within 30 days following the end of each fiscal year, the Board of Trustees of the Alabama Trust Fund may transfer up to seventy-five percent (75%) of the realized capital gains for such fiscal year. The amount distributed shall be divided as follows: ten percent (10%) to the County Government Capital Improvement Fund created in Section 11-29-4, Code of Alabama 1975, and ten percent (10%) to the Municipal Government Capital Improvement Fund created in Section 11-66-4, Code of Alabama 1975, and the remainder of such realized capital gains shall be paid into the General Fund, except that a portion of such realized capital gains shall be distributed in the same manner as and deemed to be a part of trust income for purposes of the distributions required under Sections 7 and 13 of Amendment 543 to the Constitution of Alabama of 1901.
+
+(c) Notwithstanding any other provision of this constitution, within 30 days following the end of each fiscal year, the Board of Trustees of the Alabama Trust Fund may transfer  up to seventy-five percent (75%) of the unrealized capital gains for such fiscal year. The amount distributed shall be divided as follows: ten percent (10%) to the County Government Capital Improvement Fund created in Section 11-29-4, Code of Alabama 1975, and ten percent (10%) to the Municipal Government Capital Improvement Fund created in Section 11-66-4, Code of Alabama 1975, and the remainder of such unrealized capital gains shall be paid into the General Fund except that a portion of such unrealized capital gains shall be distributed in the same manner as and deemed to be a part of trust income for purposes of the distributions required under Sections 7 and 13 of Amendment 543 to the Constitution of Alabama of 1901.
+
+Section IV. Beginning on October 1 immediately following the ratification of this amendment, 35% of all  Oil and Gas Capital Payments paid into the Alabama Trust Fund in any fiscal year shall be transferred by the State Treasurer to the special trust funds created by this amendment in the following manner: (a) an amount equal to seven percent (7%) of all Oil and Gas Capital Payments received by the Alabama Trust Fund during the preceding fiscal year shall be paid into the County and Municipal Government Capital Improvement Trust Fund; and (b) an amount equal to twenty-eight percent (28%) of all Oil and Gas Capital Payments received by the Alabama Trust Fund during the preceding fiscal year shall be paid into the Alabama Capital Improvement Trust Fund.
+
+Section V. (a) Funds in the Alabama Capital Improvement Trust Fund shall be invested by the Board of Trustees in such kinds of investments as are authorized for the investment of the Alabama Trust Fund. All income of such funds (determined in the same manner as Trust Income of the Alabama Trust Fund) shall be deposited into the General Fund.
+
+(b) Funds in the County and Municipal Government Capital Improvement Trust Fund shall be invested by the Board of Trustees in such kinds of investments as are authorized for the investment of the Alabama Trust Fund. All income of such fund (determined in the same manner as Trust Income of the Alabama Trust Fund) shall be deposited into the County and Municipal Government Capital Improvement Trust Fund subject to distribution pursuant to Section VI.
+
+(c) The Board of Trustees shall determine from time to time the asset allocation of investments in the Alabama Trust Fund and shall determine the annual amount of Realized and Unrealized Capital Gains to be transferred to the General Fund.  The Secretary-Treasurer of The Retirement Systems of Alabama shall be the initial manager of 50 percent of the assets, and financial institutions and other corporate entities with general trust powers shall be the initial manager or managers of 50 percent of the assets in the Alabama Trust Fund, subject to guidelines provided by the Board of Trustees.  The Board of Trustees shall have the power to appoint another person or persons to manage all or any portion of the assets in the Alabama Trust Fund upon a two-thirds vote of the Board of Trustees.
+
+Section VI. On April 1 of each year, the State Comptroller shall distribute one-half of all Trust Income earned during the preceding fiscal year from the investment of funds contained in the County and Municipal Government Capital Improvement Trust Fund to the Municipal Government Capital Improvement Fund created by Section 11-66-4, Code of Alabama 1975, and one-half of said Trust Income to the County Government Capital Improvement Fund created by Section 11-29-4, Code of Alabama 1975. Distributions of Trust Income to the Municipal Government Capital Improvement Fund shall be administered in accordance with Section 11-66-6, Code of Alabama 1975. Distributions of Trust Income to the County Government Capital Improvement fund shall be administered in accordance with Section 11-29-6, Code of Alabama 1975.
+
+Section VII. Funds in the Alabama Capital Improvement Trust Fund may be appropriated for Capital Improvements only upon the certification of the Governor, based upon the recommendation of the Director of Finance, that funds are needed for particular Capital Improvements.  The Governor's certification for such Capital Improvements shall be contained in his or her budgets for the operation of state government submitted annually to the Legislature. Legislative appropriations from this Fund that are in excess of those contained in the Governor's certification must be accompanied by legislative findings of fact explaining the appropriations that differ from or are in excess of those certified by the Governor. The foregoing notwithstanding, the Legislature may appropriate funds from this trust fund for Capital Improvements upon a recorded  majority vote of each house.
+
+Section VIII.  The State of Alabama is authorized to become indebted and to sell and issue its interest-bearing General Obligation Bonds, in addition to all other bonds of the state, in an aggregate principal amount not exceeding $350 million.  The General Obligation Bonds issued pursuant to this amendment shall be general obligations of the State, and the full faith and credit of the State are hereby irrevocably pledged for the prompt and faithful payment of the principal, interest and redemption premium (if any) on the General Obligation Bonds.
+
+Section IX.  The Governor, the Director of Finance, the Commissioner of Revenue, the Chairman of the Senate Finance and Taxation General Fund Committee and the Chairman of the House Ways and Means General Fund Committee are hereby constituted a Bond Commission with full authority, except as herein specified or limited, to determine the terms and conditions of the General Obligation Bonds and to provide for the sale and issuance thereof.  No member of the Bond Commission shall receive compensation in any form for any services performed by him or her in and about his or her duties as a member or officer of the Bond Commission.  The Bond Commission shall meet at the call of the Governor, who is hereby designated its chairman.   Three members of the Bond Commission (at least one of which shall be the Chairman of the Senate Finance and Taxation-General Fund Committee or the Chairman of the Ways and Means-General Fund Committee) shall constitute a quorum for the transaction of business, and all proceedings of the Bond Commission shall be reduced to writing, recorded in a substantial record book and filed with the Director of Finance, who is hereby designated as the Secretary of the Bond Commission and who shall keep the records of the proceedings of the Bond Commission.
+
+Section X.  The proceeds of the General Obligation Bonds shall be paid into the State Treasury, shall be kept continually invested pending the expenditure thereof, and shall, together with the income derived from the investment and reinvestment thereof (including income derived from the investment and reinvestment of previously derived income), be retained in one or more separate accounts of the State Treasury until expended for the purposes authorized in this amendment and in the manner provided by law.  The proceeds of such General Obligation Bonds, together with the investment income derived from said proceeds, shall be used solely for the purpose of paying Docks Improvement Costs,  Economic Development Costs, Local Government Match Funds and/or Municipal Infrastructure Costs.  Not more than $50 million of the proceeds of such General Obligation Bonds shall be spent for local government match funds and not more than $15 million of such proceeds shall be spent for municipal infrastructure costs.
+
+Section XI.  There is hereby appropriated for the payment of the General Obligation Bonds such monies out of the Alabama Capital Improvement Fund as are necessary to pay principal of, interest on and redemption premium (if any) on the General Obligation Bonds. Monies in the Alabama Capital Improvement Trust Fund are also hereby appropriated for the payment of principal of, interest on and redemption premium (if any) on bonds authorized to be issued pursuant to Amendments Nos. 618, 619 and 620 of the Constitution of Alabama of 1901.
+
+## Amendment 667
+**Section 102 Annulled.**
+
+Article IV, Section 102 of the Constitution of Alabama of 1901, is hereby annulled and set aside.
+
+## Amendment 668
+**Distribution of Alabama Trust Fund Income.**
+
+(a) For the purposes of this amendment, the following terms shall have the following meanings:
+
+1. FISCAL YEAR. The fiscal year of the state as may from time to time be provided by law.
+
+2. COUNTY GOVERNMENT CAPITAL IMPROVEMENT FUND. The fund created in Section 11-29-4, Code of Alabama 1975.
+
+3. MUNICIPAL GOVERNMENT CAPITAL IMPROVEMENT FUND. The fund created in Section 11-66-4, Code of Alabama 1975.
+
+4. THE ALABAMA TRUST FUND OR TRUST FUND. The fund created by Amendment 450 of the Constitution of Alabama of 1901.
+
+5. TRUST INCOME. The net income received by the state, subsequent to the transfer of the initial trust capital by the State Treasurer to the board of trustees of the trust fund, from the investment and reinvestment of all assets of the trust fund, determined in accordance with the provisions of Amendment 450 of the Constitution of Alabama of 1901. Trust income does not include income which become part of the trust capital of the trust fund, but for the purpose of this amendment shall include the amounts allocated to the Forever Wild Land Trust Fund as provided in Section 7(d) of Amendment 543 of the Constitution of Alabama of 1901.
+
+(b) Beginning October 1 of the fiscal year immediately following ratification of this amendment, in addition to all other appropriations heretofore or hereafter made, there is hereby annually appropriated from the State General Fund to the county government capital improvement fund and to the municipal government capital improvement fund each an amount equal to at least 10 percent of the trust income from the Alabama Trust Fund at the time as the trust income received by the state in the preceding fiscal year equals or exceeds sixty million dollars ($60,000,000) as calculated pursuant to Amendment 450 and Section 7(d) of Amendment 543 of the Constitution of Alabama of 1901. No funds shall be appropriated in any fiscal year for which in the previous fiscal year trust income received by the state was less than sixty million dollars ($60,000,000).
+
+(c) The county government capital improvement fund appropriation shall be distributed to the several counties of the state and shall be paid on April 15 of the fiscal year for which each annual appropriation is made as follows:
+
+Part of the funds to be paid to counties that is equal to 45.45 percent of the total of that portion shall be allocated equally among the 67 counties of the state; and the entire residue of the portion to be paid to counties, being an amount equal to 54.55 percent of that portion, shall be allocated among the 67 counties of the state on the basis of the ratio of the population of each county to the total population of the state according to the then next preceding federal decennial census.
+
+(d) The municipal government capital improvement fund appropriation shall be distributed to the incorporated municipalities of the state and shall be paid on April 15 of the fiscal year for which each annual appropriation is made as follows:
+
+(1) Each incorporated municipality in the state with a population of less than 1,000 shall receive one thousand dollars ($1,000); each incorporated municipality in the state with a population of 1,000 or more shall receive two thousand five hundred dollars ($2,500).
+
+(2) The residue of the portion to be paid to the incorporated municipalities in the state shall be distributed among the incorporated municipalities in the state on the basis of the ratio of the population of each municipality incorporated to the total population of all the incorporated municipalities in the state according to the then next preceding federal decennial census.
+
+(e) The county government capital improvement fund and the municipal county government capital improvement fund shall continue in existence until and unless extinguished by an amendment to the Constitution of Alabama of 1901.
+
+(f) The State Comptroller shall make all allocations of funds and shall make the distribution and payments thereof pursuant to the allocations provided for in this amendment. All funds allocated to the county government capital improvement fund and to the municipal government capital improvement fund shall only be expended for any purposes as are now or hereafter authorized by general act of the Legislature.
+
+## Amendment 669
+**Levy and Collection of District School Tax.**
+
+The provision contained in Section 2 of Amendment No. 3 to this constitution relating to district school taxes and providing that no district school tax shall be voted upon or collected except in those counties that are levying and collecting not less than a three-mill special county school tax is hereby repealed. Notwithstanding any other provision of this constitution or any law to the contrary, the levy of a countywide tax shall not be required as a condition precedent for the levy and collection of any district school tax in any school district in the state.
+
+## Amendment 670
+**Amendment to Amendment No. 161. Board of Trustees of Auburn University.**
+
+Section 1. Auburn University shall be under the management and control of a board of trustees. The board of trustees shall consist of one member from each of the congressional districts in the state as the same were constituted on the first day of January, 1961, one member from Lee County, two at-large members both of whom shall be a resident of the continental United States, the state superintendent of education serving on the date this amendatory language is ratified, who shall serve until leaving the office of superintendent, one additional at-large member who shall be a resident of the continental United States, and who shall succeed the current State Superintendent of Education on the board of trustees immediately upon the superintendent leaving office, and the governor, who shall be ex officio president of the board.
+
+Appointment of the initial two at-large members shall be made by the Governor by and with the advice and consent of the Senate. Otherwise, the trustees from each congressional district, from Lee County, and all subsequent at-large trustees, including the at-large position created upon the vacating of office of the current State Superintendent of Education, shall be appointed by the appointing committee created herein, by and with the advice and consent of the senate. The appointment of members to fill a vacated position with a partially expired term of office shall also be made by the appointing committee as provided herein.
+
+A board of trustees appointing committee is established composed of the following members:
+
+The President Pro Tem of the Board of Trustees of Auburn University or the designee of the President Pro Tem. The designee shall be a member of the Board of Trustees of Auburn University.
+
+A member of the Board of Trustees of Auburn University selected by the board of trustees.
+
+Two members of the Auburn Alumni Association Board of Directors, who are not current employees of Auburn University, selected by the Auburn Alumni Association Board of Directors.
+
+The Governor or a designee of the Governor who is an alumnus of Auburn University but who is not a current member of the Auburn Board of Trustees nor a current member of the Auburn Alumni Association Board of Directors nor a current employee of Auburn University.
+
+The Governor, or the designee of the Governor, shall serve as chairperson of the appointing committee. If the chairperson fails to call a meeting within 90 days prior to the expiration of the term of a sitting board member or within 30 days following the creation of a vacancy by death, resignation, or other cause, a majority of the committee, in writing, may call a meeting giving at least 10 days notice. In the absence of the chairperson or another member designated by the chairperson to preside, the majority of the committee shall choose its own chairperson.
+
+When appropriate, the appointing committee shall meet to address the appointment of any of the following:
+
+A person to fill the at-large position on the Board of Trustees of Auburn University created upon the vacating of office by the current State Superintendent of Education.
+
+Persons to fill an expired or soon-to-be expired term of office of any member of the Board of Trustees of Auburn University, including the two at-large positions initially appointed by the Governor.
+
+Persons to fill the remainder of a partially expired term of office of any position on the Board of Trustees of Auburn University which has been vacated by reason of death, resignation, or other cause, including the two at-large positions initially appointed by the Governor.
+
+The appointing committee, by majority vote, shall appoint an individual to fill the respective position on the board of trustees. The committee shall ensure that appointments are solicited from all constituencies, are inclusive, and reflect the racial, gender, and economic diversity of the state. A person may not be appointed to the Board of Trustees of Auburn University while serving on the appointing committee.
+
+A trustee shall hold office for a term of seven years, and may serve no more than two full seven-year terms of office. Appointment and service for a portion of an unexpired term shall not be considered in applying the two-term limit.
+
+Each member of the board of trustees as constituted on the date this amendatory language is ratified may serve the remainder of his or her current term and shall be eligible, if otherwise qualified, to serve for no more than two additional seven-year terms.
+
+No person shall be appointed as a member of the board of trustees after having reached 70 years of age.
+
+Of the two persons initially appointed by the Governor to serve in the at-large positions, one shall be appointed to serve an initial term of four years and one shall be appointed to serve an initial term of seven years. Thereafter, successors to these positions, who shall be appointed by the appointing committee, shall serve terms of office of the same duration as other members. These initial terms shall be considered as full terms in applying the two-term limit.
+
+One more than half of the members of the board shall constitute a quorum, but a smaller number may adjourn from day to day until a quorum is present.
+
+A term shall begin only upon confirmation by the Senate. A member may continue to serve until a successor is confirmed, but in no case for more than one year after completion of a term.
+
+No trustee shall receive any pay or emolument other than his or her actual expenses incurred in the discharge of duties as such.
+
+No employee of Auburn University shall be eligible to serve as a member of the board of trustees.
+
+The appointing committee, or the Governor, in regard to the two initial at-large appointments, shall submit the name of the persons selected for appointment to the Secretary of the Senate, who shall inform the Senate of the receipt of such submission. If the Senate is in regular session at that time, the submission shall be made by the conclusion of the next legislative day following the appointment. If the Senate is not in regular session at the time of appointment, the submission shall be made before the commencement of the next regular session.
+
+If the entire Senate, by a majority vote, confirms the submission, the appointee shall immediately assume office. An appointee may not begin service prior to Senate confirmation.
+
+If the submission is not confirmed by the entire Senate by a majority vote by the conclusion of the legislative session, the submission shall be considered rejected.
+
+A submission to the Senate may be withdrawn at any time by the Governor in regard to the two initial at-large appointments made by the Governor. A submission to the Senate may be withdrawn at any time by the appointing committee in regard to appointments made by the committee.
+
+Upon the rejection of a submission or the withdrawal of a submission, the appointment and confirmation process specified in this amendment shall commence anew.
+
+The same name may be submitted to the Senate for the same position on the board more than one time.
+
+Upon the expiration of a term of office, a member of the board of trustees shall continue to serve until a successor is appointed pursuant to this amendment, is confirmed by the entire Senate by majority vote, and assumes office. If a successor is not confirmed by the conclusion of the regular session in which one or more names for the position were initially submitted, the former holder of the position may continue to serve until a successor is appointed and confirmed, but in no case shall this continuation be longer than one year after completion of the term of office.
+
+If any position on the board of trustees becomes vacant during a term of office by reason of death, resignation, or other cause, a person shall be appointed by the appointing committee to fill the remainder of the unexpired term of office pursuant to the procedure provided for other appointments made by the appointing committee. The position shall be considered vacant until a person is confirmed by a majority vote of the entire Senate.
+
+Section 2. Section 266 of article 14 of the Constitution of Alabama 1901 is hereby repealed.
+
+## Amendment 671
+**Phase-out of Supernumerary Programs in Clay County; Participation in Employees' Retirement System.**
+
+No elected or appointed Clay County official may assume a supernumerary office after the effective date of this amendment.  Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program.  Every elected or appointed Clay County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system, and shall be treated as an employee of the county.  Clay County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office. No person may participate in both a supernumerary program and the Employees' Retirement System based on the same service. For the purposes of this amendment, the words "elected or appointed Clay County official" shall include, subject only to express limitation, any person elected to represent Clay County in any representative body of the state and includes any person appointed to serve the remaining term of an elected or appointed Clay County official. The words do not include a judge, district attorney, constable, school board member, or any official elected from a judicial circuit.
+
+Act No. 99-320 of the 1999 Regular Session is hereby repealed.
+
+## Amendment 672
+**Costs and Charges of Courts in Greene County.**
+
+The Legislature, by general or local law, may fix, alter, and regulate the costs and charges of courts in Greene County and provide for their distribution.
+
+## Amendment 673
+**Phase-out of Supernumerary Programs in Lowndes County; Participation in Employees' Retirement System.**
+
+No person elected or appointed sheriff, or any elected or appointed Lowndes County official, may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every sheriff and elected or appointed Lowndes County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Lowndes County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office; provided, however, the official shall forego the assumption of a supernumerary office. For the purposes of this amendment, the words "elected or appointed county official" shall include any person appointed to serve the remaining term of an elected or appointed county official, but shall not include a judge, district attorney, legislator, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 674
+**Bingo Games in Lowndes County.**
+
+(a) The operation of bingo games for prizes or money by nonprofit organizations for charitable, educational, or other lawful purposes shall be legal in The Town of White Hall that is located in Lowndes County, subject to any resolution or ordinance by the town council. The town council shall have the authority to promulgate rules and regulations for the licensing and operation of bingo games, within its respective jurisdictions provided, however, the town council shall insure compliance pursuant to any ordinance and the following provisions:
+
+(1) No person under the age of 18 years shall be permitted to play any game or games of bingo, nor shall any person under the age of 19 years be permitted to conduct or assist in the operation of any game of bingo.
+
+(2) No bingo license shall be issued to any nonprofit organization, unless the organization shall have been in existence for at least two years immediately prior to the issuance of the permit or license.
+
+(3) Bingo games shall be operated only on the premises owned or leased by the nonprofit organization operating the bingo game. If the premises are leased, the rate of rental shall not be based on a percentage of receipts or profits resulting from the operation of bingo games.
+
+(4) No nonprofit organization shall enter into any contract with any individual, firm, association, or corporation to have the individual or entity operate bingo games or concessions on behalf of the nonprofit organization. No nonprofit organization shall pay consulting fees to any individual or entity for any services performed in relation to the operation or conduct of a bingo game.
+
+(5) A nonprofit organization shall not lend its name or allow its identity to be used by another person or entity in the operating or advertising of a bingo game in which the nonprofit organization is not directly and solely operating the bingo game.
+
+(6) Prizes given by any nonprofit organization for the playing of bingo games shall not exceed the cash amount or gifts of equivalent value set by regulations.
+
+(7) No person or organization, by whatever name or composition thereof, shall take any expense for the operation of a bingo game except as permitted by law.
+
+(b) The town council may provide for the implementation of this amendment by the adoption of any resolution or ordinance as provided heretofore.
+
+(8) Any person who violates the regulations provided under the provisions of this amendment shall be guilty of a Class C misdemeanor upon the first conviction under this amendment and any subsequent violation shall be a Class A misdemeanor.
+
+## Amendment 675
+**Phase-out of Supernumerary Programs in Sumter County; Participation in Employees' Retirement System.**
+
+No person elected or appointed sheriff, or any elected or appointed Sumter County official, may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every sheriff and elected or appointed Sumter County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Sumter County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office; provided, however, the official shall forego the assumption of a supernumerary office. For the purposes of this amendment, the words "elected or appointed county official" shall include any person appointed to serve the remaining term of an elected or appointed official, but shall not include a judge, district attorney, legislator, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 676
+**Phase-out of Supernumerary Programs in Bullock County; Participation in Employees' Retirement System.**
+
+An elected or appointed Bullock County official not currently serving as such an official who is elected or appointed after the effective date of this amendment may not assume a supernumerary office. Any person who, on the ratification of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every elected or appointed Bullock County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Bullock County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served as a county official. For the purposes of this amendment, the words "elected or appointed county official" shall include any person appointed to serve the remaining term of an elected or appointed county official, but shall not include a judge, district attorney, legislator, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 677
+**Water Works and Sewer Board of the City of Anniston.**
+
+The Water Works and Sewer Board of the City of Anniston, Alabama, shall be governed by a board of directors consisting of seven members to be appointed as follows: Four members shall be appointed by the governing body to the City of Anniston and three members shall be appointed by the Calhoun County Legislative Delegation. Those persons serving on such board of directors on the effective date of this amendment shall continue to hold office until the expiration of their current terms. Act 95-497, 1995 Regular Session, is hereby ratified, approved, validated, and confirmed as of the date of its enactment any provision or provisions of this constitution of the contrary notwithstanding, and all actions heretofore taken by the City of Anniston, the Calhoun County Legislative Delegation and the Water Works and Sewer Board of the City of Anniston, Alabama, pursuant to the provisions of Act 95-497, are hereby ratified, approved, validated, and confirmed. This amendment shall be self executing, and no amendment to the Certificate of Incorporation of said Water Works and Sewer Board shall be necessary to implement the provisions of this amendment.
+
+## Amendment 678
+**Promotion of Industry, Trade, and Economic Development in Chambers County.**
+
+The Legislature, by general, local, or special law, may provide for the creation, incorporation, organization, operation, administration, authority, and financing of a public corporation empowered or intended to assist or aid in any way Chambers County or any municipality therein in promoting industry, trade, and economic development of Chambers County and each municipality situated in the county, and the Legislature may grant the corporation all powers, rights, privileges, exemptions, and authority as the Legislature considers necessary or desirable for the furtherance and accomplishment of the purposes of the public corporation.
+
+## Amendment 679
+**Promotion of Economic and Industrial Development in Chilton County.**
+
+For the promotion of local economic and industrial development of Chilton County, the Chilton County Commission and the city council of each municipality located in the county, shall have, independently or in cooperation with one or more of such governmental entities, full and continuing power to do any of the following:
+
+(1) Purchase, construct, lease, or otherwise acquire real property, plants, buildings, factories, works, facilities, machinery, and equipment of any kind.
+
+(2) Lease, sell for cash or on credit, exchange, give and convey any such property described in subdivision (1) above, to any person, firm, association, or corporation.
+
+(3) Promote local industrial, commercial, or agricultural development and the location of new industries or businesses therein.
+
+(4) Become a stockholder in any corporation, association, or company.
+
+(5) Lend its credit or to grant public moneys and things of value in aid of, or to any individual, firm, association, or corporation whatsoever.
+
+(6) Become indebted and to issue and sell bonds, warrants (which may be payable from funds to be realized in future years), notes or other obligations or evidences of indebtedness, to a principal amount not exceeding 50 percent of the assessed value of taxable property therein as determined for state taxation, in order to secure funds for the purchase, construction, lease, or acquisition of any of the property described in subdivision (1) or to be used in furtherance of any of the other powers or authorities granted in this amendment. Such obligations or evidences of indebtedness may be issued upon the full faith and credit of the county or any such municipality or may be limited as to the source of their payment.
+
+(7) Create a public authority or corporation having such powers, managed and governed by such board or governing body and subject to such limitations as the governing body of the county or any such municipality may impose, by approving and filing a certificate to that effect in the office of the Judge of Probate or the Secretary of State, or their respective successors in function, and to delegate to such public authority or corporation and its board or governing body all powers and authority conferred in this amendment upon the county or any such municipality.
+
+The recital in any bonds, warrants, notes, or other obligations or evidences of indebtedness that they were issued pursuant to this amendment or that they were issued to provide funds to be used in furtherance of any power or authority herein authorized shall be conclusive, and no purchaser or holder thereof need inquire further. The bonds, warrants, notes, or other obligations or evidences or indebtedness issued hereunder shall not be considered an indebtedness of the county or any such municipality for the purpose of determining the borrowing capacity of the county or any such municipality under Section 224 or Section 225 of the Constitution of Alabama of 1901.
+
+In carrying out the purposes of this amendment, neither the county nor any such municipality shall be subject to the provisions of Section 94 of the Constitution of Alabama of 1901. This amendment shall be self-executing, but notwithstanding any contrary provisions of Section 104 of the Constitution of Alabama of 1901, the Legislature may by general, special, or local act to adopt laws supplemental to this amendment or in furtherance of the purposes and objectives hereinabove set forth. No such special or local act shall be subject to the provisions of Section 106 of the Constitution of Alabama of 1901.
+
+Nothing contained herein shall be deemed to confer upon the Chilton County Commission or the City Council of any municipality located in the county, or any public authority created pursuant to this amendment, the authority to purchase, construct, lease, control or otherwise acquire or operate telecommunications facilities, cable facilities or electric generating, transmission or distribution facilities, lines or equipment.
+
+## Amendment 680
+**Special Property Tax in Chilton County; Repeal of Amendment No. 402.**
+
+The Chilton County Commission may levy and collect a special property tax, in addition to all other taxes heretofore provided by law, not exceeding four mills on each dollar's worth of taxable property outside the corporate limits of any incorporated municipality in the county, as assessed for state taxation during the preceding year; except that the special property tax shall not exceed two and one-half mills on property used for the generation of electric energy, including hydroelectric projects licensed by the Federal Energy Regulatory Commission, or any predecessor or successor agency. The proceeds of the special property tax shall be used exclusively for fire, medical, and emergency services in areas outside the incorporated municipalities of Chilton County.
+
+The tax assessor of Chilton County shall assess the tax herein provided, and the tax collector of Chilton County shall collect the tax, in the same manner and method that other ad valorem taxes are collected. The proceeds of the tax shall be distributed to the Chilton County Commission to be distributed by the commission, in equal shares, to all of the rural fire departments in the county that have and maintain an Insurance Services Office (ISO) Public Protection Classification of 9 or lower and that protect areas outside the incorporated municipalities of Chilton County. Each department receiving proceeds from the tax shall maintain a separate account for the tax proceeds and shall furnish, at its own expense, an audit of the account to the Chilton County Commission yearly.
+
+The tax shall be collected, starting the first month after approval by the qualified electors of Chilton County, and shall be levied in perpetuity. Qualified electors include only those who reside outside the incorporated municipalities of Chilton County. The passage of this amendment shall render null and void Amendment No. 402 of the Constitution of Alabama of 1901, beginning on the first day of the first month after this amendment is approved by the qualified electors and proclaimed ratified.
+
+## Amendment 681
+**Phase-out of Supernumerary Programs in Clay County; Participation in Employees' Retirement System.**
+
+No elected or appointed Clay County official may assume a supernumerary office after the effective date of this amendment.  Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program.  Every elected or appointed Clay County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system.  Clay County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office. No person may participate in both a supernumerary program and the Employees' Retirement System based on the same service. For the purposes of this amendment, the words "elected or appointed Clay County official" include, subject only to express limitation, any person elected to represent Clay County in any representative body of the state and includes any person appointed to serve the remaining term of an elected or appointed Clay County official. The words do not include a judge, legislator, district attorney, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 682
+**Promotion of Industry, Trade, and Economic Development in Clay County.**
+
+The Legislature, by general, local, or special law, may provide for the creation, incorporation, organization, operation, administration, authority, and financing of a public corporation empowered or intended to assist or aid in any way Clay County or any municipality therein in promoting industry, trade, and economic development of Clay County and each municipality situated in the county, and the Legislature may grant the corporation all powers, rights, privileges, exemptions, and authority as the Legislature considers necessary or desirable for the furtherance and accomplishment of the purposes of the public corporation.
+
+## Amendment 683
+**Phase-out of Supernumerary Programs in Dale County; Participation in Employees' Retirement System.**
+
+No person elected or appointed Sheriff of Dale County, or any other elected or appointed Dale County official, may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program for Dale County may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every sheriff and other elected or appointed Dale County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Dale County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office; provided, however, the official shall forego the assumption of a supernumerary office. For the purposes of this amendment, the words "elected or appointed county official" shall include any person appointed to serve the remaining term of an elected or appointed county official, but shall not include a judge, district attorney, legislator, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 684
+**Real Estate License Taxes in Etowah County.**
+
+(a) In order to allow for the orderly and efficient collection of municipal business license taxes in Etowah County with respect to corporations, firms, brokers, agents, and others in the business of buying, selling, leasing, or representing others in the purchase, sale, or lease of real property in Etowah County, the Legislature may, by local law, provide for the imposition and collection of taxes as follows:
+
+(1) Any city or municipality within Etowah County may fix and collect license taxes pursuant to Sections 11-51-90 and 11-51-91, Code of Alabama 1975, for any business, trade, or profession relating to the buying, selling, or renting of real estate on commission in Etowah County if the licensee maintains its principal place of business in the corporate limits or police jurisdiction of that city or municipality.
+
+(2) Effective January 1 following the ratification of this amendment and each year thereafter, in addition to the taxes, if any, imposed under subdivision (1) above, every corporation, firm, broker, agent, or other person or entity engaged in the business of buying, selling, managing, leasing, or renting of real estate on commission in Etowah County shall pay an annual business license tax at a rate to be set by the Legislature for the privilege of engaging in that business in every other city or municipality in Etowah County. The tax shall be collected by the License Commissioner of Etowah County and shall be distributed by the License Commissioner of Etowah County to each city or municipality within Etowah County on a pro rata basis based on population. The License Commissioner of Etowah County shall be entitled to an administrative fee for administering this tax at a rate to be set by the Legislature. The fee shall to be subtracted from the license tax.
+
+(3) Effective January 1 following the ratification of this amendment and each year thereafter, except for the license taxes permitted or mandated under subdivisions (1) and (2) above, no other privilege license tax or any other fee or tax shall be imposed under Sections 11-51-90 and 11-51-91, Code of Alabama 1975, or any other law by any city or municipality within Etowah County on corporations, firms, brokers, agents, or other persons or entities engaged in the business of buying, selling, managing, leasing, or renting of real estate on commission in Etowah County.
+
+(b) This amendment shall not become effective unless approved at a referendum by a majority of the qualified electors of Etowah County voting on the proposition. The referendum shall be held at the same time as the election for the ratification of this amendment, as provided for in Section 2 of this act, and no further election shall be required.
+
+## Amendment 685
+**Phase-out of Supernumerary Programs in Greene County; Participation in Employees' Retirement System.**
+
+No person elected or appointed sheriff, or any elected or appointed Greene County official, may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every sheriff and elected or appointed Greene County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Greene County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office; provided, however, the official shall forego the assumption of a supernumerary office. For the purposes of this amendment, the words "elected or appointed county official" shall include any person appointed to serve the remaining term of an elected or appointed official, but shall not include a judge, district attorney, legislator, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 686
+**Costs and Charges of Courts in Hale County.**
+
+In addition to any court costs and fees now or hereafter authorized in Hale County, the Hale County Commission may impose by resolution of the commission an additional fee in an amount not to exceed fifty dollars ($50) to be assessed and taxed as costs on each civil case and on each criminal case, including domestic relations and traffic cases, but excluding small claims cases, filed in the circuit court, district court, or any municipal court in Hale County. These fees shall not be waived by any court unless all other fees, assessments, costs, fines, and charges associated with the case are waived.
+
+The additional fees when collected by the clerks or their collection officers of the courts shall be paid into the General Fund of Hale County to be used by the commission for the planning, designing, construction, financing, furnishing, equipping, and operation of a new county jail and for general county purposes.
+
+## Amendment 687
+**Phase-out of Supernumerary Programs in Henry County; Participation in Employees' Retirement System.**
+
+No person elected or appointed sheriff, or any elected or appointed Henry County official, may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in as supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every sheriff and elected or appointed Henry County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Henry County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current offices; provided, however, the official shall forego the assumption of a supernumerary office. For the purposes of this amendment, the words "elected or appointed county official" shall include any person appointed to serve the remaining term of an elected or appointed official, but shall not include a judge, district attorney, legislator, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 688
+**Crime of prostitution in Jefferson County.**
+
+(a) This amendment shall apply only to the portions of Jefferson County outside the corporate limits of a municipality.
+
+(b) For the purpose of this constitutional amendment, the term "prostitution" shall mean the commission by a person of any natural or unnatural sexual act, deviate sexual intercourse, or sexual contact for monetary consideration or other thing of value.
+
+(c) No person in the portion of the county outside the corporate limits of a city shall commit an act of prostitution as defined in subsection (b).
+
+(d) No person shall solicit, compel, or coerce any person to have sexual intercourse or participate in any natural or unnatural sexual act, deviate sexual intercourse, or sexual contact for monetary consideration or other thing of value.
+
+(e) No person shall agree to engage in sexual intercourse, deviate sexual intercourse, or sexual contact with another or participate in the act for monetary consideration or other thing of value and give or accept monetary consideration or other thing of value in furtherance of the agreement.
+
+(f) No person shall knowingly do any of the following:
+
+(1) Cause or aid a person to commit or engage in prostitution.
+
+(2) Procure or solicit patrons for prostitution.
+
+(3) Provide persons or premises for prostitution purposes.
+
+(4) Receive or accept money or other thing of value pursuant to a prior agreement with any person whereby he or she participates or is to participate in the proceeds of any prostitution activity.
+
+(5) Operate or assist in the operation of a house of prostitution or a prostitution enterprise.
+
+(g) It shall be unlawful for any bellhop, elevator operator, desk clerk, servant, or employee of a hotel, motel, inn, boardinghouse, apartment house, or any lodging place of like kind for the purpose of or in furtherance of unlawful sexual misconduct or prostitution to:
+
+(1) Conduct any person to the room of any guest or occupant of the place.
+
+(2) Carry any note or message to or from a person, a guest, or occupant of the place.
+
+(h) It shall be unlawful for the owner or manager of any hotel, motel, inn, boardinghouse, apartment house, or any lodging place or like kind to employ a person who has been convicted of aiding or abetting prostitution.
+
+(i) Each violation is a Class A misdemeanor.
+
+## Amendment 689
+**Phase-out of Supernumerary Programs in Lamar County; Participation in Employees' Retirement System.**
+
+An elected or appointed Lamar County official not currently serving as such an official who is elected or appointed after the effective date of this amendment may not assume a supernumerary office. Any person who, on the ratification of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every elected or appointed Lamar County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Lamar County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served as a county official. For the purposes of this amendment, the words "elected or appointed county official" shall include any person appointed to serve the remaining term of an elected or appointed county official, including the county coroner, but shall not include a judge, district attorney, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 690
+**Phase-out of Supernumerary Programs in Lauderdale County; Participation in Employees' Retirement System.**
+
+No elected or appointed Lauderdale County official may assume a supernumerary office after the effective date of this amendment.  Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program.  Every elected or appointed Lauderdale County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system.  Lauderdale County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office; provided, however, the official shall forego the assumption of a supernumerary office.  For the purposes of this amendment, the words "elected or appointed county official" shall include the sheriff and any person appointed to serve the remaining term of an elected or appointed county official, but shall not include a judge, district attorney, legislator, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 691
+**Phase-out of Supernumerary Programs in Lawrence County; Participation in Employees' Retirement System.**
+
+No elected or appointed Lawrence County official may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every elected or appointed Lawrence County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Lawrence County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office. No person may participate in both a supernumerary program and the Employees' Retirement System based on the same service. For the purposes of this amendment, the words "elected or appointed Lawrence County official" include, subject only to express limitation, any person elected to represent Lawrence County in any representative body of the state and includes any person appointed to serve the remaining term of an elected or appointed Lawrence County official. The words do not include a judge, legislator, district attorney, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 692
+**Bingo Games in Limestone County.**
+
+(a) The operation of bingo games for prizes or money by nonprofit organizations for charitable, educational, or other lawful purposes shall be legal in Limestone County, subject to any resolution or ordinance by the county commission. The county commission may promulgate rules and regulations for the licensing and operation of bingo games, within its respective jurisdictions. The governing body shall insure compliance pursuant to any ordinance and the following:
+
+(1) No person under the age of 19 years shall be permitted to play any game or games of bingo, nor shall any person under the age of 19 years be permitted to conduct or assist in the operation of any game of bingo.
+
+(2) No bingo license shall be issued to any nonprofit organization, unless the organization shall have been in existence for at least three years in the county immediately prior to the issuance of the permit or license.
+
+(3) Bingo games shall be operated only on the premises owned or leased by the nonprofit organization operating the bingo game. If the premises are leased, the rate of rental shall not be based on a percentage of receipts or profits resulting from the operation of bingo games.
+
+(4) No nonprofit organization shall enter into any contract with any individual, firm, association, or corporation to have the individual or entity operate bingo games or concessions on behalf of the nonprofit organization. No nonprofit organization shall pay consulting fees to any individual or entity for any services performed in relation to the operation or conduct of a bingo game.
+
+(5) A nonprofit organization shall not lend its name or allow its identity to be used by another person or entity in the operating or advertising of a bingo game in which the nonprofit organization is not directly and solely operating the bingo game.
+
+(6) Prizes given by any nonprofit organization for the playing of bingo games shall not exceed the cash amount or gifts of equivalent value set by the Legislature by local law during any bingo session during any calendar week.
+
+(7) No person or organization, by whatever name or composition thereof, shall take any expense for the operation of a bingo game except as permitted by law.
+
+(b) The Legislature may, by local law, provide for the implementation of this amendment, including, but not limited to, the imposition of criminal penalties for violations of this amendment or the local legislation.
+
+## Amendment 694
+**Employees Subject to Authority of Personnel Board of Madison County.**
+
+Effective the first day of the sixth month after ratification of this amendment, employees of the Office of the Sheriff of Madison County, except for the chief deputy, shall be under the authority of the Personnel Board of Madison County. The provisions of this amendment shall not affect the liability of the employees of the office of the Sheriff of Madison County.
+
+## Amendment 695
+**Marion County Agriculture and Exhibit Center Authority.**
+
+(a) There is hereby created and established the Marion County Agriculture and Exhibit Center Authority which shall consist of seven members to be appointed as follows:
+
+(1) One member appointed by the member of the Marion County Commission representing District One.
+
+(2) One member appointed by the member of the Marion County Commission representing District Two.
+
+(3) One member appointed by the member of the Marion County Commission representing District Three.
+
+(4) One member appointed by the member of the Marion County Commission representing District Four.
+
+(5) One member appointed by the member of the Marion County Commission representing District Five.
+
+(6) One member appointed by the state Senator representing Marion County.
+
+(7) One member appointed by the members of the House of Representatives representing Marion County.
+
+(b) The authority shall oversee the construction, management, maintenance, and control of any structure or facility constructed as a center for promoting cattle, horses, and livestock and for agricultural, educational, and civic exhibits. Vacancies on the authority shall be filled in the same manner as the original appointments are made. Members of the authority shall serve without compensation. The authority shall hold at least one annual meeting.
+
+(c) The authority is authorized to do the following:
+
+(1) To locate the exhibition center upon the site selected by the Marion County Commission.
+
+(2) To acquire by purchase, rent, lease agreement, or otherwise the necessary facilities and to provide it with necessary equipment, furnishings, landscaping, and related facilities, including parking areas and ramps, roadways, sewers, curbs, and gutters.
+
+(3) To enter into contracts and cooperative agreements with the local, state, and federal governments, agencies of the governments, private individuals, corporations, associations, and other organizations as the authority may deem necessary or convenient to carry out the purposes of this amendment, the contracts and agreements to include leases to provide for industries.
+
+(4) To accept public or private gifts, grants, and donations.
+
+(5) To acquire property by purchase, lease, or gift.
+
+(6) To sell, convey, transfer, lease, or donate any property, franchise, grant, easement, license, or lease or interest therein which it may own and to transfer, assign, sell, convey, or donate any right, title, or interest which it may have in any lease, contract, agreement, license, or property.
+
+(7) To invest any funds that the authority may determine are not presently needed in the operation of its properties in bonds of the United States of America, bonds of the state, bonds of any county or municipality, and interest-bearing bank deposits.
+
+(8) To employ personnel as may be necessary to accomplish the purposes of this amendment. The personnel employed by the authority shall serve at the pleasure of the authority. The authority shall fix the compensation of the personnel and the compensation shall be paid from any funds of the authority. The authority shall designate the duties of the personnel.
+
+(9) To make rules and regulations as the authority may deem necessary and desirable to provide for the operation, management, and control of the facility.
+
+(10) To perform other acts necessary or incidental to the accomplishment of the purposes of this act, and other acts, including, but not limited to, the employment of legal and accounting assistance, whether or not specifically authorized in the act, and not otherwise prohibited by law.
+
+(d) The county commission may transfer property to the authority for planning for present and future purposes of the authority.
+
+## Amendment 696
+**Polling Places in Marshall County.**
+
+Every polling place in Marshall County shall be open for voting on election day for any local, state, or national election at 7:00 A.M. and shall not close until 7:00 P.M. and shall remain open for voting for not less than 12 consecutive hours. The Marshall County Commission shall provide funds from the county general fund for any additional compensation needed for poll workers required to work the extended hours required by this amendment.
+
+## Amendment 697
+**Costs and Charges of Courts in Monroe County.**
+
+The Legislature, from time to time, may fix, regulate, and alter the costs and charges of court in Monroe County and provide for the distribution of any additional revenue.
+
+## Amendment 698
+**Phase-out of Supernumerary Programs in Perry County; Participation in Employees' Retirement System.**
+
+No person elected or appointed sheriff, or any elected or appointed Perry County official, may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every sheriff and elected or appointed Perry County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Perry County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office; provided, however, the official shall forego the assumption of a supernumerary office. For the purposes of this amendment, the words "elected or appointed county official" shall include any person elected to represent the county in any representative body of the state and any person appointed to serve the remaining term of an elected or appointed official, but shall not include a judge, district attorney, legislator, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 699
+**Phase-out of Supernumerary Programs in Pike County; Participation in Employees' Retirement System.**
+
+No elected or appointed Pike County official may assume a supernumerary office after the effective date of this amendment.  Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program.  Every elected or appointed Pike County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system.  Pike County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office. No person may participate in both a supernumerary program and the Employees' Retirement System based on the same service. For the purposes of this amendment, the words "elected or appointed Pike County official" include, subject only to express limitation, any person elected to represent Pike County in any representative body of the state and includes any person appointed to serve the remaining term of an elected or appointed Pike County official. The words do not include a judge, legislator, district attorney, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 700
+**Phase-out of Supernumerary Programs in Pike County; Participation in Employees' Retirement System.**
+
+(a) In Pike County, no mayor or elected or appointed public official may assume a supernumerary office after the ratification date of this amendment. Any person who, on the ratification date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every mayor or elected or appointed public official in Pike County may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. A mayor or elected or appointed public official holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office. No person may participate in both a supernumerary program and the Employees' Retirement System based on the same service. For the purposes of this amendment, the words "elected or appointed public official" include, subject only to express limitation, any person elected to represent Pike County in any representative body of the state and includes any person appointed to serve the remaining term of an elected or appointed public official. The words do not include a judge, a member of a city governing body, district attorney, constable, school board member, or any official elected from a judicial circuit.
+
+(b) Act 99-407 of the 1999 Regular Session is repealed.
+
+## Amendment 701
+**Promotion of Industry, Trade, and Economic Development in Randolph County.**
+
+The Legislature, by general, local, or special law, may provide for the creation, incorporation, organization, operation, administration, authority, and financing of a public corporation empowered or intended to assist or aid in any way Randolph County or any municipality therein in promoting industry, trade, and economic development of Randolph County and each municipality situated in the county, and the Legislature may grant the corporation all powers, rights, privileges, exemptions, and authority as the Legislature considers necessary or desirable for the furtherance and accomplishment of the purposes of the public corporation.
+
+## Amendment 702
+**Phase-out of Supernumerary Programs in Russell County; Participation in Employees' Retirement System.**
+
+No person elected or appointed sheriff, or any elected or appointed Russell County official, may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every sheriff and elected or appointed Russell County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Russell County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office; provided, however, the official shall forego the assumption of a supernumerary office. For the purposes of this amendment, the words "elected or appointed county official" shall include any person appointed to serve the remaining term of an elected or appointed official, but shall not include a judge, district attorney, legislator, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 703
+**Phase-out of Supernumerary Programs in Tallapoosa County; Participation in Employees' Retirement System.**
+
+No person elected or appointed sheriff, or any elected or appointed Tallapoosa County official, may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every sheriff and elected or appointed Tallapoosa County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Tallapoosa County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office; provided, however, the official shall forego the assumption of a supernumerary office. For the purposes of this amendment, the words "elected or appointed county official" shall include any person appointed to serve the remaining term of an elected or appointed official, but shall not include a judge, district attorney, legislator, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 704
+**Phase-out of Supernumerary Programs in Chilton County; Participation in Employees' Retirement System.**
+
+No person elected or appointed Sheriff of Chilton County, or any elected or appointed Chilton County official, may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every sheriff and other elected or appointed Chilton County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Chilton County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office; provided, however, the official shall forego the assumption of a supernumerary office. For the purposes of this amendment, the words "elected or appointed county official" shall include any person appointed to serve the remaining term of an elected or appointed county official, but shall not include a judge, district attorney, legislator, school board member, or any official elected from a judicial circuit. All costs associated with the purchase of prior service credit as prescribed in Section 36-27-6.1, Code of Alabama 1975, shall be the responsibility of the official making the purchase.
+
+## Amendment 705
+**Phase-out of Supernumerary Programs in Marion County; Participation in Employees' Retirement System.**
+
+No person elected or appointed Sheriff of Marion County, or any elected or appointed Marion County official, may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every sheriff and other elected or appointed Marion County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Marion County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office; provided, however, the official shall forego the assumption of a supernumerary office. For the purposes of this amendment, the words "elected or appointed county official" shall include any person elected to represent Marion County in any representative body of the state and includes any person appointed to serve the remaining term of an elected or appointed Marion County official. The words do not include a judge, district attorney, constable, school board member, or any official elected from a judicial circuit. All costs associated with the purchase of prior service credit as prescribed in Section 36-27-6.1, Code of Alabama 1975, shall be the responsibility of the official making the purchase.
