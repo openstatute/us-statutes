@@ -248,3 +248,37 @@ The Writ of Habeas Corpus shall in no case be suspended.- It shall be a writ, is
 
 ### Article 13
 Such parts and provisions only for the Constitution of this State, established by Convention on the ninth day of July, one thousand seven hundred and ninety-three, as are altered or superseded by any of the foregoing amendments, or are repugnant thereto, shall hereafter cease to have effect.
+
+### Article 14
+The Assistant Judges of the County Court shall be elected by the Freemen of their respective Counties.
+
+### Article 15
+Sheriffs and High Bailiffs shall be elected by the Freemen of their respective Counties.
+
+### Article 16
+State's Attorneys shall be elected by the Freemen of their respective Counties.
+
+### Article 17
+Judges of Probate shall be elected by the Freemen of their respective Probate Districts.
+
+### Article 18
+Justices of the Peace shall be elected by the Freemen of their respective towns; and towns having less than one thousand inhabitants may elect any number of Justices of the Peace not exceeding five; towns having one thousand, and less than two thousand inhabitants, may elect seven; towns having two thousand and less than three thousand inhabitants, may elect ten; towns having three thousand and less than five thousand inhabitants, may elect twelve; and towns having five thousand, or more, inhabitants, may elect fifteen Justices of the Peace.
+
+### Article 19
+All the officers named in the preceding articles amendment shall be annually elected by ballot and shall hold their offices for one year, said year commencing on the first day of December next after their election.
+
+### Article 20
+The election of the several officers mentioned in the preceding articles, excepting town Representatives, shall be made at the times and in the manner now directed in the Constitution for the choice of Senators. And the presiding officer of each Freemen's meeting, after the votes shall have been taken, sorted and counted, shall, in open meeting, make a certificate of the names of each person voted for, with the number of votes given for each, annexed to his name and designating the office for which the votes were given, a record of which shall be made in the Town Clerk's office, and he shall seal up said certificate, and shall write thereon the name of the town and the words, Certificate of Votes for and add thereto, in writing, the title of the office voted for, as the case may be, and shall deliver such certificate to some Representative chosen as a member of the General Assembly, whose duty it shall be to cause such certificate of votes to be delivered to the Committee of the General Assembly appointed to canvass the same. And at the sitting of the General Assembly, next after such balloting for the officers aforesaid, there shall be a Committee appointed of and by the General Assembly, who shall be sworn to the faithful discharge of their duty and whose duty it shall be to examine such certificates and ascertain the number of votes given for each certificate, and the persons receiving the largest number of votes for the respective offices, shall be declared duly elected, by such Committee be reported to the General Assembly and the officers so elected shall be commissioned by the Governor. And if two or more persons designated for any one of said offices, shall have received an equal number of votes, the General Assembly shall elect one of such persons to such office.
+
+### Article 21
+The term of office of the Governor, Lieutenant Governor, and Treasurer of the State, respectively, shall commence when they shall be chosen and qualified, and shall continue for the term of one year, or until their successors shall be chosen and qualified, or to the adjourment of the session of the Legislature, at which, by the constitution and laws, their successors are required to be chosen, and not after such adjournment. And the Legislature shall provide, by general law, declaring what officer shall act as Governor whenever there shall be a vacancy in both the offices of Governor and Lieutenant Governor, occasioned by a failure to elect, or by the removal from office, or by the death, resignation, or inability of both Governor and Lieutenant Governor, to exercise the powers and discharge the duties appertaining to the office of Governor accordingly until the disability shall be removed, or a Governor shall be elected. And in case there shall be a vacancy in the office of Treasurer, by reason of any of the causes enumerated, the Governor shall appoint a Treasurer for the time being, who shall act as Treasurer until the disability shall be removed, or a new election shall be made.
+
+### Article 22
+The Treasurer of the State, shall, before entering upon the duties of his office, give sufficient security to the Secretary of State, in behalf of the State of Vermont, before the Governor of the State or one of the Judges of the Supreme Court. And Sheriffs and High Bailiffs, before entering upon the duties of their respective offices, shall give sufficient security to the Treasurer of their respective Counties, before one of the Judges of the Supreme Court, or the two Assistant Judges of the County Court of their respective Counties, in such manner and in such sums as shall be directed by the Legislature.
+
+### Article 23
+The Senate shall be composed of thirty Senators, to be of the Freemen of the County for which they are elected, respectively, who shall have attained the age of thirty years, and they shall be elected annually by the Freemen of each County respectively.
+
+The Senators shall be apportioned to the several Counties, according to the population, as ascertained by the census taken under the authority of Congress in the year 1840, regarding being always had, in such apportionment to the Counties having the largest fraction, and giving to each County at least one Senator.
+
+The Legislature shall make a new apportionment of the Senators to the several Counties, after the taking of each census of the United States, or after a census taken for the purpose of such apportionment, under the authority of this State, always regarding the above provisions of this article.
