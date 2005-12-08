@@ -10416,3 +10416,8 @@ For purposes of the foregoing, any sale, lease, or other disposition of property
 Nothing in this amendment shall authorize the county commission to own or operate a cable television system.
 
 (d) This amendment shall have prospective application only. Any local constitutional amendments previously adopted and any local law enacted pursuant to such amendment shall remain in full force and effect.
+
+## Amendment 773
+**Form of Government.**
+
+Amendment 144 of the Constitution of Alabama of 1901, relating to Colbert County, is repealed.
