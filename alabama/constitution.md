@@ -10421,3 +10421,53 @@ Nothing in this amendment shall authorize the county commission to own or operat
 **Form of Government.**
 
 Amendment 144 of the Constitution of Alabama of 1901, relating to Colbert County, is repealed.
+
+## Amendment 774
+**Sanctity of Marriage Amendment.**
+
+(a) This amendment shall be known and may be cited as the Sanctity of Marriage Amendment.
+
+(b) Marriage is inherently a unique relationship between a man and a woman. As a matter of public policy, this state has a special interest in encouraging, supporting, and protecting this unique relationship in order to promote, among other goals, the stability and welfare of society and its children. A marriage contracted between individuals of the same sex is invalid in this state.
+
+(c) Marriage is a sacred covenant, solemnized between a man and a woman, which, when the legal capacity and consent of both parties is present, establishes their relationship as husband and wife, and which is recognized by the state as a civil contract.
+
+(d) No marriage license shall be issued in the State of Alabama to parties of the same sex.
+
+(e) The State of Alabama shall not recognize as valid any marriage of parties of the same sex that occurred or was alleged to have occurred as a result of the law of any jurisdiction regardless of whether a marriage license was issued.
+
+(f) The State of Alabama shall not recognize as valid any common law marriage of parties of the same sex.
+
+(g) A union replicating marriage of or between persons of the same sex in the State of Alabama or in any other jurisdiction shall be considered and treated in all respects as having no legal force or effect in this state and shall not be recognized by this state as a marriage or other union replicating marriage.
+
+## Amendment 775
+**Sheriff - Employees**
+
+Effective the first day of the sixth month after the date of the election on the ratification of this amendment, employees of the Office of the Sheriff of Blount County, except for the chief deputy and chief clerks, are subject to the authority of the Merit System Board of Blount County, or its successor.
+
+## Amendment 776
+**Retirement.**
+
+Amendment No. 632 of the Constitution of Alabama of 1901, now appearing as Section 3, Local Amendments, Cleburne County, Official Recompilation of the Constitution of Alabama of 1901, as amended, is amended to read as follows:
+
+"Amendment No. 632.
+
+"  No elected or appointed Cleburne County official may assume a supernumerary office after the effective date of this amendment.  Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program.  Every elected or appointed Cleburne County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system.  Cleburne County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office. No person may participate in both a supernumerary program and the Employees' Retirement System based on the same service. For the purposes of this amendment, the words "elected or appointed Cleburne County official" include, subject only to express limitation, any person elected to represent Cleburne County in any representative body of the state and includes any person appointed to serve the remaining term of an elected or appointed Cleburne County official. The words do not include a judge, district attorney, constable, school board member, or any official elected from a judicial circuit.
+
+"
+
+## Amendment 777
+**Retirement.**
+
+Amendment No. 630 of the Constitution of Alabama of 1901, now appearing as Section 3, Local Amendments, Cherokee County, Official Recompilation of the Constitution of Alabama of 1901, as amended, is amended to read as follows:
+
+"Amendment No. 630.
+
+" No elected or appointed Cherokee County official may assume a supernumerary office after the effective date of this amendment.  Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every elected or appointed Cherokee County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system.  Cherokee County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office. No person may participate in both a supernumerary program and the Employees' Retirement System based on the same service. For the purposes of this amendment, the words "elected or appointed Cherokee County official" include, subject only to express limitation, any person elected to represent Cherokee County in any representative body of the state and includes any person appointed to serve the remaining term of an elected or appointed Cherokee County official. The words do not include a judge, district attorney, constable, school board member, or any official elected from a judicial circuit.
+
+"
+
+"
+
+"
+
+""
