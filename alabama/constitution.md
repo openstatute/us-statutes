@@ -10471,3 +10471,256 @@ Amendment No. 630 of the Constitution of Alabama of 1901, now appearing as Secti
 "
 
 ""
+
+## Amendment 778
+**Minimum ad valorem tax rate for general school purposes.**
+
+(a) There is hereby authorized and there shall be levied and collected for general public school purposes, for the ad valorem tax year commencing October 1, 2006, and for each ad valorem tax year thereafter, in each school district of the state, in addition to all other taxes, a special ad valorem school property tax at a rate equal to the difference between ten dollars on each one thousand dollars of taxable property in such district and the sum of the rates per thousand of all the ad valorem property taxes described in Section (b) hereof otherwise levied and collected for general public school purposes in such school district and required or permitted by the terms of this amendment to be taken into account for purposes of determining the rate of said tax. The County Commission or other like governing body of each county in the State is hereby directed to compute and determine annually the rate or rates of, and to levy and collect in and for the benefit of each school district within such county, the additional ad valorem property tax authorized hereby, in compliance with the provisions of this amendment. The proceeds from said tax shall not, any provisions of any law or of this constitution to the contrary notwithstanding, be subject to any fees, charges or commissions for assessment or collection by any person whatever, it being the intent hereof that the full amounts of the proceeds of said tax collected shall be used for general public school purposes.
+
+(b) The following described ad valorem property taxes, to the extent the use of the proceeds thereof is not lawfully restricted, earmarked or otherwise designated for a purpose or purposes more particular than general public school purposes, now or hereafter levied and collected in each school district of the State, shall be taken into account annually in determining the rate of the tax required to be levied each year pursuant to the provisions of Section (a) of this amendment:
+
+(1) countywide ad valorem property taxes levied and collected for public school or educational purposes under the provisions of Section 269 of, or Amendments 3 or 202 [§§269.01 through 269.04] to, the Constitution of Alabama of 1901 or any amendment thereto adopted subsequent to the adoption of this amendment similarly authorizing the levy of such taxes,
+
+(2) countywide ad valorem property taxes levied and collected for public school or educational purposes,
+
+(3) that portion, expressed as an ad valorem tax millage rate, of any local countywide ad valorem property tax or taxes levied and collected in any county of the state for general purposes that is paid or required to be distributed to or used for the benefit of the respective public school system or systems of the county to which the school district has reference, and that is designated by official action of the taxing authority levying the same as creditable for purposes of Section (a) of this amendment, provided that any such portion of such tax once so designated may not thereafter be designated for other than general school purposes and shall be recorded as a school tax that may be levied and collected without limit as to time,
+
+(4) school district ad valorem property taxes levied and collected under the provisions of Amendments 3 or 382 to the Constitution of 1901 [§§269.01 through 269.04], or the provisions of any constitutional amendment applicable only to the county (or part thereof) in which the school district is located authorizing the levy of an ad valorem property tax in the school district, and
+
+(5)  any ad valorem property taxes otherwise levied by and collected in any municipality of the state for public school purposes the proceeds of which are paid or required to be used for the benefit of the school system of such municipality, and that are designated by the taxing authority levying the tax as creditable for purposes of Section (a) of this amendment, provided that any such tax once so designated may not thereafter be designated for other than general school purposes and shall be recorded as a school tax that may be levied and collected without limit as to time.
+
+(c) Each local taxing authority in the State levying ad valorem property taxes for public school purposes shall annually notify the Alabama Department of Revenue, the Alabama State Superintendent of Education, and the Director of Finance of all ad valorem property taxes so levied by such authority for school purposes (including the tax authorized to be levied hereby), of the authority under which such taxes were levied and collected, the provisions of any referendum at which they were approved pertaining to the rates thereof, the time they are to continue, the purposes for which they were approved, and the particular constitutional authority under which they were submitted for referendum, if applicable.
+
+(d) The levy and collection of the additional ad valorem property tax authorized and required to be levied and collected pursuant to the provisions of this amendment shall not affect or reduce any authorization heretofore or hereafter otherwise existing for the levy of any school district or countywide ad valorem property tax or taxes, whether such levy is subject to approval by the qualified electors of the jurisdiction in which the tax may be levied at a referendum election or otherwise.
+
+(e) The tax levied pursuant to this amendment may be pledged for payment of any debt obligations incurred for public school purposes for which any other ad valorem property tax levied in the school district in which the tax is levied is or may be pledged for repayment. No provision of this amendment shall affect or impair the validity of any pledge of any local ad valorem property tax heretofore or hereafter made for the payment of any indebtedness of any type whatever.
+
+(f) Any provision of the Constitution of Alabama of 1901, as amended, to the contrary notwithstanding, all ad valorem property taxes for public school or education purposes in the state of Alabama the levy of which has been approved by a majority vote of the appropriate electorate prior to the ratification of this amendment by the qualified electors of the State, and the levy and collection of any such tax from the date of the initial levy thereof, are hereby authorized, ratified and confirmed regardless of any statutory or constitutional defects, mistakes, errors or ambiguities in the authorization or levy thereof or the election thereon, or in any act of the Legislature with respect thereto; provided, however, that the authorization, ratification and confirmation effected by this Section (f) shall not be applicable to any tax the validity of which was being challenged in appropriate judicial proceedings in any proper court on the date of final passage of the act of the legislature pursuant to which this amendment was proposed.
+
+## Amendment 779
+**Court Costs.**
+
+The Legislature, by general or local law, may fix, regulate, and alter the costs and charges of courts in Autauga County and provide for their distribution.
+
+## Amendment 780
+**Judicial Commission.**
+
+All vacancies in the office of judge of the circuit court and the office of judge of the district court holding in Baldwin County shall be filled in the manner and for the time as herein provided.
+
+The Baldwin County Judicial Commission is created for the purpose of nominating to the Governor persons for appointment to a vacancy. The commission shall be composed of five members. The members of the commission shall be one person who is a member of the Alabama State Bar nominated by the Baldwin County Bar Association, the presiding circuit judge holding in Baldwin County, one member selected by the Baldwin County Commission, one member selected by the Baldwin County Mayors' Association where at least two thirds of the members are in attendance at the meeting where the selection is made, and one member who is not a member of the Legislature selected by the Baldwin County Legislative Delegation selected by random selection as designed by the members of the Alabama House of Representatives and the Alabama Senate who represent Baldwin County.
+
+All members of the commission shall reside in the territorial jurisdiction of the circuit court holding in Baldwin County.
+
+Only the member selected by the Baldwin County Bar Association and the presiding circuit judge holding in Baldwin County may be a member of the Alabama State Bar. The member of the commission who is required to be a member of the Alabama State Bar shall be elected by the members of the Baldwin County Bar Association who are regularly licensed and qualified to practice law in this state and who reside in the territorial jurisdiction of the circuit court holding in Baldwin County. The Executive Committee of the Baldwin County Bar Association, or its successor body in that capacity, shall make rules, not inconsistent with this amendment, for the election of the member of the commission required to be a member of the Alabama State Bar. The executive committee shall certify in writing to the Judge of Probate of Baldwin County the name of the person elected as member of the commission by these members of the bar.
+
+The presiding circuit judge holding in Baldwin County shall certify in writing to the Judge of Probate of Baldwin County the remaining names of the persons selected as members of the commission.
+
+The terms of office of all members of the commission shall be six years. In event that an initial appointment or vacancy is not filled in 30 days, the vacancy shall be filled by the members of the Baldwin County Legislative Delegation residing in Baldwin County within 10 days. A vacancy in the office of a member of the commission shall be filled for the unexpired term in the same manner as the member was originally chosen.
+
+The Judge of Probate of Baldwin County shall record all certificates of election and shall safely and permanently keep the original certificates. Forthwith upon his or her receipt and recordation of every certificate, the judge of probate shall send to the Governor a certified copy of every certificate.
+
+No member of the commission shall be eligible for nomination to the Governor for appointment as judge of the circuit court or the district court during the term of office of the commission member.
+
+The members of the commission shall not receive any salary or other compensation for their services as members. No member of the commission other than the member required to be a judge of the circuit court shall hold any public office, and no member of the commission shall hold any official position in any political party.
+
+If a vacancy occurs in the office of judge of the circuit court or the office of judge of the district court holding in Baldwin County, the commission shall nominate within 30 days to the Governor three persons having the qualifications for the office. If the commission fails to nominate three names during the 30-day period, the names shall be selected by the members of the Baldwin County Legislative Delegation residing in the county within 10 days. The names of all persons considered for nomination shall be available for review by the public and shall be deemed a public record. The Governor shall appoint to the office in which the vacancy exists one of the three persons so nominated for the office. If the Governor fails to make an appointment from the list within 30 days from the date it is presented to the Governor, the appointment shall be made by the Chief Justice or the acting Chief Justice of the Supreme Court from the same list. The appointee shall hold the office until the next general election for any state officer held at least six months after the vacancy occurs and until a successor is elected and qualified. At the general election, the judicial office shall be filled for a full term of office to commence on the first Monday after the second Tuesday in January following the general election.
+
+## Amendment 781
+**Wastewater Utilities.**
+
+(a) This amendment shall apply only in Baldwin County.
+
+(b) For the purpose of this amendment, the following terms have the following meanings:
+
+(1) WASTEWATER SYSTEM. A system of pipes, lines, meters, pumps, equipment and facilities, all or part of which are located in the unincorporated areas of Baldwin County and which are owned or operated by a wastewater utility, as defined herein, for the collection, treatment, and disposal of wastewater from homes, schools, businesses, and other entities in which solids, sewerage, nonhydrocarbon greases, and oils are collected for treatment or where wastewater is collected for disposal. Individual septic tank systems, decentralized or cluster facilities as defined by general law, and all portable toilets are expressly excluded from the definition of the term "wastewater system."
+
+(2) WASTEWATER UTILITY. The owner or operating entity of a wastewater system, whether privately owned or publicly owned, including privately owned wastewater systems, municipally owned wastewater systems, and wastewater systems owned by or through boards or other entities established by municipal corporations or as otherwise provided by state law.
+
+(3) WASTEWATER. Solids, sewerage, nonhydrocarbon greases, and oils.
+
+(c) The Legislature may by general or local law provide for the regulation of wastewater utilities, whether privately owned or publicly owned, in the unincorporated area of the county. The regulation may include uniform minimum standards for the design, placement, construction, operation, and maintenance of wastewater systems and the regulation of the establishment of reasonable and just rates for consumers and the wastewater utilities. In the case of uniform minimum standards established within any extraterritorial jurisdiction of a municipality, the standards established pursuant to the authority granted in this amendment shall apply. Any minimum standard adopted pursuant to this amendment shall not apply to any part of a wastewater system installed or permitted prior to the effective date of the standard unless it is determined necessary for the protection of the public health and welfare and the environment of Baldwin County. All laws, rules, regulations, construction standards, and specifications regulating wastewater systems and wastewater utilities shall be non-discriminatory and apply equally to all wastewater systems and wastewater utilities operating or located within the unincorporated areas of the county.
+
+(d) The Legislature may authorize the levy of taxes or fees in an amount not to exceed five percent of the gross receipts from the connection, collection, and treatment revenues collected from customers of wastewater utilities in the unincorporated area of the county to be used for the purposes of the administration of regulation adopted pursuant to this amendment.
+
+(e) The Legislature may provide for the mandatory connection to wastewater systems where service is reasonably available and where it is in the best interest for the protection of the public health and welfare and the environment of Baldwin County.
+
+(f) The Legislature by general or local law may authorize the exercise of the power of eminent domain for the construction of wastewater utilities in the county.
+
+## Amendment 782
+**Baldwin County: Tax - Senior Discount.**
+
+(a) In Baldwin County, a qualified taxpayer may claim a senior discount on his or her ad valorem taxes. A qualified taxpayer shall meet all the following requirements to be eligible for the senior discount:
+
+(1) Be age 65 or older for the tax year for which he or she claims the discount.
+
+(2) Shall have maintained the property on which the senior discount is claimed as his or her principal place of residence for at least 10 years prior to claiming the senior discount.
+
+(b) The senior discount provided for herein shall be the difference between the ad valorem taxes otherwise due and the ad valorem tax imposed on October 1, 2006. The senior discount shall be claimed in the manner that a homestead exemption is claimed.
+
+(c) The Alabama Department of Revenue shall promulgate such rules as are necessary for the implementation and administration of the provisions of this amendment.
+
+## Amendment 783
+**Home Rule.**
+
+Section 1. Limited Home Rule.
+
+(a) Except as herein provided, the Baldwin County Commission may adopt ordinances, resolutions, or regulations relating to its property, affairs, and county government for which no provision has been made by general law and which is not inconsistent with this constitution or any local law enacted by the Alabama Legislature. Notwithstanding the general grant of power in the preceding sentence, the Baldwin County Commission may not establish or levy any new tax or raise revenue except as authorized by this constitution or by general or local law enacted by the Legislature of the State of Alabama.
+
+(b) The Baldwin County Commission, in the adoption of ordinances, resolutions, regulations, or amendments to such ordinances, resolutions, or regulations implementing the provisions of this amendment, shall provide for public notice and hearings as follows:
+
+(1) The county commission shall hold two advertised public hearings on the proposed ordinance, resolution, or regulation or any amendment to ordinances, resolutions, or regulations at regularly scheduled meetings of the commission.
+
+(2) The required advertisement shall be no less than one-eighth page in a standard size or a tabloid size newspaper, and the headline in the advertisement shall be in a type no smaller than 14 point. This advertisement shall be placed in both that portion of the newspaper where legal notices and classified advertisements appear and in the other portion of the newspaper. The advertisement shall be published in newspapers of general paid circulation in the county and of general interest and readership in the community. In addition, the advertisement may be placed on a website.
+
+(3) An ordinance may not be considered for adoption until the next regularly scheduled meeting of the county commission after the public hearings provided for above.
+
+(c) Every ordinance of the Baldwin County Commission shall embrace only one subject and matter properly connected therewith, and the subject shall be briefly expressed in the title. No ordinance shall be revised or amended by reference to its title only. Ordinances to revise or amend shall set out in full the revised or amended section, subsection, or paragraph of a subsection. The enacting clause of every ordinance shall read: "Be It Ordained by the County Commissioners of Baldwin County."
+
+(d) The Baldwin County Commission shall maintain a current codification of all ordinances. The codification shall be updated at least annually. All ordinances shall be available to the public at the main courthouse and at all satellite courthouses. A reasonable charge may be made for the copies but the charges shall not exceed the actual costs incidental to providing the copies. In addition, the county commission may post the ordinances on the Internet.
+
+(e) The Baldwin County Commission may fix the salaries, compensation, expenses, and other benefits and terms of employment of those employed by the Baldwin County Commission, not to include any employee of the sheriff subject to Amendment 717 of this constitution, now appearing as Section 9, Local Amendments, Baldwin County, Official Recompilation of the Constitution of Alabama of 1901, as amended, and establish and maintain retirement or pension systems, insurance, workers' compensation, hospitalization, and medical benefits for those employees as well as the employees of the Baldwin County Legislative Office. The Baldwin County Commission may employ a county administrator and other professional staff as it deems appropriate to be authorized and directed to perform any applicable management and administrative function associated with the management of county property and services.
+
+Section 2. Supplementary powers.
+
+(a) The Baldwin County Commission, in addition to, and supplementary of, all powers possessed by or conferred upon Baldwin County or otherwise provided by general law, may by ordinance or resolution exercise the following powers, and provide and regulate the following services, activities, programs, and facilities related thereto:
+
+(1) Garbage and solid waste collection and disposal.
+
+(2) Public health facilities and services, including hospitals, ambulance and emergency rescue services, and control of dangerous animals and animal nuisances not related to agricultural activities, operations, or practices.
+
+(3) Public street and road construction and maintenance, including curbs, sidewalks, street lights, and devices to control the flow of traffic. Any construction and maintenance performed or authorized to be performed by county government shall be performed in accordance with engineering standards and shall be inspected to insure enforcement and compliance.
+
+(4) Parks, recreational areas, programs, and facilities.
+
+(5) Storm water management.
+
+(6) Development, storage, treatment, purification, and distribution of water.
+
+(7) Public housing, public buildings, and parking facilities.
+
+(8) Public transportation.
+
+(9) Libraries, archives, and arts and sciences programs and facilities.
+
+(10) Economic development and tourism initiatives, developments, and projects.
+
+(11) Adoption and enforcement of codes, including building, housing, plumbing, and electrical codes for the protection of the public.
+
+(12) Litter, trash, and rubbish regulation and control on public roads, streets, or highways, or on or in public buildings, public parks, and public properties.
+
+(b) Unless otherwise provided by an act of the Legislature in effect upon ratification of this amendment or unless otherwise provided by general law, Baldwin County may not exercise any of the supplementary powers listed in subsection (a) or provide any service listed therein inside the corporate limits of any municipality or within any other county, except by contract with the municipality, or county affected.
+
+Section 3. Eminent domain.
+
+The Baldwin County Commission may exercise the power of eminent domain as is authorized by general law and this constitution.
+
+Section 4. Liability.
+
+The Legislature may waive or limit the liability of Baldwin County by law.
+
+Section 5. Debt limitation.
+
+The debt incurred by Baldwin County, including debt incurred on behalf of any special district, may never exceed that authorized by general law or by the constitution.
+
+Section 6. The Baldwin County Commission may provide for civil penalties for violations of its ordinances, rules, or regulations. Civil penalties set by the county commission may not exceed the average of those penalties set by the municipalities of Baldwin County which have adopted penalties for the same or similar offense. In case no municipality has set a penalty for an offense, the penalty shall be the same as provided for by general law.
+
+Section 7. The powers granted to the Baldwin County Commission by this amendment shall not be construed to extend to any matters which the Legislature by general law has heretofore preempted by operation of law, nor shall the powers be construed to extend to any of the following matters:
+
+(1) Action affecting any elective county office and the salaries thereof, except as provided by general law.
+
+(2) Action affecting the composition, form, procedure for election or appointment, compensation, and expenses and allowances in the nature of compensation of the Baldwin County Commission, except as provided by local or general law or by the constitution.
+
+(3) Action defining any criminal offense or providing for criminal punishment beyond that authorized by local or general law or by the constitution.
+
+(4) Action extending the power of regulation over any business activity subject to regulation by the Alabama Public Service Commission or any other state agency beyond that authorized by local or general law or by the constitution.
+
+(5) Action affecting the exercise of the power of eminent domain beyond that authorized by local or general law or by the constitution.
+
+(6) Action affecting any court or the personnel thereof.
+
+(7) Action affecting any public school system unless requested by the board of education of the school system.
+
+(8) Action enabling pari-mutuel betting or any pari-mutuel betting facility, gaming or gaming devices, or any gambling.
+
+(9) Action affecting in any manner the boundaries, revenues, powers, obligations, indebtedness, or government of a municipality.
+
+(10) Action affecting the private or civil law governing private or civil relationships, except as is incident to the exercise of an independent governmental power.
+
+(11) Action affecting agricultural and silvicultural activities, operations, or practices.
+
+(12) Action affecting sanitary sewage collection and treatment until further authorized by the general laws of this state, or by local law.
+
+Section 8. Nothing in this amendment shall be construed to permit the Baldwin County Commission to redistrict itself, except as provided by general law, or establish the number of commissioners or number of commission districts.
+
+Section 9. The Legislature, by local law, may provide for the further implementation and administration of the provisions of this amendment upon request of the county commission.
+
+## Amendment 784
+**Retirement.**
+
+No sheriff or elected or appointed Butler County official may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every sheriff or elected or appointed Butler County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. The sheriff and other Butler County officials holding office at the time of ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office. No person may participate in both a supernumerary program and the Employees' Retirement System based on the same service. For the purposes of this amendment, the words "elected or appointed Butler County official" include, subject only to express limitation, (1) any person elected to a public county office by the electors of Butler County at a general or special election; (2) any person holding an office that entitles the person to participate in a supernumerary program; or (3) any person appointed to serve the remaining term of an elected Butler County official. The words do not include a judge, district attorney, legislator, constable, coroner, school board member, or any official elected from a judicial circuit.
+
+## Amendment 785
+**Salaries - Judge of Probate.**
+
+Repealed by Amendment 785.
+
+## Amendment 786
+**Retirement.**
+
+No person elected or appointed sheriff or any elected or appointed DeKalb County official may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every elected or appointed DeKalb County official including the sheriff may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. DeKalb County officials holding office at the time of ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office; provided, however, the official shall forego the assumption of a supernumerary office. For the purposes of this amendment, the words "elected or appointed DeKalb County official" include, subject only to express limitation, any person elected to represent DeKalb County in any representative body of the state and includes any person appointed to serve the remaining term of an elected or appointed DeKalb County official, but shall not include a judge, district attorney, legislator, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 787
+**Fire Protection - Levy of Fees.**
+
+(a) The Legislature may from time to time by local law authorize the county governing body of Elmore County to levy and collect fees, annually not to exceed fifty dollars ($50) on each residence and one hundred dollars ($100) on each business located within the county, for fire protection services and emergency medical care, such local law may provide for the distribution of the fees to volunteer fire departments and to emergency medical technicians who are members of volunteer fire departments, or provide for the distribution of the fees to an association of volunteer fire departments to be distributed by the association for the same purposes.
+
+(b) Act No. 92-660, H. 63, 1992 Second Special Session, a proposed, but not ratified local constitutional amendment, relating to the same subject matter, is repealed.
+
+(c) This amendment shall not become effective unless approved at a referendum by a majority of the qualified electors of Elmore County voting on the proposition. The referendum shall be held at the same time as the election for the ratification of this amendment, as provided for in Section 2 of this act, and no further election shall be required.
+
+## Amendment 788
+**Retirement.**
+
+No mayor or elected or appointed Escambia County official, including the sheriff, may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every mayor or elected or appointed Escambia County official, including the sheriff, may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Mayors and Escambia County officials holding office at the time of ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office. No person may participate in both a supernumerary program and the Employees' Retirement System based on the same service. For the purposes of this amendment, the words "elected or appointed Escambia County official" include, subject only to express limitation, any person holding an office that entitles the person to participate in a supernumerary program or any person appointed to serve the remaining term of an elected or appointed Escambia County official. The words do not include a judge, district attorney, legislator, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 789
+**Retirement.**
+
+No elected or appointed Geneva County official, including the sheriff, may assume a supernumerary office after the effective date of this amendment.  Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program.  Every elected or appointed Geneva County official, including the sheriff, may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system.  Geneva County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office; provided, however, the official shall forego the assumption of a supernumerary office.  For the purposes of this amendment, the words "elected or appointed county official" shall include any person appointed to serve the remaining term of an elected or appointed county official, but shall not include a judge, district attorney, legislator, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 790
+**Criminal Penalties.**
+
+The Lee County Commission, by ordinance or resolution, may provide criminal penalties for violations that occur within the county in addition to those provided for by state law.
+
+## Amendment 791
+**Sheriff - Employees.**
+
+Effective the first day of the sixth month after ratification of this amendment, employees of the Office of the Sheriff of Mobile County, except for all appointed or contract employees, shall be under the authority of the Personnel Board of Mobile County. The provisions of this amendment shall not affect the legal status of the sheriff's deputies as state constitutional officers and shall not abrogate or limit in any way any immunity from liability they enjoy pursuant to that status.
+
+## Amendment 792
+**Fire Protection - Garbage and Trash Disposal.**
+
+The Legislature may provide for the formation of districts in Tuscaloosa County, for establishing and maintaining a system for fighting or preventing fires or for the collection and disposal of garbage and trash or for either or both of said purposes; provided, however, that no territory lying within the limits of a municipal corporation at the time of the establishment of any such district shall be included within such district except that all or part of any territory lying within a municipality having a population of 10,000 inhabitants or less may be included within a district upon approval by resolution of the governing body of the municipality; and, provided further, that no such district shall be established unless the establishment thereof has been first approved by the qualified electors residing within the proposed district at an election held as provided for by a law or laws adopted by the Legislature. The Legislature may provide for submitting to the qualified electors residing within the proposed district the question of whether the district shall be created for either or both of the aforesaid purposes.
+
+The expenses of establishing and maintaining any such fire fighting and fire prevention system or any such garbage collection and disposal system in a district, as the case may be, shall be paid for exclusively by the proceeds of a service charge, which shall be levied and collected in an amount sufficient to pay the said expenses.
+
+Said service charges shall be levied upon and collected from the persons and property to whom and to which such services are available; and the service charge shall be a lien upon any such property.
+
+The Legislature may provide for the enlargement of a district by the addition of territory thereto, subject to the following conditions: (1) No territory lying within a municipal corporation at the time of such enlargement shall be added to a district except that all or part of any territory lying within a municipality having a population of 10,000 inhabitants or less may be included within a district upon approval by resolution of the governing body of the municipality; (2) subject to (3), next below, no territory shall be added unless the qualified electors thereof have approved the addition of such territory to the district at an election held for that purpose within the territory proposed to be added; (3) the Legislature may provide a procedure whereby territory will be included in a district upon the written petition for its inclusion signed by at least seventy percent (70%) of the qualified electors residing within said territory.
+
+The Legislature shall adopt laws providing for the administration of the affairs of the district by the governing body of the county or by an agency of the county, and empowering the body administering the affairs of the district to levy and collect the service charge, subject to such restrictions and conditions as the Legislature imposes. The Legislature may provide that any such service charge shall not become effective unless approved by the electors of the territory, and may provide the conditions on which an election on such service charge shall be held.
+
+The Legislature shall be authorized to enact laws providing for the collection and enforcement of the service charges and of the lien for such charges.
+
+The Legislature may provide for the issuance of bonds for such districts with or without an election; provided, however, that all bonds issued hereunder shall be payable only out of the proceeds of the service charge authorized hereby, and no such bond shall be a general obligation of the county.
+
+## Amendment 793
+**Tuscaloosa County: Court Costs - Legislative Authority.**
+
+The Legislature, by general or local law, may fix, regulate, and alter the costs and charges of courts in Tuscaloosa County and provide for their distribution. Any local law authorizing the levy of additional court costs in Tuscaloosa County enacted prior to the effective date of this amendment is ratified and confirmed.
+
+## Amendment 794
+**Court Costs - Authority.**
+
+The Legislature, by general or local law, may fix, regulate, and alter the costs and charges of courts in Tuscaloosa County and provide for their distribution. Any local law authorizing the levy of additional court costs in Tuscaloosa County enacted prior to the effective date of this amendment is ratified and confirmed.
