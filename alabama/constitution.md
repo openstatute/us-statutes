@@ -10741,3 +10741,33 @@ No securities issued or contracts made by Baldwin County under the authority of 
 As used in this act, the term "election precincts" means the election precincts or beats of the county as they existed on July 27, 1965.
 
 This amendment shall be self-executing.
+
+## Amendment 796
+**Increase in bonding authority; competitive bidding.**
+
+(a) The authority granted to the State of Alabama to become indebted and to sell and issue its interest-bearing General Obligation bonds, in addition to all other bonds of the state, under Amendment 666 to the Constitution of Alabama of 1901, as amended, [§219.04] is hereby increased to an aggregate principal amount not exceeding $750 million.
+
+(b) All of the bonds shall be sold only at public sale or sales, either on sealed bids or at public auction, after such advertisement as may be prescribed by the Bond Commission, to the bidder whose bid reflects the lowest true interest cost to the State computed to the respective maturities of the bonds sold; provided, that if no bid deemed acceptable by the commission is received all bids may be rejected.
+
+(c) Relative to issuance expenses, contracts and appointments incurred in connection with the issuance of bonds, the Bond Commission created in Section IX of Amendment 666 to the Constitution of 1901, [§219.04] shall contract with businesses or individuals which reflect the racial and ethnic diversity of the state.
+
+(d) In all other respects, the terms and provisions of Amendment 666 to the Constitution of Alabama of 1901, [§219.04] as amended, will be unchanged and remain in full force and effect.
+
+## Amendment 797
+**Foreign Trade Investment Zone.**
+
+(a) The governing body of the City of Prichard in Mobile County, Alabama, by a majority vote thereof at a regularly scheduled meeting of the governing body, may establish an Alabama Foreign Trade Investment Zone within the city as a special tax district for the purpose of importing duty free and quota free articles eligible under the United States General System of Preferences and the Africa Growth and Opportunities Act or otherwise for purposes of enhancing economic development opportunities and job opportunities within the City of Prichard and Mobile County. The governing body of the City of Prichard shall specify that the value of land and improvements within the tax district, except for property within the tax district that is centrally assessed by the Alabama Department of Revenue, shall be assessed for ad valorem tax purposes by the appropriate county tax officials according to a single site valuation system where land and improvements on the land are valued together rather than separately and taxed at a uniform rate. The proceeds of any revenue collected pursuant to this amendment shall be used by the special tax district for infrastructure creation, improvements, or redesign.
+
+(b) The Legislature may provide by local law for the implementation and administration of the special tax district authorized by this amendment and may further provide for the abolition of the tax district upon the adoption of a resolution by a majority vote of the city governing body calling for the tax district to be abolished.
+
+(c) In addition to the foregoing, any nonprofit organization located within Mobile County may enter into contracts with any individual or corporation for operational purposes.
+
+## Amendment 798
+**Health care benefits for retired state and education employees.**
+
+All of the assets, proceeds, and income of the Alabama Retired State Employees' Health Care Trust and the Alabama Retired Education Employees' Health Care Trust, or any successor or assignee of the trust, and all contributions and payments made to the trustees of the trusts, shall be held, invested as authorized by law, and disbursed for the exclusive purposes of providing for administrative expenses of the respective trust and health care benefits under the management of the trustees of the respective trust in accordance with the terms of its trust agreement. None of the assets, proceeds, income, contributions, or payments shall be used, loaned, encumbered, or diverted to or for any other purpose whatsoever, except, that (a) a trust may be terminated, if the State has no obligation to provide post-employment health care benefits for which the trust was established to such persons, and, in that event, the remaining assets of the trust shall revert to the State Treasury to and for the credit of the State Employees' Insurance Board, the Public Education Employees' Health Insurance Board, or its successor or assign, as the case may be, related to the terminated trust or (b) if in response to a petition of the trustees of a trust requesting that the respective trust agreement be amended, a court of competent jurisdiction determines that the amendment proposed by the trustees is necessary or otherwise advisable to accomplish one or more purposes of the act authorizing and directing the creation of the trusts.
+
+## Amendment 799
+**Traffic Laws - Enforcement.**
+
+In Shelby County, the Legislature, by local law, may provide for the enforcement of traffic laws on private roads in private gated communities and platted subdivisions with 35 or more existing houses whose roads are not public in the county.
