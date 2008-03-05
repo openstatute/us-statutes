@@ -10771,3 +10771,27 @@ All of the assets, proceeds, and income of the Alabama Retired State Employees' 
 **Traffic Laws - Enforcement.**
 
 In Shelby County, the Legislature, by local law, may provide for the enforcement of traffic laws on private roads in private gated communities and platted subdivisions with 35 or more existing houses whose roads are not public in the county.
+
+## Amendment 800
+**Pike County Court Costs.**
+
+The Legislature, by general or local law, may fix, regulate, and alter the costs and charges of courts in Pike County and provide for their distribution. Any local law authorizing the levy of additional court costs in Pike County enacted prior to the effective date of this amendment is ratified and confirmed.
+
+## Amendment 801
+**Board of Education.**
+
+Section I. The Macon County Board of Education shall be composed of five members. Four of the members shall be elected by the respective qualified electors of four separate single-member districts, which shall be the same as the districts established for the election of the members of the Macon County Commission. One of the members shall be elected at large by the qualified electors of the county.
+
+Section II. Members of the board shall be elected to serve six-year terms of office. Members holding office at the time of the ratification of this amendment shall continue in office and exercise the duties thereof until their respective terms expire. Upon the expiration of those terms, members shall be elected for six-year terms by election district and place number as follows:
+
+(1) One of the two memberships expiring in 2012 shall be designated as Place 1. The member elected to serve in Place 1 shall be elected from the same election district as is provided for Place 1 on the Macon County Commission.
+
+(2) One of the two memberships expiring in 2012 shall be designated as Place 5. The member elected to serve in Place 5 shall be elected from the county at large.
+
+(3) The membership expiring in 2008 shall be designated as Place 2. The member elected to serve in Place 2 shall be elected from the same election district as is provided for Place 2 on the Macon County Commission.
+
+(4) One of the two memberships expiring in 2010 shall be designated as Place 3. The member elected to serve in Place 3 shall be elected from the same election district as is provided for Place 3 on the Macon County Commission.
+
+(5) One of the two memberships expiring in 2010 shall be designated as Place 4. The member elected to serve in Place 4 shall be elected from the same election district as is provided for Place 4 on the Macon County Commission.
+
+Section III. The Macon County Commission shall take necessary steps to ensure this amendment complies with the Federal Voting Rights Act of 1965, as amended, before any election is conducted pursuant to this amendment.
