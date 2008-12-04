@@ -10810,3 +10810,218 @@ Amendment 782.
 (b) The senior property tax appraisal provided for herein shall freeze the assessed value of the property for the year prior to claiming the senior property tax appraisal. The recipient of the senior property tax appraisal shall be subject to any applicable homestead exemption and millage rate changes. Any addition to the property after claiming the senior property tax appraisal shall not be eligible for the senior property tax appraisal.
 
 (c) The Alabama Department of Revenue shall promulgate the rules as are necessary for the implementation and administration of the provisions of this amendment.
+
+## Amendment 803
+**Repeal of Amendment 709.**
+
+Section I. Amendment 709 to the Constitution of Alabama of 1901, now appearing as Section 260.01 of the Official Recompilation of the Constitution of Alabama of 1901, as amended, is hereby repealed.
+
+Section II. As used in this amendment, the following words and phrases shall have the following respective meanings:
+
+"Alabama Trust Fund" means the irrevocable, permanent trust fund created by Amendment No. 450 to the Constitution of Alabama of 1901, now appearing as Section 219.02 of the Official Recompilation of the Constitution of Alabama of 1901, as amended.
+
+"Education Trust Fund Rainy Day Account" or "General Fund Rainy Day Account" means the special accounts created by this amendment.
+
+"Oil and Gas Capital Payment" means any payment (including any royalty payment) received by the state or any agency or instrumentality thereof as all or part of the consideration for the sale, leasing, or other disposition by the state or any agency or instrumentality thereof of any right to explore and drill for or to produce oil, gas, or other hydrocarbon minerals in any area on the water side of the high water mark of Mobile Bay or in any other offshore area and shall include any revenue by the state from federal oil and gas leases off the coast of Alabama. Any royalty or other payment, with the exception of any taxes heretofore or hereafter levied, that is based upon or determined with respect to the production of oil, gas or other hydrocarbon minerals and that is paid to the state or any agency or instrumentality thereof, regardless of the time of such payment, shall be considered an oil and gas capital payment.
+
+Section III. (a) Within thirty days following ratification of this constitutional amendment there shall be created within the Alabama Trust Fund the Education Trust Fund Rainy Day Account and the General Fund Rainy Day Account. In any year in which the Governor certifies to the state comptroller and notifies the Legislature that proration would occur in appropriations from the Education Trust Fund or the State General Fund, the Education Trust Fund Rainy Day Account or the General Fund Rainy Day Account shall be credited with Oil and Gas Capital Payments previously transferred into the Alabama Trust Fund in the amount required to fund withdrawals from the Account of the amounts authorized by this section. However, the amount withdrawn from the Education Trust Fund Rainy Day Account in a fiscal year may not exceed six and one-half percent of the previous fiscal year's Education Trust Fund appropriations less the total amount of any prior years' withdrawals from the Account which have not been repaid to the Account, as provided for in subsections (b), (c), and (e). The amount withdrawn from the General Fund Rainy Day Account in a fiscal year may not exceed ten percent of the previous fiscal year's General Fund appropriations less the total amount of any prior years' withdrawals from the Account which have not been repaid to the Account, as provided for in subsections (b), (c), and (e). Funds from the Education Trust Fund or the General Fund Rainy Day Account may be withdrawn only to prevent proration of the appropriations from the Education Trust Fund or the General Fund. For the fiscal year beginning October 1, 2008, withdrawals shall be limited to an amount necessary to reach the highest estimated available revenue for each Fund as certified by the Finance Director and the Legislative Fiscal Officer prior to the end of the 2008 Regular Legislative Session. Beginning in the fiscal year beginning October 1, 2009, withdrawals from the Education Trust Fund Rainy Day Account and the General Fund Rainy Day Account shall be limited to an amount necessary to reach the average of the estimated available revenue for each Fund which is to be certified by the Finance Director and the Legislative Fiscal Officer prior to the third legislative day of each Regular Session. The Governor shall certify to the state comptroller and notify the Legislature that proration would occur in appropriations from the Education Trust Fund or the General Fund in accordance with this constitution. Upon the certification by the Governor, and after all other sources available to be used to offset proration have been utilized, withdrawals from the Education Trust Fund Rainy Day Account or the General Fund Rainy Day Account may be made; however, withdrawals shall be limited to the amount of the anticipated proration and funds allotted only to the extent necessary to avoid proration of appropriations from the Education Trust Fund or the General Fund as limited by this section. In the event funds are withdrawn from the Education Trust Fund or the General Fund Rainy Day Account an additional amount equal to twenty-five percent of the Education Trust Fund or the General Fund transfer amount shall be transferred from the Alabama Trust Fund to the County and Municipal Government Capital Improvement Fund.
+
+(b) The Finance Director shall ensure that if during the fiscal year, receipts to the Education Trust Fund or the General Fund (net of the Education Trust Fund or the General Fund Rainy Day Account payments) are sufficient to reduce anticipated proration which has been certified by the Governor to the state comptroller and for which funds have been withdrawn, then the amount corresponding to the reduced anticipated proration percentage shall be transferred back to the Education Trust Fund or the General Fund Rainy Day Account within the Alabama Trust Fund within thirty days after the end of the fiscal year in which the withdrawals were made. Any amount transferred back to the Education Trust Fund or the General Fund Rainy Day Account shall necessitate a transfer of an additional amount equal to twenty-five percent of that amount from the County and Municipal Government Capital Improvement Fund into the Education Trust Fund or the General Fund Rainy Day Account within the Alabama Trust Fund.
+
+(c) The Legislature may provide by statute for the replenishment of the Education Trust Fund or the General Fund Rainy Day Account within the Alabama Trust Fund from sources other than the Alabama Trust Fund or Oil and Gas Capital Payments. The earnings from the investment of funds due to the replenishment shall be deposited into the State General Fund.
+
+(d) The allocations to the Alabama Capital Improvement Trust Fund and to the County and Municipal Government Capital Improvement Fund as provided in Amendment 666 to the Constitution of Alabama of 1901, now appearing as Section 219.04 of the Official Recompilation of the Constitution of Alabama of 1901, as amended, shall not be diminished by the application of this amendment.
+
+(e) The Legislature must replenish the accounts within six (6) years after withdrawal of any funds from the Education Trust Fund Rainy Day Account and within ten (10) years after withdrawal of any funds from the General Fund Rainy Day Account pursuant to the provisions of this amendment. After the complete replenishment of the Education Trust Fund or the General Fund Rainy Day Account, any excess funds shall be designated to repay any lost interest earnings to the trust established under Amendment 543 to the Constitution of Alabama of 1901, now appearing as Section 219.07 of the Official Recompilation of the Constitution of Alabama of 1901, as amended, due to any withdrawal from the Education Trust Fund or the General Fund Rainy Day Account.
+
+## Amendment 804
+**Shelby County: Judicial Commission.**
+
+The Shelby County Judicial Commission is hereby created for the purpose of nominating to the Governor persons for appointment to a vacancy. The commission shall be composed of five members.  The members of the commission shall be as follows: Two persons who are members of the Alabama State Bar; two persons who are not members of the Alabama State Bar; and the presiding judge of the 18th Judicial Circuit.
+
+All members of the commission shall reside in the territorial jurisdiction of the 18th Judicial Circuit.
+
+The two members of the commission who are required to be members of the Alabama State Bar shall be elected by the members of the bar who are regularly licensed and qualified to practice law in this state. The Executive Committee of the Shelby County Bar Association, or its successor body in such capacity, is authorized and directed to make rules, not inconsistent with this amendment, for the election of the two members of the commission who are required to be members of the Alabama State Bar. The executive committee shall certify in writing to the Judge of Probate of Shelby County the names of the persons elected as members of the commission by the members of the bar and the name of the presiding judge of the circuit court who shall serve on the commission by virtue of his or her position as presiding judge.
+
+The members of the Legislature representing Shelby County shall elect the two members of the commission who are required not to be members of the Alabama State Bar. The members of the Legislature representing Shelby County shall certify in writing to the judge of probate the names of the persons elected by them as members.
+
+The terms of office of all members of the commission shall be six years, except that the terms of office of the two members of the State Bar first elected shall be for one and two years respectively, and of the two members first elected by the members of the Legislature representing Shelby County shall be for three and four years respectively; the length of the terms of office of the members of the commission being indicated by the respective electing bodies. The terms of the initial members of the commission shall begin on January 1, 2009. A vacancy in the office of a member of the commission shall be filled for the unexpired term in the same manner as that member was originally chosen.
+
+The Judge of Probate of Shelby County shall record all certificates of election and shall safely and permanently keep the original certificates. Upon receipt and recordation of each certificate, the judge of probate shall send to the Governor a certified copy of each certificate.
+
+No member of the commission shall be eligible to succeed himself or herself as a member or for nomination to the Governor for appointment as judge of the circuit or district court during the term of office for which the member shall have been selected.
+
+The members of the commission shall not receive any salary or other compensation for their services as members. No member of the commission other than the member who is the presiding judge of the 18th Judicial Circuit shall hold any public office and no member of the commission shall hold any official position in any political party.
+
+If, subsequent to January 1, 2009, a vacancy occurs in the office of judge of the circuit or district court in the 18th Judicial Circuit, the commission shall nominate to the Governor three persons having the qualifications for the office. The nomination shall be made only by the concurrence of a majority of the members of the commission. The Governor shall appoint to the office in which the vacancy exists one of the three persons so nominated for the office. The appointee shall hold office until the next general election for any state officer held at least six months after the vacancy occurs and until his or her successor is elected and qualified; the successor shall hold office for the unexpired term and until his or her successor is elected and qualified.
+
+Any vacancy occurring in the office of judge of the 18th Judicial Circuit, which is required to be filled by appointment on nominations made by the commission, shall be made within 90 days from the date of the submission of the nominations. In the event the Governor fails to fill the vacancy from the nominations within that period, the appointment shall be made by the Chief Justice of the Supreme Court of Alabama.
+
+## Amendment 805
+**Limestone County: Tax - Schools.**
+
+In consideration of the fact that the City of Madison includes property located in both Madison County and Limestone County and that immediately prior to the adoption of this amendment, the number of mills of county-levied ad valorem tax for school or educational purposes in the portion of the city lying in Limestone County was 10.5 mills less than the number of mills of county-levied ad valorem tax for school or educational purposes levied in the portion of the city situated in Madison County, the City of Madison, in addition to the power to levy and collect ad valorem tax each year at the rate authorized immediately prior to the adoption of this amendment, shall have the further power to levy and collect each year, on property located in the part of the city that is situated in Limestone County, such additional ad valorem tax for public school purposes as is necessary to equalize the total rate of all ad valorem tax for public school purposes levied each year on property located in the part of the city that is in Limestone County with the total rate of all ad valorem tax for public school purposes levied on property located in the part of the city that is in Madison County. All additional ad valorem taxation levied under this amendment shall be based on the value of the property as fixed for state taxation. No additional tax shall be levied under this amendment unless a majority of the qualified electors of the City of Madison voting in the election on the adoption on this amendment shall vote for such adoption; provided that if the majority of the qualified electors of the City of Madison voting in said election should not vote in favor of such adoption, or if the majority of the qualified electors of the City of Madison at any election subsequently called under this amendment should not vote in favor of the levy of the additional tax, the governing body of the City of Madison may call other elections on the question of the levy of said tax without further act of the Legislature, but not more than one such election shall be held during any period of twelve consecutive months.
+
+Each election held under the provisions hereof shall be ordered, held, canvassed and may be contested in the same manner as may be provided by law applicable to municipal corporations for elections to authorize the issuance of municipal bonds.
+
+## Amendment 806
+**Blount County: Municipalities - Taxation.**
+
+Any municipality that is not located wholly or in part within the boundaries of Blount County on the effective date of this amendment may not annex any territory within Blount County without the approval of a majority vote of the qualified electors of Blount County voting at a referendum election on the issue of the annexation. The provisions of this amendment shall not apply to any municipality incorporated after the ratification of the amendment that lies entirely within the boundaries of Blount County. This amendment does not apply to any territory annexed within Blount County by a municipality prior to the effective date of this amendment.  The Legislature may pass local or general acts to supplement this amendment provided the acts do not contravene this amendment.
+
+## Amendment 807
+**Macon County: Amendment to Amendment 591.**
+
+Two persons shall be elected to the utilities board of the City of Tuskegee. Commencing with the next term of office, the elections shall be held and conducted by the utilities board. The elected members of the utilities board shall be elected to a term of four years, at the same time as regular municipal elections for Macon County, Alabama. A person eligible to vote in the election shall be a registered voter in Macon County who receives services from the utilities board. "Receives services" means that the person is a resident of a building that receives electricity, sewage, or water services, or any combination thereof, from the utilities board. When a vacancy occurs in either of the two elected positions, the board shall fill the vacancy for the unexpired term of office. The members of the utilities board of the City of Tuskegee shall set the compensation of the directors.
+
+## Amendment 808
+**Baldwin County: Tax - Equalization, Board Modified.**
+
+(a) The State Revenue Commissioner, shall appoint not more than six additional persons to membership on the Baldwin County Board of Equalization. The State Revenue Commissioner shall make the appointments from a group of nominees submitted by the Baldwin County Commission, the Baldwin County Board of Education, and the governing body of the largest municipality located in Baldwin County. Each appointing authority shall submit a list of three names and the appointments shall be made within 30 days after receipt of the appropriate list. The initial appointments shall consist of three persons unless additional appointments are requested by the existing county board of equalization. The additional members shall closely reflect the racial, ethnic, gender, geographic, and age diversity of the county.
+
+(b) The provisions of the general law and local law relating to the selection, qualifications, term of service, schedule of compensation, and oath of the initial members of the board, including the prohibition relating to members holding other governmental positions, shall be applicable to the additional members appointed pursuant to this amendment.
+
+(c) The additional members shall be appointed and serve for the limited purpose of hearing objections to any assessments or valuations fixed by the county revenue commissioner or other authorized taxing official.
+
+(d)(1) During the term of office of the additional members, the board shall sit in two or more panels consisting of up to three members for the purpose of conducting hearings and making determinations concerning objections to any assessments or valuations fixed by the county revenue commissioner or other authorized taxing official.
+
+(2) Each panel shall consist of at least one member who has served on the board for a period in which appeal hearings were held.
+
+(e) When the board sits in panels of three members, each panel shall act in the same manner and under the same authority as the full board. All authority, duties, powers, and responsibilities of the board on any matter brought before the panel for hearing shall be exercised by the panel as though heard and decided by the full board. Decisions of each panel shall constitute a decision of the board. All procedures of the board relating to the conduct of hearings shall apply to hearings before either panel of the board.
+
+(f) This amendment does not affect in any way the authority of the original board members to carry out all administrative, supervisory, and personnel duties existing on October 1, 2008.
+
+## Amendment 809
+**Baldwin County: Implementation of Ordinances Governing County Owned Property.**
+
+In Baldwin County, the county commission may by resolution adopt ordinances related to the use and control of county owned public buildings, public parks, boat launches, and historic sites. The ordinances shall be adopted in the same manner and under the same conditions as municipalities in this state may adopt ordinances pursuant to general law except the penalties may not exceed the penalties authorized for a Class C misdemeanor pursuant to general law.
+
+## Amendment 810
+**Baldwin County: Amendment to Amendment 781.**
+
+(a) This amendment shall apply only in Baldwin County.
+
+(b) For the purpose of this amendment, the following terms have the following meanings:
+
+(1) WASTEWATER SYSTEM. A system of pipes, lines, meters, pumps, equipment and facilities, all or part of which are located in the unincorporated areas of Baldwin County and which are owned or operated by a wastewater utility, as defined herein, for the collection, treatment, and disposal of wastewater from homes, schools, businesses, and other entities in which solids, sewerage, nonhydrocarbon greases, and oils are collected for treatment or where wastewater is collected for disposal. Individual septic tank systems and all portable toilets are expressly excluded from the definition of the term wastewater system.
+
+(2) WASTEWATER UTILITY. The owner or operating entity of a wastewater system, whether privately owned or publicly owned, including privately owned wastewater systems, municipally owned wastewater systems, and wastewater systems owned by or through boards or other entities established by municipal corporations or as otherwise provided by state law.
+
+(3) WASTEWATER. Solids, sewerage, nonhydrocarbon greases, and oils.
+
+(c) The Legislature may by general or local law provide for the regulation of wastewater utilities, whether privately owned or publicly owned, in the unincorporated area of the county. The regulation may include uniform minimum standards for the design, placement, construction, operation, and maintenance of wastewater systems and the regulation of the establishment of reasonable and just rates for consumers and the wastewater utilities. In the case of uniform minimum standards established within any extraterritorial jurisdiction of a municipality, the standards established pursuant to the authority granted in this amendment shall apply. Any minimum standard adopted pursuant to this amendment shall not apply to any part of a wastewater system installed or permitted prior to the effective date of the standard unless it is determined necessary for the protection of the public health and welfare and the environment of Baldwin County. All laws, rules, regulations, construction standards, and specifications regulating wastewater systems and wastewater utilities shall be non-discriminatory and apply equally to all wastewater systems and wastewater utilities operating or located within the unincorporated areas of the county.
+
+(d) The Legislature may authorize the levy of taxes or fees in an amount not to exceed five percent of the gross receipts from the connection, collection, and treatment revenues collected from customers of wastewater utilities in the unincorporated area of the county to be used for the purposes of the administration of regulation adopted pursuant to this amendment.
+
+(e) The Legislature may provide for the mandatory connection to wastewater systems where service is reasonably available and where it is in the best interest for the protection of the public health and welfare and the environment of Baldwin County.
+
+(f) The Legislature by general or local law may authorize the exercise of the power of eminent domain for the construction of wastewater utilities in the county.
+
+(g) The Legislature may, by general or local law, provide for the implementation and administration of the provisions of this amendment.
+
+## Amendment 811
+**Coffee County: Amendment to Amendment 633.**
+
+An elected or appointed Coffee County official, including the sheriff, may not assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every elected or appointed Coffee County official, including the sheriff, may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Coffee County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office; provided, however, the official shall forego the assumption of a supernumerary office and must make the election within one year of the effective date of this amendment.
+
+For the purposes of this amendment, the words "elected or appointed county official" shall include any person appointed to serve the remaining term of an elected or appointed county official, but shall not include a legislator.
+
+## Amendment 812
+**Conecuh County: Tax - Ad Valorem.**
+
+(a) In addition to the one-half mill of ad valorem tax levied by Amendment 778 of the Constitution of Alabama of 1901, the Conecuh County Commission shall continue to levy on an annual basis, commencing with the tax year for which taxes will become due and payable on October 1, 2009, an ad valorem tax on all taxable property located in Conecuh County at a rate of nine and one-half mills per dollar of assessed value of the taxable property. This tax is part of the 10 mills of ad valorem tax that Amendment 778 of the Constitution of Alabama of 1901 requires every local school system to collect and is not a levy of additional tax. The proceeds of the tax levied in this amendment shall be used for public school purposes in the county.
+
+(b) The tax provided in this amendment shall be levied and collected for a period of twenty years.
+
+(c) Commencing with the tax year for which taxes will become due and payable on October 1, 2009, all ad valorem taxes previously levied for public school purposes in Conecuh County shall be repealed except the one-half mill levied by Amendment 778 of the Constitution.
+
+## Amendment 813
+**DeKalb County: Tax - Occupational, Vocation; Prohibited.**
+
+No privilege or license tax on the gross receipts of any natural person derived from the conduct of a vocation, occupation, calling, or profession may be levied in DeKalb County.
+
+## Amendment 814
+**DeKalb County: Health - Methadone Clinic.**
+
+Notwithstanding any approval by the state Certificate of Need Board, no methadone clinic may be located in DeKalb County without prior approval of the electors in a referendum on the matter. The ballot for the referendum shall state the physical address where the proposed clinic will be located. Notwithstanding any prior approval by the state Certificate of Need Board, any methadone clinic in existence in DeKalb County on the effective date of this amendment may not continue to operate without approval by the electors in a referendum to be held within 12 months of the effective date of this amendment. The ballot for the referendum shall state the physical address where the methadone clinic is operating.
+
+## Amendment 815
+**Geneva County: Court Costs.**
+
+In addition to any court costs or fees now or hereafter authorized, and notwithstanding any other provisions of the Constitution, including without limitation Sections 96, 104, and 105, there shall be an additional thirty-five dollars ($35) fee assessed and taxed as costs on each civil and criminal case, excluding small claims, filed in circuit court or district court in Geneva County, as well as a document service fee of twenty dollars ($20) for the service of all pleadings and other documents in connection with any such action or case. The fees may not be waived by any court unless all other fees, assessments, costs, fines, and charges associated with the cases are waived. The additional fees, when collected by the clerks or other collection officers of the courts, shall be paid into the General Fund of Geneva County. The additional thirty-five dollar ($35) fee taxed as costs on each case shall be used for the planning, design, construction, financing, furnishing, and equipping of the new county jail and for the operation of the existing county jail. When the costs of the new county jail have been fully paid and when the debt service on any indebtedness incurred by the county commission to finance or refinance the costs have been retired, the additional court costs authorized by this amendment shall continue to be collected in all cases and shall be used to pay costs of the operation, upkeep, and maintenance of a new county jail. The document service fee shall be used for the operation of the Geneva County Sheriff's Office. This amendment shall be self-executing and shall require no enabling legislation.
+
+## Amendment 816
+**Henry County: Court Costs - Legislative Authority.**
+
+The Legislature, by general or local law, may fix, alter, and regulate the costs and charges of courts in Henry County and provide for their distribution.
+
+## Amendment 817
+**Jackson County: Tax - Occupational, Vocation; Prohibited.**
+
+No privilege or license tax on the gross receipts of any natural person derived from the conduct of a vocation, occupation, calling, or profession may be levied in Jackson County.
+
+## Amendment 818
+**Jefferson County: Sewer Service.**
+
+In Jefferson County, notwithstanding any other provision of this constitution, any bill for sewer service received in the name of the tenant or tenants shall be the sole responsibility of the tenant or tenants and shall not constitute a lien on the property where the sewer service was received. This amendment shall not be interpreted to impair the obligation of any contract entered into before the effective date of the amendment.
+
+## Amendment 819
+**Lauderdale County: Judicial Commission**
+
+All vacancies in the office of judge of the circuit court and the office of judge of the district court holding in Lauderdale County shall be filled in the manner and for the time as herein provided.
+
+The Lauderdale County Judicial Commission is created for the purpose of nominating to the Governor persons for appointment to a vacancy. The commission shall be composed of five members, two of whom shall be appointed by the members of the bar residing in the county, two shall be appointed by the members of the county commission, and one, who shall be the chair, shall be appointed by the Chief Justice or the Acting Chief Justice of the Alabama Supreme Court.
+
+All members of the commission shall reside in the territorial jurisdiction of the circuit court holding in Lauderdale County.
+
+The Lauderdale County Bar Association, the Lauderdale County Commission, and the Chief Justice or Acting Chief Justice of the Alabama Supreme Court shall each certify in writing to the Judge of Probate of Lauderdale County the names of the persons selected as members of the commission.
+
+The terms of office of all members of the commission shall be six years. In the event that an initial appointment or vacancy of a member of the commission is not filled in 30 days, the appointment or vacancy shall be filled by the Chief Justice or Acting Chief Justice of the Alabama Supreme Court within 10 days. A vacancy in the office of a member of the commission shall be filled for the unexpired term in the same manner as the member was originally chosen.
+
+The Judge of Probate of Lauderdale County shall record all certificates of election and shall safely and permanently keep the original certificates. Forthwith upon his or her receipt and recordation of every certificate, the judge of probate shall send to the Governor a certified copy of every certificate.
+
+No member of the commission shall be eligible for nomination to the Governor for appointment as judge of the circuit court or the district court during the term of office of the commission member.
+
+The members of the commission shall not receive any salary or other compensation for their services as members. No member of the commission shall hold any public office, and no member of the commission shall hold any official position in any political party.
+
+If a vacancy occurs in the office of judge of the circuit court or the office of judge of the district court holding in Lauderdale County, the commission shall nominate within 30 days to the Governor three persons having the qualifications for the office. If the commission fails to nominate three names during the 30-day period, the names shall be selected by the Chief Justice or Acting Chief Justice of the Alabama Supreme Court within 10 days. The names of all persons considered for nomination shall be available for review by the public and shall be deemed a public record. The Governor shall appoint to the office in which the vacancy exists one of the three persons so nominated for the office. If the Governor fails to make an appointment from the list within 30 days from the date it is presented to the Governor, the appointment shall be made by the Chief Justice or the Acting Chief Justice of the Alabama Supreme Court from the same list. The appointee shall hold the office until the next general election for any state officer held at least six months after the vacancy occurs and until a successor is elected and qualified. At the general election, the judicial office shall be filled for a full term of office to commence on the first Monday after the second Tuesday in January following the general election.
+
+## Amendment 820
+**Lee County: Court Costs - Legislative Authority.**
+
+The Legislature, by general or local law, may fix, regulate, and alter the costs and charges of courts in Lee County and provide for their distribution. Any local law authorizing the levy of additional court costs in Lee County enacted prior to the effective date of this amendment is ratified and confirmed.
+
+## Amendment 821
+**Marshall County: Retirement.**
+
+No elected or appointed Marshall County official, including the sheriff, may assume a supernumerary office after the effective date of this amendment, except elected officials who are currently holding office on such date. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every elected or appointed Marshall County official, including the sheriff, may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Marshall County officials, including the sheriff, holding office at the time of ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office. No person may participate in both a supernumerary program and the Employees' Retirement System based on the same service. For purposes of this amendment, the words "elected or appointed Marshall County official" do not include a judge, district attorney, legislator, constable, school board member, or any official elected from a judicial circuit. The effective date or ratification date of this amendment is the date this amendment is officially proclaimed ratified in the proclamation register.
+
+## Amendment 822
+**Mobile County: Animals - Control of Dangerous Dogs.**
+
+The Legislature, by local law applicable to those areas of Mobile County outside the corporate limits of any municipality, may establish a procedure by which a dog can be declared dangerous and be humanely destroyed and impose criminal penalties on the owners of a dog declared to be dangerous.
+
+## Amendment 823
+**Pickens County: Court Costs - Legislative Authority.**
+
+The Legislature, by general or local law, may fix, regulate, and alter the costs and charges of courts in Pickens County and provide for their distribution.
+
+## Amendment 824
+**Russell County: Phenix City - Utilities.**
+
+In Russell County, the City of Phenix City may not sell or transfer any water and sewer system or any part of a water and sewer system owned or operated by or on behalf of the city unless the sale or transfer is approved by a majority of the qualified electors of the City of Phenix City in Russell County voting at a referendum election on the approval of the sale or transfer. The referendum election shall be held at the next regularly scheduled citywide election held in Phenix City at least 60 days after the city council or other governing body has adopted any ordinance or resolution providing for any sale or transfer covered by this amendment and the terms and conditions thereof.
+
+## Amendment 825
+**Shelby County: Tax - Equalization, Board Reorganized.**
+
+In Shelby County, notwithstanding any other provision of law, the Legislature by local law may provide for the reorganization of the county board of equalization and provide for the name of the board; provide for the appointment, term, and compensation of board members; and provide for the powers, duties, operation, and funding of the board.
+
+## Amendment 826
+**St. Clair County: Retirement.**
+
+No elected or appointed St. Clair County official, including the sheriff, may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every elected or appointed St. Clair County official, including the sheriff, may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. St. Clair County officials, including the sheriff, holding office at the time of ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office. No person may participate in both a supernumerary program and the Employees' Retirement System based on the same service. For purposes of this amendment, the words "elected or appointed St. Clair County official" do not include a judge, district attorney, legislator, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 827
+**Tallapoosa County: Traffic Laws - Enforcement.**
+
+In Tallapoosa County, the Legislature, by local law, may provide for the enforcement of motor vehicle and traffic laws on private roads in private gated communities in the county.
