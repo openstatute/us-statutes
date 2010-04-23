@@ -11025,3 +11025,10 @@ No elected or appointed St. Clair County official, including the sheriff, may as
 **Tallapoosa County: Traffic Laws - Enforcement.**
 
 In Tallapoosa County, the Legislature, by local law, may provide for the enforcement of motor vehicle and traffic laws on private roads in private gated communities in the county.
+
+## Amendment 828
+**Baldwin County Revnue Commissioner term of office.**
+
+Beginning with the second election cycle for the election of the Baldwin County Revenue Commissioner following the adoption of this amendment, and including the person serving as revenue commissioner on the date of the adoption of this amendment, the person elected revenue commissioner, and all successors thereafter, shall serve a term of office of six years, beginning on the first Tuesday in February following the election date.
+
+The person elected at the first election cycle for the election of the Baldwin County Revenue Commissioner following the adoption of this amendment shall serve a term of office that is adjusted to approximately five years to allow the person holding office on the date of the adoption of this amendment to serve a full six-year term.
