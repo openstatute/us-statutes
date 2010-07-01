@@ -11032,3 +11032,50 @@ In Tallapoosa County, the Legislature, by local law, may provide for the enforce
 Beginning with the second election cycle for the election of the Baldwin County Revenue Commissioner following the adoption of this amendment, and including the person serving as revenue commissioner on the date of the adoption of this amendment, the person elected revenue commissioner, and all successors thereafter, shall serve a term of office of six years, beginning on the first Tuesday in February following the election date.
 
 The person elected at the first election cycle for the election of the Baldwin County Revenue Commissioner following the adoption of this amendment shall serve a term of office that is adjusted to approximately five years to allow the person holding office on the date of the adoption of this amendment to serve a full six-year term.
+
+## Amendment 829
+**Franklin County: Solid Waste - Biosolids.**
+
+In Franklin County, biosolids derived from treated human sewage sludge may not be applied on land as a fertilizer or soil amendment.
+
+## Amendment 830
+**Lawrence County: Solid Waste - Biosolids.**
+
+In Lawrence County, biosolids derived from treated human sewage sludge may not be applied on land as a fertilizer or soil amendment.
+
+## Amendment 831
+**Colbert County: Solid Waste - Biosolids.**
+
+In Colbert County, biosolids derived from treated human sewage sludge may not be applied on land as a fertilizer or soil amendment, except for sewage biosolids produced by a publicly owned utility in Colbert County.
+
+## Amendment 832
+**Lawrence County: Solid Waste - Use of Funds.**
+
+Notwithstanding any other provision of law to the contrary, the Lawrence County Commission may use a portion of any funds or revenues from the operation and use of any landfill in the county, including, but not limited to, funds in or credited to its reserve account on the effective date of this amendment, for general county purposes, provided the county commission makes a determination that the funds are not needed for the operation and implementation of its solid waste disposal program.
+
+## Amendment 833
+**Lamar County Court Costs - Drug Enforcement Fee.**
+
+Section 1. In all juvenile, traffic, criminal, and quasi-criminal cases in the juvenile, district, circuit, and municipal courts in Lamar County, a docket fee, hereinafter referred to as a drug enforcement fee, shall be assessed in each case. The drug enforcement fee shall be in an amount equal to ten dollars ($10) in each non-drug case; sixty dollars ($60) in each misdemeanor drug case; and eighty-five dollars ($85) in each felony drug case. The drug enforcement fee, when collected, shall be distributed monthly as follows: Three dollars ($3) of the fees assessed in each case shall be retained by the clerk of the court as an administrative fee and the remainder to the Drug Enforcement Fund established by the district attorney in the county or to the fund that may hereafter be prescribed by law for the drug enforcement fee.
+
+Section 2. The drug enforcement fee shall be collected as prescribed hereinabove in all cases where the defendant is adjudged guilty, a bond forfeited, a penalty imposed, or where there is issued any alias or capias warrant of arrest, or in any other case where court costs are assessed, whether a defendant is adjudged guilty or not. The drug enforcement fee shall be in addition to and not in lieu of any other fees or costs, and shall not be waived or remitted unless all other costs and charges of court are waived.
+
+Section 3. The district attorney for the Twenty-fourth Judicial Circuit shall establish a separate fund to be called the Lamar County Drug Enforcement Fund. All sums deposited into the fund pursuant to this amendment may be expended by the district attorney for the support of the drug task force that serves the Twenty-Fourth Judicial Circuit, including, but not limited to, the payment of any and all expenses incurred by the drug task force, and the payment of any matching monies required under the terms of any grant that may be awarded by any governmental or other entity for the support of the drug task force, the payment or supplementing of salaries for personnel of the drug task force, or for any other law enforcement purpose.
+
+Section 4. The Legislature, by general or local law, may fix, regulate, and alter the costs and charges of courts in Lamar County and provide for their distribution. Any local law authorizing the levy of additional court costs in Lamar County enacted prior to the effective date of this amendment is ratified and confirmed.
+
+## Amendment 834
+**Marengo County: Court Costs**
+
+The Legislature, by general or local law, may fix, regulate, and alter the costs and charges of courts in Marengo County and provide for their distribution. Any local law authorizing the levy of additional court costs in Marengo county enacted prior to the effective date of this amendment is ratified and confirmed.
+
+## Amendment 835
+**Fayette County Court Costs - Drug Enforcement Fee.**
+
+Section 1. In all juvenile, traffic, criminal, and quasi-criminal cases in the juvenile, district, circuit, and municipal courts in Fayette County, a docket fee, hereinafter referred to as a drug enforcement fee, shall be assessed in each case. The drug enforcement fee shall be in an amount equal to ten dollars ($10) in each non-drug case; sixty dollars ($60) in each misdemeanor drug case; and eighty-five dollars ($85) in each felony drug case. The drug enforcement fee, when collected, shall be distributed monthly as follows: Three dollars ($3) of the fees assessed in each case shall be retained by the clerk of the court as an administrative fee and the remainder to the Drug Enforcement Fund established by the district attorney in the county or to the fund that may hereafter be prescribed by law for the drug enforcement fee.
+
+Section 2. The drug enforcement fee shall be collected as prescribed hereinabove in all cases where the defendant is adjudged guilty, a bond forfeited, a penalty imposed, or where there is issued any alias or capias warrant of arrest, or in any other case where court costs are assessed, whether a defendant is adjudged guilty or not. The drug enforcement fee shall be in addition to and not in lieu of any other fees or costs, and shall not be waived or remitted unless all other costs and charges of court are waived.
+
+Section 3. The district attorney for the Twenty-fourth Judicial Circuit shall establish a separate fund to be called the Fayette County Drug Enforcement Fund. All sums deposited into the fund pursuant to this amendment may be expended by the district attorney for the support of the drug task force that serves the Twenty-Fourth Judicial Circuit, including, but not limited to, the payment of any and all expenses incurred by the drug task force, and the payment of any matching monies required under the terms of any grant that may be awarded by any governmental or other entity for the support of the drug task force, the payment or supplementing of salaries for personnel of the drug task force, or for any other law enforcement purpose.
+
+Section 4. The Legislature, by general or local law, may fix, regulate, and alter the costs and charges of courts in Fayette County and provide for their distribution. Any local law authorizing the levy of additional court costs in Fayette County enacted prior to the effective date of this amendment is ratified and confirmed.
