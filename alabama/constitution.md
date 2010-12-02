@@ -11079,3 +11079,122 @@ Section 2. The drug enforcement fee shall be collected as prescribed hereinabove
 Section 3. The district attorney for the Twenty-fourth Judicial Circuit shall establish a separate fund to be called the Fayette County Drug Enforcement Fund. All sums deposited into the fund pursuant to this amendment may be expended by the district attorney for the support of the drug task force that serves the Twenty-Fourth Judicial Circuit, including, but not limited to, the payment of any and all expenses incurred by the drug task force, and the payment of any matching monies required under the terms of any grant that may be awarded by any governmental or other entity for the support of the drug task force, the payment or supplementing of salaries for personnel of the drug task force, or for any other law enforcement purpose.
 
 Section 4. The Legislature, by general or local law, may fix, regulate, and alter the costs and charges of courts in Fayette County and provide for their distribution. Any local law authorizing the levy of additional court costs in Fayette County enacted prior to the effective date of this amendment is ratified and confirmed.
+
+## Amendment 836
+**Pickens County: Judge of Probate**
+
+The Judge of Probate of Pickens County may exercise equity jurisdiction concurrent with that of the circuit court in cases originally filed in the Probate Court of Pickens County if the judge of probate is licensed to practice law in the State of Alabama. In any case subject to this amendment, the judge of probate shall possess the power and authority of a circuit court judge trying the case and the case shall be treated in all respects in the same manner as a case filed in circuit court. The Alabama Rules of Civil Procedure shall apply in the cases except as otherwise specifically provided by law. This amendment is self-executing, but the Legislature may enact additional laws to implement this amendment.
+
+## Amendment 837
+**Shelby County: Solid Waste - Use of Funds.**
+
+Notwithstanding any other provision of law to the contrary, the Shelby County Commission may use a portion of any funds or revenues from the operation and use of any sanitary landfill operated by the county, including, but not limited to, funds in or credited to its reserve account on the effective date of this amendment, for the provision of potable water and water service in the county and for capital improvement projects deemed advisable by the county commission, provided the county commission makes a determination that the funds are not needed for the operation and implementation of its solid waste disposal program.
+
+## Amendment 838
+**DeKalb County, City of Fort Payne - Work Release for City Prisoners.**
+
+Notwithstanding any other provision of law, the City of Ft. Payne in DeKalb County may use prisoners confined in the city jail to perform work on public and private property and the city shall be subject to liability for any actions related to the use of the prisoners in the same manner and to the same extent as when county prisoners confined in the county jail are used to work on public or private property.
+
+## Amendment 839
+**Macon County: Court Costs - Legislative Authority.**
+
+The Legislature, by general or local law, may fix, regulate, and alter the costs and charges of courts in Macon County and provide for their distribution. Any local law authorizing the levy of additional court costs in Macon County enacted prior to the effective date of this amendment is ratified and confirmed.
+
+## Amendment 840
+**Jefferson County: Tax - Homestead Exemption.**
+
+A person residing in Jefferson County and claiming a homestead exemption in the county under the laws of this state may continue to claim the exemption for three years after he or she is admitted to a nursing home or assisted living facility if the person continues to own the property while he or she resides in the home or the facility. The three-year-extension in the homestead exemption shall be allowed only if the property continues to be used for residential purposes and the property is not converted to commercial or any other purpose. The person shall only be required to verify by signature, on a form provided by the county tax assessor, that the qualifying conditions continue to exist, and to return the form by mail.
+
+## Amendment 841
+**Madison County: Tax -  Occupational, Vocation; Prohibited.**
+
+(a) No privilege or license tax on the gross receipts of any natural person derived from the conduct of a vocation, occupation, calling, or profession may be levied in Madison County.
+
+(b) Nothing in this amendment is intended to repeal or affect the current authority granted by local act to Madison County to impose business licenses or the current authority granted to municipalities to impose municipal business licenses, including those imposed pursuant to Sections 11-51-90, 11-51-91, 11-51-92, and 11-51-93, Code of Alabama 1975.
+
+## Amendment 842
+**Morgan County: Tax -  Occupational, Vocation; Prohibited.**
+
+(a) No privilege or license tax on the gross receipts of any natural person derived from the conduct of a vocation, occupation, calling, or profession may be levied in Morgan County.
+
+(b) Nothing in this amendment is intended to repeal or affect the current authority granted by local act to Morgan County to impose business licenses or the current authority granted to municipalities to impose municipal business licenses, including those imposed pursuant to Sections 11-51-90, 11-51-91, 11-51-92, and 11-51-93, Code of Alabama 1975.
+
+## Amendment 843
+**Limestone County: Tax -  Occupational, Vocation; Prohibited.**
+
+No privilege or license tax on the gross receipts of any natural person derived from the conduct of a vocation, occupation, calling, or profession may be levied in Limestone County.
+
+Nothing in this amendment is intended to repeal or affect the current authority granted by local act to Limestone County to impose business licenses or the current authority granted to municipalities to impose municipal business licenses, including those imposed pursuant to Sections 11-51-90, 11-51-91, 11-51-92, and 11-51-93, Code of Alabama 1975.
+
+## Amendment 844
+**Lawrence County: Tax -  Occupational, Vocation; Prohibited.**
+
+No privilege or license tax on the gross receipts of any natural person derived from the conduct of a vocation, occupation, calling, or profession may be levied in Lawrence County.
+
+Nothing in this amendment is intended to repeal or affect the current authority granted by local act to Lawrence County to impose business licenses or the current authority granted to municipalities to impose municipal business licenses, including those imposed pursuant to Sections 11-51-90, 11-51-91, 11-51-92, and 11-51-93, Code of Alabama 1975.
+
+## Amendment 845
+**DeKalb County: Elections.**
+
+The county commission shall call a special election within two weeks of a vacancy occurring in a county office in DeKalb County when 12 months or more remain in the unexpired term. The election shall be held within three months after the vacancy occurs.
+
+## Amendment 846
+**Jackson County: Elections.**
+
+The county commission shall call a special election within two weeks of a vacancy occurring in a county office in Jackson County when 12 months or more remain in the unexpired term. The election shall be held within three months after the vacancy occurs.
+
+## Amendment 847
+**Macon County: Amendmment to Amendment 530.**
+
+(a) In addition to any court costs and fees now or hereafter authorized to be collected, the county commission of Macon County is authorized to assess a fee not to exceed $30.00 upon the privilege of filing any initial complaint in all civil and criminal cases filed in any court, in the county, as well as a fee not to exceed $5.00 for the service of all pleadings and other documents in connection with any such action. All such fees shall be paid into the general fund and shall be applied exclusively for payment of the cost of the planning, construction, and equipping of a new county jail, or for the payment of the principal of and interest on any bonds, warrants, or other obligations issued by or on behalf of the county to finance the costs of a new jail, as well as the expenses of issuance of any such bonds, warrants, or other obligations. When the costs of planning, constructing, and equipping a new county jail shall be fully paid or when all such bonds, warrants, or other obligations have been retired, whichever last occurs, the additional fee authorized by this amendment to be collected shall no longer be collected. Provided, however, no additional fee provided herein shall be collected until 30 days after the county commission has signed a contract or contracts for the construction of a new jail and construction has actually begun.
+
+(b) Any court costs and fees collected pursuant to this amendment that were deposited into the Macon County Road and Bridge Fund prior to the financing of the new county jail and were not pledged for the county jail, may be used by the Macon County Commission for roads and bridges.
+
+## Amendment 848
+**Cullman County: Tax -  Occupational, Vocation; Prohibited.**
+
+No privilege or license tax on the gross receipts of any natural person derived from the conduct of a vocation, occupation, calling, or profession may be levied in Cullman County. Nothing in this amendment is intended to repeal or affect the current authority granted by local act to Cullman County to impose business licenses or the current authority granted to municipalities to impose municipal business licenses, including those pursuant to sections 11-51-90, 11-51-91, 11-51-92, and 11-51-93, Code of Alabama 1975.
+
+## Amendment 849
+**Madison County: Animals - Control of Dangerous Dogs.**
+
+The Madison County Commission, by resolution applicable to those areas of Madison County outside the corporate limits of any municipality, may establish a procedure by which a dog can be declared dangerous, may impose civil penalties on the owner of a dog that inflicts severe personal harm on another person, and may require that dangerous dogs, as defined by the commission, be kept in a fenced enclosure, as defined by the commission, with input from the local humane society.
+
+## Amendment 850
+**Randolph County: Economic Development -  Capital Improvement Fund.**
+
+Moneys paid into the Randolph County Capital Improvement Fund pursuant to Amendment 668 of the Constitution of Alabama of 1901, now appearing as Section 219.05 of the Official Recompilation of the Constitution of Alabama of 1901, as amended, may be expended for economic development projects.
+
+## Amendment 851
+**Blount County: Municipalities - Jurisdiction.**
+
+A municipality located entirely outside of Blount County is prohibited from imposing any municipal ordinance or regulation, including, but not limited to, any tax, zoning, planning, or sanitation regulations, and any inspection service in its police jurisdiction located in Blount County. A municipality prohibited from imposing any tax or regulation under this amendment shall not provide any regulatory function or police or fire protection services in its police jurisdiction located in Blount County, other than public safety mutual aid.
+
+## Amendment 852
+**Montgomery County: Retirement.**
+
+No elected or appointed Revenue Commissioner in Montgomery County may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. The Revenue Commissioner of Montgomery County may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. The Montgomery County Revenue Commissioner holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office; provided, however, the official shall forego the assumption of a supernumerary office. This amendment does not include a county commissioner, a judge, district attorney, legislator, school board member, or any official elected from a judicial circuit.
+
+## Amendment 853
+**Chambers County: Tax - Libraries - Levy and Collection.**
+
+(a) As used in this amendment, the following defined terms apply:
+
+(1) CONSTITUTION. The Constitution of Alabama of 1901, as amended, now appearing as the Official Recompilation of the Constitution Alabama of 1901, as amended.
+
+(2) SPECIAL LIBRARY TAX. That certain additional special county ad valorem or property tax which is authorized by the Special Tax Amendments to be levied at the rate of twenty cents ($.20) on each one hundred dollars ($100) of taxable property in Chambers County.
+
+(3) SPECIAL TAX AMENDMENTS. Amendment No. 554 of the Constitution of Alabama of 1901, now appearing as Section 6 of Chambers County Local Amendments, Official Recompilation of the Constitution of Alabama of 1901, which may be referred to as Chambers County Section 6; and Amendment No. 721 to the  Constitution of Alabama of 1901, now appearing as Section 7 of Chambers County Local Amendments, Official Recompilation of the Constitution of Alabama of 1901, which may be referred to as Chambers County Section 7.
+
+(b) Notwithstanding any provision to the contrary in either of the Special Tax Amendments, the governing body of Chambers County shall continue to levy and collect the Special Library Tax in and for each fiscal or tax year of the county until and including the fiscal or tax year beginning on October 1, 2032, and ending on September 30, 2033, and for which county taxes shall become due and payable on October 1, 2033.
+
+(c) Notwithstanding any provision to the contrary in either of the Special Tax Amendments, none of the proceeds of the Special Library Tax may be used or expended, whether directly or indirectly, to pay any costs or expenses incurred, whether by the governing body of Chambers County or by any other person, in connection with the levy and collection of the Special Library Tax or to reimburse the governing body or any other person for any payment, by the governing body or any other person, of any such costs or expenses; and the governing body shall have no power to provide for the payment of any such costs or expenses out of the proceeds of the Special Library Tax.
+
+(d) Except to the extent provided in this amendment, the levy and collection of the Special Library Tax, and the use and expenditure of the proceeds thereof, shall continue to be subject to all applicable provisions of each of the Special Tax Amendments. Nothing in this amendment shall be construed to permit any increase in the rate at which the Special Library Tax is levied.
+
+(e) The provisions of this amendment are self-executing, and authorization from or any other action by the Legislature shall not be a prerequisite to the continued levy and collection of the Special Library Tax, or to the use or expenditure of the proceeds thereof. Notwithstanding any contrary provision of either Section 104 or Section 105 of the Constitution, the Legislature shall have the power to enact general, special, or local laws supplemental hereto or in futherance of the purposes hereof; provided, that no such special or local law shall be subject to the provision of Section 106 of the Constitution.
+
+## Amendment 854
+**Calhoun County: Tax - Residential Real Estate, Business Tax Exemption.**
+
+In Calhoun County, no municipal business license tax shall be levied on the rental of residential real estate based on a per unit tax rate.
