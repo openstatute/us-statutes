@@ -11209,3 +11209,40 @@ In Calhoun County, no municipal business license tax shall be levied on the rent
 (c) This constitutional amendment shall have retroactive effect to May 21, 1992.
 
 (d) Act 2011-256 of the 2011 Regular Session is hereby specifically repealed.
+
+## Amendment 856
+**Distribtuions from Alabama Trust Fund; distributions from County and Municipal Government Capital Improvement Trust Fund..**
+
+Section 1. (a) Notwithstanding any other provision of this constitution, beginning with the state's 2012-2013 fiscal year, the following distributions shall be made annually from the Alabama Trust Fund in lieu of any other distributions of trust income, realized capital gains, or unrealized capital gains provided by law:
+
+(1) An amount equal to thirty-three percent (33%) of the oil and gas capital payments paid into the Alabama Trust Fund for the fiscal year ending one year prior to the beginning of the fiscal year for which the distribution is being made plus five percent (5%) of the average market value of invested assets of the Alabama Trust Fund as of the end of the three fiscal years ending one, two, and three years prior to the beginning of the fiscal year for which the distribution is being made shall be distributed as follows:
+
+a. Ten percent (10%) of the amount distributed shall be paid to the County Government Capital Improvement Fund and shall be distributed pursuant to Section 11-29-6, Code of Alabama 1975, as amended.
+
+b. Ten percent (10%) of the amount distributed shall be paid to the Municipal Government Capital Improvement Fund and shall be distributed pursuant to Section 11-66-6, Code of Alabama 1975, as amended.
+
+c. If the constitutional amendment proposed by Act 2011-315 is ratified, then ten percent (10%) of the amount distributed, but not more than fifteen million dollars ($15,000,000) in any one fiscal year, shall be paid to the Forever Wild Land Trust. This distribution shall continue through the fiscal year ending September 30, 2032, and shall not be made after the end of that fiscal year. If the constitutional amendment proposed by Act 2011-315 is not ratified, then one percent (1%) of the amount distributed, but not more than one million dollars ($1,000,000) in any one fiscal year, shall be paid to the Forever Wild Land Trust Stewardship Account.
+
+d. One percent (1%) of the amount distributed, but not more than five million dollars ($5,000,000) in any one fiscal year, shall be paid to the Alabama Senior Services Trust Fund.
+
+e. The remainder of the amount distributed shall be paid to the State General Fund.
+
+(b) Beginning with the state's 2012-2013 fiscal year, an amount equal to five percent (5%) of the average market value of invested assets of the County and Municipal Government Capital Improvement Trust Fund as of the end of the three fiscal years ending one, two, and three years prior to the beginning of the fiscal year for which the distribution is being made shall be distributed as follows:
+
+(1) Fifty percent (50%) of the amount distributed shall be paid to the County Government Capital Improvement Fund and shall be distributed pursuant to Section 11-29-6, Code of Alabama 1975, as amended.
+
+(2) Fifty percent (50%) of the amount distributed shall be paid to the Municipal Government Capital Improvement Fund and shall be distributed pursuant to Section 11-66-6, Code of Alabama 1975, as amended.
+
+(c) Notwithstanding the provisions of subsections (a) and (b) of this Section, if market or financial conditions dictate that distributing the entire amounts authorized by this amendment would be detrimental to the preservation of the invested assets of the Alabama Trust Fund, the preservation of the invested assets of the County and Municipal Government Capital Improvement Trust Fund, or both, the Board of Trustees of the Alabama Trust Fund in its sole discretion may, by a two-thirds recorded vote of the entire membership of the Board, elect to distribute a smaller percentage of the oil and gas capital payments, a smaller percentage of the average amount of invested assets, or both. The Board shall make this election at least six months prior to the beginning of the fiscal year for which the distributions will be made.
+
+(d) For purposes of this amendment, "invested assets" means all assets which are invested in accordance with the investment policy statement adopted by the Board of Trustees of the Alabama Trust Fund. Invested assets shall not include investments in land or properties acquired for the Forever Wild Land Trust and vested in the Alabama Trust Fund and shall not include any outstanding and unpaid amounts due to the Education Trust Fund Rainy Day Account or to the General Fund Rainy Day Account.
+
+Section 2. A County and Municipal Government Capital Improvement Trust Fund Advisory Committee is created. The Committee shall be composed of three members appointed by the Alabama League of Municipalities and three members appointed by the Association of County Commissions of Alabama. The Committee shall serve in an advisory role, and the Board of Trustees of the Alabama Trust Fund shall define the duties of the Committee.
+
+Section 3. Beginning with the state's 2012-2013 fiscal year, whenever funds are withdrawn from the Education Trust Fund Rainy Day Account or the General Fund Rainy Day Account, there shall not be any additional transfer of funds into the County and Municipal Government Capital Improvement Trust Fund, and investment income earned on amounts repaid to the Education Trust Fund Rainy Day Account and the General Fund Rainy Day Account shall not be distributed to the State General Fund.
+
+Section 4. Beginning with the state's 2012-2013 fiscal year and continuing through the state's 2014-2015 fiscal year, there is hereby transferred $145,796,943 annually to the State General Fund from the Alabama Trust Fund.
+
+Section 5. All laws or parts of laws in conflict with this amendment are repealed, including, but not limited to: Those portions of Amendments 450, 543, and 666 to the Constitution of Alabama of 1901, relating to the distribution of trust income, realized capital gains, and unrealized capital gains; Amendment 668 to the Constitution of Alabama of 1901, relating to the distribution of trust income; those portions of Amendment 803 to the Constitution of Alabama of 1901, relating to additional transfers to the County and Municipal Government Capital Improvement Fund and the distribution of investment income on repayments to the Education Trust Fund and State General Fund Rainy Day Accounts; and Sections 11-66-5 and 11-29-5 of the Code of Alabama 1975, as amended, relating to appropriations of trust income to the County and Municipal Government Capital Improvement Trust Funds.
+
+END OF PROPOSED AMENDMENT
