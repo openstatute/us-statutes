@@ -11246,3 +11246,369 @@ Section 4. Beginning with the state's 2012-2013 fiscal year and continuing throu
 Section 5. All laws or parts of laws in conflict with this amendment are repealed, including, but not limited to: Those portions of Amendments 450, 543, and 666 to the Constitution of Alabama of 1901, relating to the distribution of trust income, realized capital gains, and unrealized capital gains; Amendment 668 to the Constitution of Alabama of 1901, relating to the distribution of trust income; those portions of Amendment 803 to the Constitution of Alabama of 1901, relating to additional transfers to the County and Municipal Government Capital Improvement Fund and the distribution of investment income on repayments to the Education Trust Fund and State General Fund Rainy Day Accounts; and Sections 11-66-5 and 11-29-5 of the Code of Alabama 1975, as amended, relating to appropriations of trust income to the County and Municipal Government Capital Improvement Trust Funds.
 
 END OF PROPOSED AMENDMENT
+
+## Amendment 857
+**Montgomery County: Board of Education.**
+
+As terms of office on the Montgomery County Board of Education expire, new members shall be elected to the board for terms of four years.
+
+## Amendment 858
+**Baldwin County: Tax - Vocational, Occupational, and Professional; Prohibited.**
+
+(a) No privilege or license tax on the gross receipts of any natural person derived from the conduct of a vocation, occupation, calling, or profession may be levied in Baldwin County.
+
+(b) Nothing in this amendment is intended to repeal or affect the current authority granted by local act to Baldwin County to impose business licenses or the current authority granted to municipalities to impose municipal business licenses, including those imposed pursuant to Sections 11-51-90, 11-51-91, 11-51-92, and 11-51-93, Code of Alabama 1975.
+
+## Amendment 859
+**Tuscaloosa County: Tax - Occupational, Vocation; Prohibited.**
+
+No privilege or license tax on the gross receipts of any natural person derived from the conduct of a vocation, occupation, calling, or profession may be levied in Tuscaloosa County.
+
+## Amendment 860
+**Forever Wild Land Trust.**
+
+All moneys paid to the Forever Wild Land Trust pursuant to Section 7 of Amendment 543 of the Constitution of Alabama of 1901, now appearing as Section 7 of Section 219.07 of the Official Recompilation of the Constitution of Alabama of 1901, as amended, shall continue to be paid for a 20-year period beginning with the 2012-2013 fiscal year retroactive to October 1, 2012, and ending in the fiscal year 2031-2032.
+
+## Amendment 861
+**Baldwin County: Annexation - Stockton Landmark District.**
+
+(a) For the purposes of this amendment, the "Stockton Landmark District" is defined as follows:
+
+Beginning at the point where I-65 intersects the line which divides R2E and R3E; thence, north to Little Halls Creek; thence, follow Little Halls Creek in a westwardly direction to Halls Creek; thence, follow Halls Creek to Tensaw Lake; thence, follow meanders of Tensaw Lake in a southerly direction until it meets the Tensaw River; thence, follow meanders of Tensaw River until it meets I-65; thence, follow I-65 in E/NE direction to point of beginning.
+
+(b) No property within the Stockton Landmark District may be annexed into any municipality by local law.
+
+(c) Subsection (b) shall not apply to any municipality incorporated after the ratification of this amendment which includes any part of the Stockton Landmark District.
+
+## Amendment 862
+**Madison County: Animals - Procedures.**
+
+Section 1. The people of the State of Alabama find and declare that: Certain dogs are an increasingly serious and widespread threat to the safety and welfare of citizens of this state by virtue of their unprovoked attacks on, and associated injury to, individuals; these attacks are in part attributable to the failure of owners to confine and properly train and control these dogs; existing laws inadequately address this problem; and it is therefore appropriate and necessary to impose requirements on the owners of dangerous dogs.
+
+Section 2. The provisions of this constitutional amendment are applicable to those areas of Madison County outside the corporate limits of any municipality.
+
+Section 3. The following words shall have the following meanings:
+
+(1) ANIMAL CONTROL OFFICER. Any person employed by Madison County who performs animal control functions.
+
+(2) ATTACK. Aggressive physical contact initiated by a dog.
+
+(3) BITTEN. Seized with the teeth so that the skin of the person seized has been gripped or has been wounded or pierced.
+
+(4) DANGEROUS DOG. A dog, regardless of its breed, that has bitten, attacked, or caused physical injury to a human being, without provocation, or has repeatedly bitten or caused physical injury to humans, except a dog used by law enforcement officials for legitimate law enforcement purposes, a certified guide dog for the blind, a hearing dog for the deaf, or a service dog for the disabled.
+
+(5) DOG. All members of the canine family including dog hybrids.
+
+(6) IMPOUNDED. Taken into the custody of law enforcement, the county pound, or an animal control authority or provider of animal control services to Madison County.
+
+(7) OWNER. A person, firm, corporation, or organization having a right of property in a dog, or who keeps or harbors a dog, or who has a dog in his or her care or acts as the custodian of a dog, or who permits a dog to remain on or about any premises occupied by him or her.
+
+(8) PHYSICAL INJURY. An injury as defined in Section 13A-1-2(12), Code of Alabama 1975.
+
+(9) PROPER ENCLOSURE OF A DANGEROUS DOG. An enclosure for the confinement of a dog that has been declared dangerous which is suitable to prevent the entry of the general public and:
+
+a. Is capable of being locked with a key or combination lock when the dog is within the structure.
+
+b. Has secure sides and a secure top attached at all sides. All four sides of the fence or pen must be sunk at least two feet into the ground or the fence or pen must be built over a concrete pad to prevent the animal from digging out.
+
+c. Provides adequate ventilation and protection from the elements.
+
+d. Exhibits a sign conspicuously posted upon the pen or the structure containing the following: "Dangerous Dog - No Trespassing."
+
+e. The enclosure shall be constructed to allow the dog to stand normally and without restriction and shall be not less than four times the length of the dog and two times the width of the dog.
+
+(10) SERIOUS PHYSICAL INJURY. An injury as defined in Section 13A-1-2(14), Code of Alabama 1975.
+
+Section 4. (a) An animal control officer or law enforcement officer shall investigate any incident involving any dog reported to be dangerous.
+
+(b) If a dog that is unowned and has been reported to be dangerous bites a person, the dog may be quarantined and destroyed pursuant to Section 3-7A-9(b), Code of Alabama 1975. For the purposes of this subsection, "bites" means the same as "has been exposed" as defined in Section 3-7A-1(5), Code of Alabama 1975.
+
+(c) If there is probable cause to believe that an owned dog is dangerous and has caused serious physical injury to a human being, a law enforcement officer or animal control officer shall impound the dog pending disposition of a petition to declare a dog to be dangerous. Madison County may impound the dog at the county pound as described in Section 3-7A-7, Code of Alabama 1975, or may enter into an agreement with an animal shelter or licensed veterinarian to secure and impound dangerous dogs pursuant to this section. The owner of the dog shall be liable to Madison County for the costs and expenses incurred in impounding, feeding, and providing veterinary care or treatment for the dog.
+
+(d) The district attorney, county attorney, or the designee of either, shall be authorized to file a petition in the district court to declare the dog that caused physical injury to a human being in Madison County to be dangerous. The owner of the dog shall be served with a copy of the petition.
+
+(e) A dog that is the subject of a dangerous dog investigation may not be relocated and ownership shall not be transferred pending the outcome of the investigation and hearing to determine whether to declare the dog to be dangerous.
+
+(f) The court hearing shall be held as soon as practicable. At the hearing, the district attorney, county attorney, or the designee of either, shall present evidence that the dog is dangerous and whether the dog caused serious physical injury to a human being.
+
+(1) If the court determines that the dog is dangerous and has caused serious physical injury or death to a human being, the court shall order the dog to be humanely euthanized by a licensed veterinarian or an authorized animal control official.
+
+(2) If the court determines that the dog is dangerous, but has not caused serious physical injury or death to a human being or other animal, the court shall issue orders authorized by this section.
+
+(g) The pleading and practice in all cases to petition the court to declare a dog to be dangerous under this section shall be in accordance with the Alabama Rules of Civil Procedure unless otherwise specified by this amendment. The court may tax all costs of the proceedings including attorney's fees and expert witness fees to the owner of the dog.
+
+Section 5. (a) A dog may not be declared dangerous in any of the following circumstances:
+
+(1) When an injury or damage was sustained by a person who at the time of the injury or damage was committing a willful trespass or other tort upon premises occupied by the owner or custodian of the dog with the intent to commit a crime or was committing a crime; was teasing, tormenting, abusing, or assaulting the dog; or who can be shown to have repeatedly, in the past, provoked, tormented, abused, or assaulted the dog.
+
+(2) When the dog was protecting or defending a person within the immediate vicinity of the dog from an unjustified attack or assault.
+
+(3) When the dog was responding to pain or injury or protecting itself, its kennel, or its offspring.
+
+(4) When a person or domestic animal was disturbing the natural functions of the dog such as sleeping or eating.
+
+(b) Neither growling nor barking, or both, shall alone constitute grounds upon which to find a dog to be dangerous.
+
+Section 6. (a) If a court determines that a dog is dangerous, but does not order that the dog be destroyed because evidence was insufficient to determine that the dog caused serious physical injury, in addition to any other requirements imposed by the court, within 30 days of the issuance of the order declaring the dog to be dangerous, the owner of the dog shall register the dog with the Madison County Animal Control Department. All certificates of registration required to be obtained under this section shall only be issued to persons 18 years of age or older who present evidence of the following:
+
+(1) A current certificate of rabies vaccination.
+
+(2) A current photograph of the dog.
+
+(3) That the dog will be confined to a proper enclosure when the dog is outdoors and unattended.
+
+(4) That the dog has been neutered or spayed, unless medically not needed.
+
+(5) That the dog has been permanently identified by tattooing or injecting an identification microchip using standard veterinary procedures and practices, and the name, address, and phone number of the veterinarian performing the identification procedure.
+
+(6) A policy of insurance, such as homeowner's, or a surety bond in the amount of not less than one hundred thousand dollars ($100,000) covering the medical or veterinary costs, or both, resulting from any future dangerous actions of the dog.
+
+(7) If the owner of the dangerous dog is not the owner of the property where the dog is kept, the owner of the dog must obtain from the property owner written permission for the dangerous dog to be kept there.
+
+(8) A notarized affidavit from the owner of the dangerous dog stating that the dog will be under the control of a person 18 years or older when the dog is not in a proper enclosure or inside a building and that the dog will not be allowed outside the property of its owner except in emergencies or for normal or necessary medical or health-related treatment.
+
+(b) If the owner fails to provide a proper enclosure for the dangerous dog or fails to provide a certification of dangerous dog registration to the court within 30 days of the issuance of the court's declaration that the dog is dangerous, the dog shall be humanely euthanized.
+
+(c) The owner of the dangerous dog shall pay an annual fee to register the dog pursuant to the provisions of this amendment. The amount of the dangerous dog registration fee shall be established by the Madison County Commission. The payment of the dangerous dog registration fee shall be in addition to any regular dog licensing fee required by Madison County.
+
+(d) An animal control officer or law enforcement officer may make whatever inquiry is deemed necessary to ensure compliance with this amendment and any court order issued pursuant to this amendment.
+
+(e) Prior to a dangerous dog being sold or given away, the owner shall advise the new prospective owner in writing that the dog has been declared to be dangerous by a court and shall provide the Madison County Animal Control Department the name, address, and telephone number of the new owner. The new owner shall comply with all of the requirements of this amendment.
+
+Section 7. The owner of a dog which has been declared to be dangerous by a court may petition the district court to remove the dangerous dog designation 18 months after the judicial declaration was issued. A copy of the petition shall be served upon the district attorney or county attorney. The court may remove the dangerous dog designation and eliminate any requirements of this amendment if the owner of the dog has not violated this amendment and any orders of the court, and if the court is satisfied from the evidence that the dog is no longer dangerous.
+
+Section 8. (a) If a dog that has previously been declared by a court to be dangerous, when unprovoked, shall cause serious physical injury or kill a human being the owner of the dog shall be guilty of a Class C felony.
+
+(b) If a dog that has not been declared by a court to be dangerous, attacks and causes serious physical injury or death to any human being, and the owner of the dog had prior knowledge of the dangerous propensities of the dog, yet demonstrated a reckless disregard of the propensities under the circumstances, the owner of the dog shall be guilty of a Class A misdemeanor.
+
+(c) In addition to any fines imposed by the court, a person guilty of violating subsections (a) and (b) of this section shall pay all expenses, including, but not limited to, shelter, food, veterinary expenses for boarding and veterinary expenses necessitated by impoundment of the dog, medical expenses incurred by a victim from an attack by a dangerous dog, and other expenses required for the destruction of the animal.
+
+(d) An owner of a dog declared to be dangerous by a court who does not contain the dog in a proper enclosure shall be guilty of a Class C misdemeanor.
+
+(e) An owner of a dog declared to be dangerous by a court who has been adjudicated guilty of subsection (d) and subsequently fails to contain a dangerous dog in a proper enclosure shall be guilty of a Class B misdemeanor.
+
+Section 9. Nothing in this amendment shall be construed to repeal other criminal laws. Whenever conduct prescribed by any provision of this amendment is also prescribed by any other provision of law, the provision which carries the more serious penalty shall be applied.
+
+Section 10. (a) Nothing in this amendment shall be construed to restrict or negate the requirements of the rabies control law contained in Sections 3-7A-1 to 3-7A-16, inclusive, Code of Alabama 1975.
+
+(b) Nothing in this amendment is designed to abrogate any civil remedies available under statutory or common law.
+
+Section 11. Any person who knowingly makes a false report to a law enforcement officer or an animal control officer that a dog is dangerous is guilty of a Class C misdemeanor.
+
+Section 12. Madison County, its district attorney and its county attorney and any of its, or their employees or agents, and the individual issuing the dangerous dog certificate or registration shall be immune from any and all liability for any actions taken or for any failure to act pursuant to this amendment.
+
+Section 13. The Madison County Commission shall establish the date on which these provisions shall become effective.
+
+## Amendment 863
+**Mobile County: Water and Sewer.**
+
+(a) Within 90 days after the ratification of this amendment, the assets and liabilities of the Water Works and Sewer Board of the City of Prichard shall be transferred to the Board of Water and Sewer Commissioners of the City of Mobile, presently known as the Mobile Area Water and Sewer System. The transfer shall include all assets of the Water Works and Sewer Board of the City of Prichard and shall be conditioned upon the assumption or discharge by the Board of Water and Sewer Commissioners of the City of Mobile, presently known as the Mobile Area Water and Sewer System, of all liabilities of the Water Works and Sewer Board of the City of Prichard, including, without limitation, all indebtedness, contracts, and retirement obligations. Any assumption of obligations by the Board of Water and Sewer Commissioners of the City of Mobile, presently known as the Mobile Area Water and Sewer System, shall be evidenced by resolution of that board.
+
+(b) Upon transfer of its assets and liabilities pursuant to subsection (a), the Water Works and Sewer Board of the City of Prichard shall be dissolved.
+
+(c) The rates for water and sewer service to existing customers of Mobile Area Water and Sewer System shall not be increased at any time for reasons related to the acquisition or maintenance of the assets, liabilities, or infrastructure of the Water Works and Sewer Board of the City of Prichard.
+
+(d) Notwithstanding ratification of this amendment in accordance with applicable state law, this amendment shall not be effective and the actions, including, but not limited to, the transfer of assets and liabilities in subsections (a) and (b), shall not take place unless both of the following have occurred:
+
+(1) A favorable vote by the majority of those persons who reside and voted in precincts any part of which are serviced by the Board of Water and Sewer Commissioners of the City of Mobile (Mobile Area Water and Sewer System).
+
+(2) A favorable vote by the majority of those persons who reside and voted in precincts any part of which are serviced by the Water and Sewer Board of the City of Prichard.
+
+The votes cast on this amendment in precincts any part of which are serviced by the Board of Water and Sewer Commissioners of the City of Mobile (Mobile Area Water and Sewer System) and the votes cast on this amendment in precincts any part of which are serviced by the Water and Sewer Board of the City of Prichard shall be tabulated separately to determine whether a majority of those who voted in each area approved the amendment.
+
+## Amendment 864
+**Mandatory participation in health care system prohibited.**
+
+(a) In order to preserve the freedom of all residents of Alabama to provide for their own health care, a law or rule shall not compel, directly or indirectly, any person, employer, or health care provider to participate in any health care system.
+
+(b) A person or employer may pay directly for health care services and shall not be required to pay penalties or fines for paying directly for lawful health care services. A health care provider may accept direct payment for lawful health care services and shall not be required to pay penalties or fines for accepting direct payment from a person or employer for lawful health care services.
+
+(c) The purchase or sale of health insurance in private health care systems shall not be prohibited by law or rule.
+
+## Amendment 865
+**Amendment to Section 177.**
+
+Sec. 177. Suffrage and Elections
+
+(a) Every citizen of the United States who has attained the age of eighteen years and has resided in this state and in a county thereof for the time provided by law, if registered as provided by law, shall have the right to vote in the county of his or her residence. The Legislature may prescribe reasonable and nondiscriminatory requirements as prerequisites to registration for voting. The Legislature shall, by statute, prescribe a procedure by which eligible citizens can register to vote.
+
+(b) No person convicted of a felony involving moral turpitude, or who is mentally incompetent, shall be qualified to vote until restoration of civil and political rights or removal of disability.
+
+(c) The Legislature shall by law provide for the registration of voters, absentee voting, secrecy in voting, the administration of elections, and the nomination of candidates.
+
+(d) The right of individuals to vote by secret ballot is fundamental. Where state or federal law requires elections for public office or public votes on referenda, or designations or authorizations of employee representation, the right of individuals to vote by secret ballot shall be guaranteed.
+
+## Amendment 866
+**Cullman County: Education - Control of Land and Resources.**
+
+(a) All sixteenth section school and school land located in Cullman County is vested in the Cullman County Board of Education. The board may manage, sell, lease, and control the land and any timber, minerals, or other natural resources of the land.
+
+(b) Any proceeds from the sale of sixteenth section or school land shall be distributed as follows:
+
+(1) Ninety percent shall be deposited into a trust account in Cullman County.
+
+(2) Ten percent shall be deposited into the Cullman County Board of Education General Fund.
+
+(c) Any interest earned on the funds deposited pursuant to subdivision (1) of subsection (b) and the funds deposited under subdivision (2) of subsection (b) shall be annually distributed to the Cullman County school system and the Cullman City school system based on the number of students residing within the then existing boundaries of each system. The number of students residing in a school system shall be based on the then existing enrollment of students in each system, adjusted by the number of students enrolled in the system who reside outside of the system, as identified by the Cullman City Board of Education. The annual distribution of interest for each of the five years immediately following ratification of this amendment shall be calculated using 2010-2011 school year student enrollment data. Thereafter, the distribution formulation shall be recalculated and updated for each five-year period based upon student enrollment data at the beginning of the five-year period.
+
+(d) Any proceeds generated from the sale of timber, minerals, or other natural resources of the land, or from the lease of sixteenth section or school land shall be paid directly to the Cullman County Board of Education and deposited into the Cullman County Board of Education General Fund.
+
+(e) It is the intent of the Legislature that this amendment supersede any other provision of this constitution which may be construed as being in conflict with this amendment as it relates to sixteenth section or school lands in Cullman County and the rights, power, and control of the property relating to the sale, lease, or other disposition of the land or the sale of timber, minerals, or other natural resources generated by the land, or any proceeds or interest earned therefrom.
+
+(f) Upon ratification of this amendment, all proceeds realized from the sale, lease, or other disposition of sixteenth section or school land or the sale of timber, minerals, or other natural resources generated by Cullman County sixteenth section or school lands occurring before ratification of this amendment, and held in trust by the State of Alabama, shall continue to be held in trust and any revenue and interest derived from those transactions shall be paid to the custodian of funds of the Cullman County Board of Education.
+
+## Amendment 867
+**Perry County: Salaries - Sheriff.**
+
+The Legislature, from time to time, by general or local laws applicable to or operative in Perry County, may fix, regulate, and alter the fees, commissions, allowances, and salaries, including the method and basis of compensation, to be charged or received by the sheriff of the county; and may place the sheriff on a salary and provide for the fees, commissions, allowances, and percentages collectible by the sheriff, to be paid into the county treasury.
+
+## Amendment 868
+**Etowah County: Retirement.**
+
+No elected or appointed Etowah County official, including the sheriff, may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every elected or appointed Etowah County official, including the sheriff, may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Etowah County officials, including the sheriff, holding office at the time of ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office. No person may participate in both a supernumerary program and the Employees' Retirement System based on the same service. For purposes of this amendment, the words "elected or appointed Etowah County official" do not include a judge, district attorney, legislator, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 869
+**Jackson County: Repeal of Amendment 846.**
+
+Amendment No. 846 of the Constitution of Alabama of 1901, now appearing as Section 1.50, Jackson County, Local Constitutional Amendments of the  Official Recompilation of the Constitution of Alabama of 1901, relating to special elections to fill vacancies in county offices, is repealed.
+
+## Amendment 870
+**Marshall County: Board of Education - Election of Members; Operation.**
+
+The Legislature, by local law, from time to time may provide for the election of the members of the Marshall County Board of Education and may provide further for the operation of the board. Such local act or acts may include, but are not limited to, providing for termination of the terms of members of the existing county board of education; vacancies; the composition of the county board of education; initial and succeeding terms of office, including staggered terms; and qualifications, powers, duties, responsibilities, and compensation of the board and board members.
+
+## Amendment 871
+**Compensation and expenses of members of Legislature.**
+
+Section 1. (a) The Legislature recognizes that the public trust in the legislative body is of paramount importance. The Legislature further recognizes that government transparency and accountability are vital to the preservation of the public trust. To that end, it is the purpose of this amendment to remove the power of determining legislative compensation or expenses from the hands of the Legislature itself, to validate the basis upon which legislative compensation and expenses are established in an objective manner based on measurable standards, and to allow the citizens of Alabama to vote on this issue. It is the will of the Legislature to resolve the issue of legislative compensation and expenses once and for all by providing for compensation and expenses for members of the Legislature and the President of the Senate and by providing for compensation to be paid at the same rate as the median household income in Alabama and expenses in the same amounts and manner as expenses are allowed under law for state employees generally.
+
+(b) All laws or parts of laws in conflict with this amendment are repealed, including, but not limited to: Those portions of Amendments 39, 57, and 339 of the Constitution of Alabama of 1901, relating to the compensation and expenses of members of the Legislature; Act 87-209, Act 90-490, Act 91-95, Act 91-108, and Act 2007-75; and Section 29-1-8, Code of Alabama 1975.
+
+Section 2. The annual basic compensation for each member of the Legislature and the President of the Senate shall be the median annual household income in Alabama, as ascertained and adjusted each year by the State Personnel Board to take effect on the first day of January of each year.
+
+Section 3. (a) No member of the Legislature or the President of the Senate may receive reimbursement for any expenses except as provided in this section.
+
+(b) Subject to approval by the President of the Senate or by the Speaker of the House for the respective members of their Houses, and except as otherwise provided in subsection (d), a member of the Legislature may be reimbursed for any of the following:
+
+(1) Expenses incurred for travel on official business in the same amounts or at the same rates as for state employees traveling in the service of the state under state law, rules, and policies, provided that, for a member of the Legislature, the travel is to a place outside his or her district.
+
+(2) Actual expenses other than travel expenses incurred in the performance of official duties.
+
+(3) Expenses authorized pursuant to Act 1196 of the 1971 Regular Session for the presiding officer of each House.
+
+(c) Reimbursement for expenses may only be made under subdivision (1) and (2) of subsection (b) after a determination of the presiding officer of the member's House that the travel or expense is in the service of the state and on submission of a signed voucher submitted in the same manner as a request for reimbursement of expenses by a state employee.
+
+(d) Except for the expenses of transportation, no member of the Legislature who resides less than 50 miles from the seat of government may be reimbursed for any travel expenses for travel between his or her place of residence and the seat of government.
+
+(e) In making the determination required by subsection (c), the presiding officer of either House may not determine a particular expense incurred by any member of the Legislature was not in the service of the state on any basis that discriminates between members of the Legislature.
+
+(f) Reimbursement for expenses authorized pursuant to this section shall be paid in a timely manner that is consistent with expense reimbursement regulations jointly promulgated by the President of the Senate and the Speaker of the House pursuant to the Alabama Administrative Procedure Act. Such regulations shall, to the extent possible, mirror similar regulations applicable to state employees. The President of the Senate and the Speaker of the House may not discriminate between members of the Legislature regarding the timely reimbursement of authorized expenses.
+
+(g) The State Personnel Board may promulgate such rules as it deems necessary to enforce its responsibilities under this amendment and, in conjunction with the Comptroller, shall provide an annual report on compensation and reimbursement of expenses to members of the Legislature.
+
+Section 4. (a) The compensation and reimbursement for expenses provided in Sections 2 and 3 shall constitute the total amounts payable to the presiding officers and members of the Legislature, beginning with the terms commencing immediately after the 2014 General Election.
+
+(b) The Legislature may not increase, supplement, or otherwise enlarge the compensation or reimbursement for expenses payable to its members by this amendment.
+
+## Amendment 872
+**Authority of Legislature to pass general laws pertaining to corporations and other entities.**
+
+Amendment of Section 229.
+
+Section 229. The Legislature shall pass general laws under which corporations and other entities may be organized, authorized to do business or conduct their affairs, operated, dissolved, and regulated; such laws, now existing or hereafter passed, shall be subject to amendment or repeal by general law. The Legislature, by general law, shall provide for the payment to the State of Alabama of a tax on the privilege of doing business in Alabama or being organized, incorporated, qualified, or registered under the laws of Alabama. Strictly benevolent, educational, or religious corporations shall not be required to pay such a tax on their withdrawable or repurchasable shares to the extent they have such shares.
+
+Amendment of Section 239.
+
+Any association or corporation organized for the purpose, or any individual, shall have the right to construct and maintain lines of telegraph and telephone within this state, and connect the same with other lines; and the legislature shall, by general law of uniform operation, provide reasonable regulations to give full effect to this section. No telegraph or telephone company shall consolidate with or hold a controlling interest in the stock or bonds of any other telegraph or telephone company owning a complete [competing] line, or acquire, by purchase or otherwise, any other competing line of telegraph or telephone.
+
+Amendment of Section 240.
+
+All corporations shall have the right to sue, and shall be subject to be sued, in all courts in like cases as natural persons.
+
+Dues from private corporations shall be secured by such means as may be prescribed by law; but in no case shall any stockholder be individually liable otherwise than for the unpaid stock owned by him or her.
+
+## Amendment 873
+**Authority of Legislature.**
+
+(a) The Legislature shall not have the power to establish or incorporate any bank or banking company or moneyed institution for the purpose of issuing bills of credit or bills payable to order or bearer, except under the conditions prescribed in this Constitution. No bank shall be established otherwise than under a general banking law.
+
+(b) There shall be no limit of time for the duration of a corporation organized as a bank or banking company, and it shall not be necessary to renew or extend the life or charter of any such corporation now existing. All extensions of the life or charter of any such corporations are ratified and confirmed.
+
+(c) Neither the state, nor any political subdivision thereof, shall be a stockholder in any bank, nor shall the credit of the state or any political subdivision thereof be given or lent to any banking company, banking association, or banking corporation.
+
+(d) The Legislature, by appropriate laws, shall provide for the examination, by some public officer, of all banks and banking institutions and trust companies engaged in banking business in this state; and each of such banks and banking companies or institutions, through its president, or such other officer as the Legislature may designate, shall make a report under oath of its resources and liabilities at least twice a year.
+
+## Amendment 874
+**Bullock County: Retirement.**
+
+(a) No elected or appointed Bullock County official, including the sheriff, may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every elected or appointed Bullock County official, including the sheriff, may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system, and shall be treated as an employee of the county. Bullock County officials, including the sheriff, holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office. No person may participate in both a supernumerary program and the Employees' Retirement System based on the same service. For the purpose of this amendment, the words "elected or appointed Bullock County official, including the sheriff," shall include, subject only to express limitation, any person elected to represent Bullock County in any representative body of the state and includes any person appointed to serve the remaining term of an elected or appointed Bullock County official, including the sheriff. The words do not include a judge, district attorney, constable, school board member, legislator, or any official elected from a judicial circuit.
+
+(b) Amendment No. 676 of the Constitution of Alabama of 1901, now appearing as Section 4, Local Amendments, Bullock County, Official Recompilation of the Constitution of Alabama of 1901, as amended, is repealed.
+
+## Amendment 875
+**Lawrence County: Municipalities - Jurisdiction.**
+
+A municipality located entirely outside of Lawrence County is prohibited from imposing any municipal ordinance or regulation, including, but not limited to, any tax, zoning, planning, or sanitation regulations, and any inspection service in its police jurisdiction located in Lawrence County. A municipality prohibited from imposing any tax or regulation under this amendment shall not provide any regulatory function or police or fire protection services in its police jurisdiction located in Lawrence County, other than public safety mutual aid.
+
+## Amendment 876
+**Calhoun County: Elections - Absentee Ballots.**
+
+Upon the expiration of the current term of office of the Clerk of the Circuit Court of Calhoun County, the Calhoun County Commission shall manage the processing of absentee election ballots. The county commission may process the ballots with staff of the county commission at no cost or may process the ballots by the hiring of temporary employees or by contracting with a nonprofit agency. Notwithstanding the foregoing, nothing in this amendment shall change the manner, rate, or amount Calhoun County or the Calhoun County Commission is reimbursed for an election.
+
+## Amendment 877
+**Winston County: Salaries and Duties -  Judge of Probate.**
+
+Effective with the term of office beginning in January 2013, the Judge of Probate of Winston County shall be compensated on a salary basis paid in equal monthly installments from the general fund of the county. The initial annual salary of the judge of probate shall be equal to 80 percent of the annual compensation paid by the state to the district court judge of the county on the date of the ratification of this amendment. Thereafter, any increases in compensation shall be applied pursuant to Chapter 2A of Title 11, Code of Alabama 1975.
+
+The Winston County Commission shall provide for operating expenses of the office of judge of probate pursuant to general law.
+
+All fees, commissions, allowances, percentages, and other charges allocable to the Judge of Probate of Winston County shall be collected, but shall be paid into the general fund of Winston County.
+
+The judge of probate shall perform all duties relating to the issuance of motor vehicle license plates in the county and shall perform all duties relating to the assessment and collection of ad valorem taxes on motor vehicles, which have heretofore been performed by the revenue commissioner. The revenue commissioner is relieved of all duties and responsibilities relating to the assessment and collection of taxes on motor vehicles. The judge of probate shall receive the commissions and fees currently allocated to the revenue commissioner for performing these functions, and these fees and commissions shall be remitted to the county general fund. Reporting and remitting of the collections of these fees shall be made by the judge of probate or as otherwise required by law.
+
+This constitutional amendment, after its ratification, shall become effective the beginning of the next term of office of the judge of probate.
+
+## Amendment 878
+**Marengo County: Amendment to Amendment 609.**
+
+(a) The Judge of Probate of Marengo County shall receive compensation in the form of an annual salary which shall be calculated as provided by Chapter 2A of Title 11, Code of Alabama 1975.
+
+(b) All fees, commissions, allowances, percentages, and other charges heretofore collected for the use of the Judge of Probate of Marengo County shall continue to be collected by the judge of probate, but shall be paid into the county general fund.
+
+(c) The County Commission of Marengo County shall provide the judge of probate with office personnel, clerks and deputies, and with quarters, books, stationery, furniture, equipment, and other supplies necessary for the proper and efficient conduct of the office of the judge of probate. Compensation of the personnel shall be fixed by the county commission and shall be paid in equal monthly installments out of the General Fund of Marengo County.
+
+(d) The amendment to this amendment shall become effective beginning with the next term of office following ratification of the amendment.
+
+## Amendment 879
+**Baldwin County: Tax - Schools; Sales and Use.**
+
+(a) As used in this amendment, the term "state sales tax" means the tax or taxes imposed by Division 1 of Article 1 of Chapter 23 and by Article 3 of Chapter 23 of Title 40 of the Code of Alabama 1975, as amended (herein called "the Code"), including all other statutes of the State of Alabama (herein called "the state") which expressly set forth any exemptions from the computation of the taxes levied in Division 1 or Article 3 and all other statutes which expressly apply to, or purport to affect, the administration of Division 1 or Article 3 and the incidence and collection of the taxes imposed therein; and the term "state use tax" means the tax or taxes imposed by either Article 2 or Article 3 of Chapter 23 of Title 40 of the Code, including all other statutes of the state which expressly set forth any exemptions from the computation of the tax levied in Article 2 or Article 3 and all other statutes of the state which expressly apply to, or purport to affect, the administration of Article 2 or Article 3 and the incidence and collection of the taxes imposed therein.
+
+(b) Subject to the provisions of this amendment, there are hereby levied in Baldwin County (herein called "the county"), in addition to all other taxes now authorized, or that may hereafter be authorized by the Constitution and laws of Alabama, to be levied in the county, sales and use taxes (herein together called "the county sales and use taxes") that parallel, except for the rate or rates of such taxes (as hereinafter specified), the state sales tax and the state use tax. The duration of the levy of the county sales and use taxes hereunder shall be a period of five (5) years, commencing on June 1, 2013, subject to extension or renewal as authorized by the Legislature in accordance with a local legislative act.
+
+(c) The rate of the county sales and use taxes shall be one percent on any transaction that is subject to taxation by the state pursuant to the provisions of (i) either subdivision (1), subdivision (2), or subdivision (5) of Section 40-23-2 of the Code, or (ii) subsection (a) of Section 40-23-61 of the Code.
+
+(d) The rate of the county sales and use taxes shall be one-half of one percent (.5%) on any transaction that is subject to taxation by the state pursuant to the provisions of (i) either subdivision (3) or subdivision (4) of Section 40-23-2 of the Code; or (ii) either subsection (b) or subsection (c) of Section 40-23-61 of the Code; (iii) either Section 40-23-37 or Section 40-23-63, Code of Alabama 1975; or (iv) Article 3 of Chapter 23 of Title 40 of the Code, as the case may be.
+
+(e) The county sales and use taxes shall, as the Baldwin County Commission (hereafter "the commission") may from time to time determine, be collected either by the commission or by any person, firm, or corporation (whether public or private) with which the commission may contract to collect the county sales and use taxes or any other tax or taxes levied by, or in, the county, all in accordance with, and subject to, applicable provisions of law as are from time to time in effect.
+
+(f) All provisions of law from time to time in effect with respect to the payment, assessment, and collection of the state sales tax and the state use tax, and any and all reports, records, and penalties for failure to pay such taxes, the promulgation of rules and regulations with respect to such taxes, and the administration and enforcement of such taxes or such provisions of law (as the case may be), shall, to the extent not inconsistent with this amendment, apply to the county sales and use taxes.
+
+(g) The commission shall remit to any local boards of education in the county in accordance with state law all amounts collected by the commission from the sales and use tax levied pursuant to the terms of this amendment, less collection fees charged by the commission in accordance with this amendment, applicable state law and any agreements entered into between the commission and the Baldwin County Board of Education or any local board of education in the county not inconsistent with this amendment or state law.
+
+(h) Notwithstanding any provision of law now existing or hereafter enacted by the Legislature, the board of education shall pay, or shall cause to be paid, all costs and expenses incurred (whether by the state, the county or any other political subdivision or public body) in connection with the call, conduct, canvass or contest of any special election hereafter held (whether pursuant to, or in accordance with, the provisions of this amendment or otherwise) for the purpose of levying, or authorizing the levy of, any tax (regardless of the character or nature thereof) all or a majority of the revenues from which may, prior to such special election, be dedicated by constitutional amendment, general law, statute, local legislative act or otherwise (or by ordinance or resolution of the commission) for public school or public educational purposes in the county, or which may be otherwise payable (or paid) to the Baldwin County Board of Education. The provisions of this paragraph shall remain in full force and effect notwithstanding the expiration or termination of any sales or use tax levied, extended or renewed pursuant to other provisions of this amendment.
+
+(i) The commission is hereby empowered to collect the county sales and use taxes and to enforce the provisions of this amendment, and it shall have and exercise all rights and remedies that the state has for the collection of the state sales tax and the state use tax (as the case may be).
+
+(j) The foregoing provisions of this amendment shall be and are hereby declared to be self-executing; but the Legislature may enact general or local laws that implement, supplement or further any or all of the foregoing provisions of this amendment.
+
+## Amendment 880
+**Maximum aggregate principal limitations on general obligation bonds.**
+
+(a) Anything in Amendment No. 666 to the Constitution of Alabama of 1901, as amended [Section 219.04], or Amendment No. 796 to the Constitution of Alabama of 1901, as amended [Section 219.041], to the contrary notwithstanding, the authority granted to the State of Alabama to become indebteded and to sell and issue its interest-bearing general obligation bonds, in addition to all other bonds of the state, under Amendment No. 666 to the Constitution of Alabama of 1901 [Section 219.04], as amended by Amendment No. 796 to the Constitution of Alabama of 1901 [Section 219.041], shall not be subject to the limitations on aggregate principal amount imposed by Section VIII of said Amendment No. 666 to the Constitution of Alabama of 1901, as amended [Section 219.04], as modified by paragraph (a) of Amendment No. 796 to the Constitution of Alabama of 1901, as amended [Section 219.041]; provided, that at no time shall the aggregate principal amount of such general obligation bonds (including, without limitation, general obligation refunding bonds) then outstanding be in excess of $750 million.
+
+(b) General obligation refunding bonds may be issued by the State from time to time pursuant to the authority contained in Amendment No. 666 to the Constitution of Alabama of 1901, as amended [Section 219.04], in aggregate principal amounts (which may exceed the principal amount of general obligation bonds being refunded) determined by the Bond Commission established pursuant to Section IX of Amendment No. 666 to the Constitution of Alabama of 1901, as amended [Section 219.04]; provided, however, that no such general obligation refunding bonds shall be issued unless (i) the present value of all debt service on such general obligation refunding bonds (computed with a discount rate equal to the true interest rate of such general obligation refunding bonds and taking into account all underwriting discount and other issuance expenses) shall not be greater than 97 percent of the present value of all debt service on the general obligation bonds to be refunded (computed using the same discount rate and taking into account the underwriting discount and other issuance expenses originally applicable to such general obligation bonds to be refunded) determined as if such general obligation bonds to be refunded were paid and retired in accordance with the schedule of maturities (considering mandatory redemption as a scheduled maturity) provided at the time of their issuance; and (ii) the average maturity of such general obligation refunding bonds, as measured from the date of issuance of such general obligation refunding bonds, shall not exceed by more than three years the average maturity of the general obligation bonds to be refunded, as also measured from such date of issuance, with the average maturity of any principal amount of general obligation bonds to be determined by multiplying the principal of each maturity by the number of years (including any fractional part of a year) intervening between such date of issuance and each such maturity, taking the sum of all such products, and then dividing such sum by the aggregate principal amount of general obligation bonds for which the average maturity is to be determined.
+
+(c) The principal amount of general obligation bonds for which provision for payment has been made with proceeds of general obligation refunding bonds (including anticipated investment earnings thereon), shall not be deemed outstanding for purposes hereof.
+
+(d) Except to the extent modified hereunder, the terms and provisions of Amendment No. 666 to the Constitution of Alabama of 1901, as amended [Section 219.04], and Amendment No. 796 to the Constitution of Alabama of 1901, as amended [Section 219.041], shall remain in full force and effect.
