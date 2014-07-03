@@ -11612,3 +11612,17 @@ This constitutional amendment, after its ratification, shall become effective th
 (c) The principal amount of general obligation bonds for which provision for payment has been made with proceeds of general obligation refunding bonds (including anticipated investment earnings thereon), shall not be deemed outstanding for purposes hereof.
 
 (d) Except to the extent modified hereunder, the terms and provisions of Amendment No. 666 to the Constitution of Alabama of 1901, as amended [Section 219.04], and Amendment No. 796 to the Constitution of Alabama of 1901, as amended [Section 219.041], shall remain in full force and effect.
+
+## Amendment 881
+**Franklin County: Taxation -Transportation.**
+
+Notwithstanding the provisions of Section 40-12-4, Code of Alabama 1975, commencing October 1, 2014, the governing body of Franklin County, by ordinance, may allocate one-fourth of the proceeds of the one cent tax levied in Franklin County pursuant to Section 40-12-4, Code of Alabama 1975, for the purpose of matching funds for any grant in Franklin County from the Alabama Transportation Rehabilitation and Improvement Program. The authority granted by this amendment is effective for two years. The authority may be extended from time to time for subsequent two-year periods if approved by a majority vote of the voters of Franklin County voting on the issue at an election called for that purpose.
+
+## Amendment 882
+**Mobile County: Water and Sewer System Transferred.**
+
+(a) Within 90 days after the ratification of this amendment, the assets and liabilities of the Water Works and Sewer Board of the City of Prichard shall be transferred to the Board of Water and Sewer Commissioners of the City of Mobile, presently known as the Mobile Area Water and Sewer System. The transfer shall include all assets of the Water Works and Sewer Board of the City of Prichard and shall be conditioned upon the assumption or discharge by the Board of Water and Sewer Commissioners of the City of Mobile, presently known as the Mobile Area Water and Sewer System, of all liabilities of the Water Works and Sewer Board of the City of Prichard, including, without limitation, all indebtedness, contracts, and retirement obligations. Any assumption of obligations by the Board of Water and Sewer Commissioners of the City of Mobile, presently known as the Mobile Area Water and Sewer System, shall be evidenced by resolution of that board.
+
+(b) Upon transfer of its assets and liabilities pursuant to subsection (a), the Water Works and Sewer Board of the City of Prichard shall be dissolved.
+
+(c) The rates for water and sewer service to existing customers of the Mobile Area Water and Sewer System shall not be increased at any time for reasons related to the acquisition or maintenance of the assets, liabilities, or infrastructure of the Water Works and Sewer Board of the City of Prichard.
