@@ -11637,3 +11637,116 @@ The legislature shall provide, by enabling legislation, the definition of peanut
 Assessments, fees or other charges collected as authorized by any legislative act adopted under authority hereof shall not be considered as a tax within the meaning of this Constitution or any provision thereof.
 
 Any uniformity requirements of this Constitution shall be satisfied by the application of the program upon peanuts, milk, and cotton.
+
+## Amendment 884
+**Application of foreign law.**
+
+(a) This amendment shall be known and may be cited as the American and Alabama Laws for Alabama Courts Amendment.
+
+(b) The law of Alabama provides:
+
+(1) The State of Alabama has developed its unique public policy of laws based on the United States Constitution, as protected by Amendment 10 to the United States Constitution.
+
+(2) Upon becoming a state in 1819, Alabama adopted its first constitutional and statutory enactments, upon which it has built the rights, privileges, obligations, and requirements of its government and citizens.
+
+(3) Both the provisions of the Alabama Constitution and the statutes and regulations of the State of Alabama, with interpreting opinions by its courts of competent jurisdiction, have developed the state's public policy.
+
+(4) The public policy of the State of Alabama protects the unique rights of its citizens beginning with Article I, Section 1 of the Constitution of Alabama of 1901, guaranteeing the equality and rights of men. Except as permitted by due process of law and the right of the people to vote for self-determination, the rights, privileges, and immunities of the citizens of the State of Alabama are inviolate.
+
+(5) Different from the law of the State of Alabama is foreign law, which is any law, rule, or legal code, or system established, used, or applied in a jurisdiction outside of the states or territories of the United States, or which exist as a separate body of law, legal code, or system adopted or used anywhere by any people, group, or culture different from the Constitution and laws of the United States or the State of Alabama.
+
+(6) Alabama has a favorable business climate and has attracted many international businesses. While Alabama business persons and companies may decide to use foreign law in foreign courts, the public policy of Alabama is to prohibit anyone from requiring Alabama courts to apply and enforce foreign laws.
+
+(7) The public policy of this state is to protect its citizens from the application of foreign laws when the application of a foreign law will result in the violation of a right guaranteed by the Alabama Constitution or of the United States Constitution, including, but not limited to, due process, freedom of religion, speech, assembly, or press, or any right of privacy or marriage.
+
+(8) Article IV, Section 1, of the United States Constitution provides that full faith and credit shall be given by each state to the public acts, records, and judicial proceedings of other states. Provided, however, when any such public acts, records, and judicial proceedings of another state violate the public policy of the State of Alabama, the State of Alabama is not and shall not be required to give full faith and credit thereto.
+
+(c) A court, arbitrator, administrative agency, or other adjudicative, arbitrative, or enforcement authority shall not apply or enforce a foreign law if doing so would violate any state law or a right guaranteed by the Constitution of this state or of the United States.
+
+(d) If any contractual provision or agreement provides for the choice of a foreign law to govern its interpretation or the resolution of any dispute between the parties, and if the enforcement or interpretation of the contractual provision or agreement would result in a violation of a right guaranteed by the Constitution of this state or of the United States, the agreement or contractual provision shall be modified or amended to the extent necessary to preserve the constitutional rights of the parties.
+
+(e) If any contractual provision or agreement provides for the choice of venue or forum outside of the states or territories of the United States, and if the enforcement or interpretation of the contract or agreement applying that choice of venue or forum provision would result in a violation of any right guaranteed by the Constitution of this state or of the United States, that contractual provision or agreement shall be interpreted or construed to preserve the constitutional rights of the person against whom enforcement is sought. If a natural person subject to personal jurisdiction in this state seeks to maintain litigation, arbitration, an administrative proceeding, or a similarly binding proceeding in this state, and if a court of this state finds that granting a claim of forum non conveniens or a related claim violates or would likely lead to the violation of the constitutional rights of the nonclaimant in the foreign forum with respect to the matter in dispute, the claim shall be denied.
+
+(f) Any contractual provision or agreement incapable of being modified or amended in order to preserve the constitutional rights of the parties pursuant to the provisions of this amendment shall be null and void.
+
+(g) Nothing in this amendment shall be interpreted to limit the right of a natural person or entity of this state to voluntarily restrict or limit his, her, or its own constitutional rights by contract or specific waiver consistent with constitutional principles. However, the language of any such contract or other waiver shall be strictly construed in favor of preserving the constitutional rights of the natural person in this state. Further, no Alabama court shall be required by any contract or other obligation entered into by a person or entity to apply or enforce any foreign law.
+
+(h) Except as limited by subsection (g), without prejudice to any legal right, this amendment shall not apply to a corporation, partnership, limited liability company, business association, or other legal entity that contracts to subject itself to foreign law in a jurisdiction other than this state or the United States.
+
+(i) Where the public acts, records, or judicial proceedings of another state violate the public policy of the State of Alabama, the State of Alabama shall not give full faith and credit thereto.
+
+## Amendment 885
+**Escambia County: Oil and Gas Funds.**
+
+In addition to any other authority granted pursuant to the Constitution or otherwise authorized by law, the trustees of the Escambia County Oil and Gas Severance Trust may loan all or any part of the funds on deposit in the trust fund to Escambia County, and the Escambia County Commission may borrow the funds from the trust fund and shall be required to expend all funds borrowed solely for the purpose of economic and industrial development in Escambia County or for the construction, maintenance, or repair of roads and bridges or other capital projects within Escambia County. Any loan by the trust fund shall be a general obligation of Escambia County, the repayment of which shall be made in equal semi-annual installments of principal and interest over a term not to exceed 15 years from the date of the loan, at a rate of interest equal to one percent more than the published market rate payable on 10-year term U.S. Treasury Notes prevailing on the date of the loan. In addition, the trustees may invest the trust funds in other investments as otherwise provided by local law and any prior local law authorizing the investment of trust funds is ratified and confirmed.
+
+## Amendment 886
+**Shelby County: Judge of Probate - Qualifications.**
+
+The Judge of Probate of Shelby County shall be an attorney licensed in this state effective upon the election or appointment of any judge of probate after the ratification of the amendment.
+
+## Amendment 887
+**Distributions from Alabama Trust Fund for additional payments to fund bonds.**
+
+(a) The authority granted to the State of Alabama to become indebted and to sell and issue its interest-bearing General Obligation bonds, in addition to all other bonds of the state, under Amendment 666 to the Constitution of Alabama of 1901, as amended, is hereby increased by an additional amount of fifty million dollars ($50,000,000).
+
+(b) All of the bonds shall be sold only at public sale or sales, either on sealed bids or at public auction, after such advertisement as may be prescribed by the Bond Commission, to the bidder whose bid reflects the lowest true interest cost to the state computed to the respective maturities of the bonds sold; provided, that if no bid deemed acceptable by the commission is received all bids may be rejected.
+
+(c) Relative to issuance expenses, contracts, and appointments incurred in connection with the issuance of bonds, the Bond Commission created in Section IX of Amendment 666 to the Constitution of 1901, shall contract with businesses or individuals which reflect the racial and ethnic diversity of the state.
+
+(d) Bonds issued pursuant to this amendment shall be issued for a maturity of 20 years or less.
+
+(e) All of the proceeds from the bonds shall be distributed to the Armory Commission of Alabama for plans, construction, and maintenance of Alabama National Guard armories.
+
+(f) In addition to any Oil and Gas Capital Payments received by the Alabama Trust Fund paid into the Alabama Capital Improvement Trust Fund pursuant to Amendment 666, so much as shall be necessary of all Oil and Gas Capital Payments received by the Alabama Trust Fund during any fiscal year shall be paid into the Alabama Capital Improvement Trust Fund to pay the principal and interest on the bonds authorized by this amendment.
+
+(g) In all other respects regarding the Alabama Trust Fund, the terms and provisions of Amendment 666 and Amendment 856 to the Constitution of Alabama of 1901, as amended, are unchanged and remain in full force and effect.
+
+## Amendment 888
+**Amendment to Section 26.**
+
+(a) Every citizen has a fundamental right to bear arms in defense of himself or herself and the state. Any restriction on this right shall be subject to strict scrutiny.
+
+(b) No citizen shall be compelled by any international treaty or international law to take an action that prohibits, limits, or otherwise interferes with his or her fundamental right to keep and bear arms in defense of himself or herself and the state, if such treaty or law, or its adoption, violates the United States Constitution.
+
+## Amendment 889
+**Cullman County: Retirement.**
+
+No elected or appointed Cullman County official including the sheriff may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every elected or appointed Cullman County official including the sheriff may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system, and shall be treated as an employee of the county. Cullman County officials including the sheriff holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office. No person may participate in both a supernumerary program and the Employees' Retirement System based on the same service. For the purposes of this amendment, the words "elected or appointed Cullman County official" shall include any person appointed to serve the remaining term of an elected or appointed Cullman County official. The words do not include a judge, county commissioner, district attorney, legislator, constable, school board member, or any official elected from a judicial circuit.
+
+## Amendment 890
+**Amendment to Section 111.05.**
+
+(a) No general law, or state executive order whose purpose or effect is to require a new or increased expenditure of funds held or disbursed by the governing body of a municipality or county, or an instrumentality thereof, or a city or county board of education shall become effective as to any municipality or county, or an instrumentality thereof, or a city or county board of education until approved by an ordinance enacted, or a resolution adopted, by the governing authority of the affected municipality, county, instrumentality, or board of education or until, and only as long as, the Legislature appropriates funds for the purpose to the affected municipality, county, instrumentality, or board and only to the extent and amount that the funds are provided, or until a law provides for a local source of revenue within the municipality, county, instrumentality, or board for the stated purpose and the affected municipality, county, instrumentality, or board is authorized by ordinance or resolution to levy and collect the revenue and only to the extent and amount of the revenue.
+
+(b) This amendment shall not apply to:
+
+(1) A local law as defined in Article IV, Section 110, Constitution of Alabama 1901.
+
+(2) An act defining a new crime or amending the definition of an existing crime.
+
+(3) An act, statute, executive order enacted, promulgated, or adopted and effective prior to January 6, 1999, which by its provisions requires expenditures by the county or municipality at any time after that date.
+
+(4) An act enacted, or state executive order promulgated or adopted to comply with a federal mandate, only to the extent of the federal mandate.
+
+(5) An act adopted or enacted by two-thirds of those voting in each house of the Legislature and any rule or regulation adopted to implement that act or adopted pursuant thereto.
+
+(6) An act determined by the Legislative Fiscal Office to have an aggregate insignificant fiscal impact on affected municipalities, counties, instrumentalities, or boards. For purposes of this subsection, the phrase "aggregate insignificant fiscal impact" shall mean any impact less than $50,000 annually.
+
+(7) An act of general application prescribing the minimum compensation for public officials.
+
+(8) An act, statute, administrative rule, or other provision or portion thereof addressing compensation, benefits, or due process of any employee of a board education.
+
+(c) For the purposes of this amendment, the phrase board of education shall include the Alabama Institute for Deaf and Blind, the Alabama School of Fine Arts, and the Alabama High School of Mathematics and Science.
+
+## Amendment 891
+**Franklin County: Amendment of Amendment 518.**
+
+The Legislature may, by general or local law, provide for the creation, incorporation, organization, operation, administration, authority and financing of a Franklin County water coordinating, and fire prevention authority in all or in portions of Franklin County as a public corporation to provide any one or more of the following local public services: Obtain, treat, and furnish water, provide sewer services, and broadband Internet service for residential, commercial, or industrial purposes and for any other local service permitted by such general or local law; authorize such authority to fix and collect rates, fees, and charges for such services, and to provide penalties for nonpayment and liens upon the property within the public authority; grant or vest the privilege of eminent domain to the public authority for the purpose of taking property for public use in accordance with Article XII, Section 235, of the Constitution of Alabama of 1901; authorize the borrowing of money and the issuance of bonds and other obligations by or on behalf of the public authority, provided that Franklin County shall not be responsible for any such bond or obligation and no such bond or obligation shall be chargeable against the limit on the debt of Franklin County; extend the service area into one or more other counties; and provide for fire protection facilities or services. Any law enacted at the 1988 Special Session of the Legislature to authorize the creation of such authority in Franklin County and to implement this amendment to the Constitution (whether with or without published notice of intention) shall become effective upon the ratification of this amendment.
+
+## Amendment 892
+**Amendment to Section 39.02.**
+
+(a) The people have a right to hunt, fish, and harvest wildlife, including by the use of traditional methods, subject to reasonable regulations, to promote wildlife conservation and management, and to preserve the future of hunting and fishing. Hunting by the public and fishing by the public shall be the preferred means of managing and controlling wildlife. This amendment shall not be construed to modify any provision of law relating to eminent domain, trespass, or property rights.
+
+(b) This amendment shall be known as the "Sportsperson's Bill of Rights."
