@@ -11750,3 +11750,18 @@ The Legislature may, by general or local law, provide for the creation, incorpor
 (a) The people have a right to hunt, fish, and harvest wildlife, including by the use of traditional methods, subject to reasonable regulations, to promote wildlife conservation and management, and to preserve the future of hunting and fishing. Hunting by the public and fishing by the public shall be the preferred means of managing and controlling wildlife. This amendment shall not be construed to modify any provision of law relating to eminent domain, trespass, or property rights.
 
 (b) This amendment shall be known as the "Sportsperson's Bill of Rights."
+
+## Amendment 893
+**Shelby County: Alcoholic Beverages - Sunday Sales.**
+
+In Shelby County, the sale and distribution of alcoholic beverages shall be legal after 12:00 p.m. on Sunday by properly licensed retail licensees of the Alabama Alcoholic Beverage Control Board.
+
+## Amendment 894
+**St. Clair County: Court Costs - Legislative Authority.**
+
+The Legislature, by general or local law, may fix, alter, and regulate the costs and charges of courts in St. Clair County and provide for their distribution.
+
+## Amendment 895
+**Retirement - District attorneys and circuit clerks.**
+
+The legislature is authorized to provide a retirement program for district attorneys and circuit clerks of the state who are first elected or appointed on or after November 8, 2016.
