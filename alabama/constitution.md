@@ -11765,3 +11765,483 @@ The Legislature, by general or local law, may fix, alter, and regulate the costs
 **Retirement - District attorneys and circuit clerks.**
 
 The legislature is authorized to provide a retirement program for district attorneys and circuit clerks of the state who are first elected or appointed on or after November 8, 2016.
+
+## Amendment 896
+**Lamar County: Retirement - Supernumerary Offices.**
+
+No elected or appointed Lamar County official, including the sheriff, may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every elected or appointed Lamar County official, including the sheriff, may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Lamar County officials, including the sheriff, holding office at the time of ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office. No person may participate in both a supernumerary program and the Employees' Retirement System based on the same service. For purposes of this amendment, the words "elected or appointed Lamar County official," do not include a judge, district attorney, legislator, constable, school board member, or any official elected from a judicial circuit. The effective date or ratification date of this amendment is the date this amendment is officially proclaimed ratified in the proclamation register.
+
+## Amendment 898
+**Houston County: Judge of Probate.**
+
+The Judge of Probate of Houston County may exercise equity jurisdiction concurrent with that of the circuit court in cases originally filed in the Probate Court of Houston County if the judge of probate is licensed to practice law in the State of Alabama. In any case subject to this amendment, the judge of probate shall possess the power and authority of a circuit court judge trying the case and the case shall be treated in all respects in the same manner as a case filed in circuit court. The Alabama Rules of Civil Procedure shall apply in the cases except as otherwise specifically provided by law. This amendment is self-executing, but the Legislature may enact additional laws to implement this amendment if needed.
+
+## Amendment 899
+**Etowah County: Sheriff - Employees.**
+
+No later than the first day of the sixth month after ratification of this amendment, employees of the Office of the Sheriff of Etowah County, except for the chief deputy, chief of detention, chief of administration, chief of investigation, director of communications, and food service manager, shall be under the authority of the personnel board of the office of the sheriff. The provisions of this amendment shall not affect the liability of the employees of the Office of the Sheriff of Etowah County.
+
+## Amendment 900
+**Baldwin County: City of Bay Minette - Municipal Planning Commission.**
+
+(a) The Mayor of Bay Minette may appoint up to two additional members to the Bay Minette Municipal Planning Commission created pursuant to Section 11-52-3, Code of Alabama 1975.
+
+(b) The two additional members authorized under subsection (a) shall be individuals residing outside the corporate limits of the municipality, but within the territorial jurisdiction of the planning commission at the time of the appointment.
+
+(c) Upon appointment, the two additional members shall serve the same terms and shall have the same powers and duties as other members of the planning commission.
+
+## Amendment 901
+**Monroe County: Tax - Tobacco Products.**
+
+(a) There is levied in Monroe County on every person, firm, or corporation that sells, stores, delivers, uses, or otherwise consumes tobacco or tobacco products in Monroe County a county privilege, license, or excise tax in the following amounts:
+
+(1) An amount equal to twenty-five cents ($0.25) for each package of 20 or less cigarettes sold within the county.
+
+(2) An amount equal to thirty cents ($0.30) for each package of 21 to 25 cigarettes sold within the county.
+
+(3) An amount equal to one cent ($0.01) for each cigar of any description made of tobacco or any substitute for a cigar sold in the county.
+
+(4) An amount equal to twenty-five cents ($0.25) for the first two ounces and twenty-five cents ($0.25) for each additional ounce or fraction of an ounce contained in each individual package or can of smoking tobacco which is sold within the county.
+
+(5) An amount equal to twenty-five cents ($0.25) for the first two ounces and twenty-five cents ($0.25) for each additional ounce or fraction of an ounce contained in each individual package or can of smokeless tobacco or snuff which is sold within the county.
+
+(b) The privilege, license, or excise tax imposed in this amendment shall be in addition to all other taxes imposed by law and shall be collected in the same manner as other taxes on tobacco, except that when the license tax has been paid by a wholesaler or seller of the products, that payment shall be sufficient. The legislative intent of this amendment is that the tax shall be paid only once on each package of cigarettes, chewing tobacco, snuff, cigars of every description, and smoking tobacco of every description.
+
+(c) Every person, firm, corporation, club, or association that sells, stores, or receives for the purpose of selling or storing in Monroe County, any cigarettes, cigars, snuff, and smoking tobacco products shall add the amount of the license or privilege tax to the price of each product. It is the purpose and intent of this amendment that the tax required is, in fact, a levy on the consumer with the person, firm, corporation, club, or association that sells or stores or receives for the purpose of distributing the cigarettes, cigars, snuff, and smoking tobacco products acting merely as an agent for the collection of the tax. The dealer, storer, or distributor shall state the amount of the tax separately from the price of the cigarettes, cigars, snuff, and smoking tobacco products on all price display signs, sales or delivery slips, bills, and statements which advertise or indicate the price of the cigarettes, cigars, snuff, and smoking tobacco products.
+
+(d) It shall be unlawful for any dealer, storer, or distributor engaged in or continuing in the business in Monroe County for which the tax is required to fail or refuse to add to the sales price and collect from the purchaser the amount due on account of the tax, to refund or offer to refund all or any part of the amount collected, or absorb, or advertise directly or indirectly the absorption of, the tax or any portion thereof. Any person, firm, corporation, club, or association violating this subsection shall be subject to a civil penalty of not less than twenty-five dollars ($25) nor more than five hundred dollars ($500). Each act in violation of this subsection shall constitute a separate offense.
+
+(e)(1) The State Department of Revenue or, as otherwise provided by resolution of the county commission, the Monroe County Tax Collector, shall collect all taxes required pursuant to this amendment at the same time and in the same manner as state sales and use taxes are collected.
+
+(2) The tax imposed by this amendment shall be paid by affixing stamps that are required for the payment of the tax imposed by Sections 40-25-1 to 40-25-29, inclusive, Code of Alabama 1975.
+
+(3) The department shall have the same duties relative to the preparation and sale of stamps to evidence the payment of the tax that it has relative to the preparation and sale of stamps under Sections 40-25-1 to 40-25-29, inclusive, Code of Alabama 1975. The department may exercise the same powers and perform the same duties in the same manner relative to the collection of the tax imposed by this amendment that it does relative to the collection of that tax, as long as it is authorized and directed to do so under the resolution adopted by the commission.
+
+(4) In accordance with Section 40-25-2, Code of Alabama 1975, in the event tobacco stamps are not available for affixing to tobacco products packages and containers, or by the authority of a duly promulgated regulation eliminating the requirement of affixing county tobacco stamps, the Commissioner of the Department of Revenue may require a monthly report in lieu of stamps to report the amount of tax due. The monthly report shall be in a form approved by the commissioner and adopted by the department under the Alabama Administrative Procedure Act, Title 41, Chapter 22 of the Code of Alabama 1975.
+
+(5) The department may promulgate and enforce rules to effectuate the purposes of this amendment. All rules duly promulgated shall have the same force and effect of law.
+
+(f) All laws and rules of the department relating to the manner and time of payment of the tax levied by Sections 40-25-1 to 40-25-29, inclusive, Code of Alabama 1975, requiring reports from dealers and prescribing penalties for violations shall apply with equal force to the tax imposed by this amendment.
+
+(g) The proceeds from the tax imposed, less the amount or percentage of the actual cost of collection as may be agreed upon by the commissioner and the Monroe County Commission, shall be distributed to the Monroe County General Fund.
+
+(h) This amendment shall not be construed to apply to cigarettes, cigars, snuff, smoking tobacco, and like tobacco products stored by a wholesale dealer for the purpose of resale or reshipment outside of the county which are actually resold or reshipped.
+
+## Amendment 902
+**Henry County: Judge of Probate.**
+
+Notwithstanding the provision of Section 6.16, as added by Amendment 328 to the Constitution of Alabama of 1901, now appearing as Section 155 of the Official Recompilation of the Constitution of Alabama of 1901, as amended, a person who is not over the age of 72 at the beginning time of qualifying for election, or at the time of his or her appointment, may be elected or appointed to the office of Judge of Probate of Henry County.
+
+## Amendment 903
+**Shelby County: Judge of Probate - Vacancies.**
+
+In the event of a vacancy in the office of the Judge of Probate of Shelby County, the vacancy shall be filled from nominations to the Governor by the Shelby County Judicial Commission established by Amendment 804 to this Constitution pursuant to the same procedures provided in Amendment 804 for filling a vacancy in the office of a judge of the circuit or district court in the county.
+
+## Amendment 904
+**Repeal of Article VII; New Article VII Added.**
+
+I. Article VII of the Constitution of Alabama of 1901, is repealed.
+
+II. Article VII is added to the Constitution of Alabama of 1901, to read as follows:
+
+Article VII. Impeachments.
+
+Section 173.
+
+(a) The Governor, Lieutenant Governor, Attorney General, State Auditor, Secretary of State, State Treasurer, members of the State Board of Education, Commissioner of Agriculture and Industries, and justices of the supreme court may be removed from office for willful neglect of duty, corruption in office, incompetency, or intemperance in the use of intoxicating liquors or narcotics to such an extent, in view of the dignity of the office and importance of its duties, as unfits the officer for the discharge of such duties for any offense involving moral turpitude while in office, or committed under color thereof, or connected therewith.
+
+(b) The House of Representatives shall present articles or charges of impeachment against those persons identified in subsection (a), specifying the cause to the Senate.
+
+(c) The Senate, sitting as a court of impeachment, shall take testimony under oath on articles or charges preferred by the House of Representatives.
+
+(d) The Lieutenant Governor shall preside over the Senate when sitting as a court of impeachment, provided, however, that if the Governor or Lieutenant Governor is impeached, the Chief Justice, or if the Chief Justice be absent or disqualified, then one of the associate justices of the supreme court, to be selected by the court, shall preside over the Senate when sitting as a court of impeachment. No person may be convicted by the Senate sitting as a court of impeachment without the concurrence of two-thirds of the members present.
+
+(e) If at any time when the Legislature is not in session, a majority of all the members elected to the House of Representatives shall certify in writing to the Secretary of State their desire to meet to consider the impeachment of the Governor, Lieutenant Governor, or other officer administering the office of Governor, it shall be the duty of the Secretary of State immediately to notify the Speaker of the House who, within 10 days after receipt of the notice, shall summon the members of the House to assemble at the capitol on a day to be fixed by the Speaker, but not later than 15 days after receipt of the notice by the Speaker from the Secretary of State, to consider the impeachment of the Governor, Lieutenant Governor, or other officer administering the office of Governor.
+
+(f) If the House of Representatives prefers articles of impeachment, the Speaker of the House shall forthwith notify the Lieutenant Governor, unless he or she is the officer impeached, in which event the President Pro Tempore of the Senate shall be notified, who shall summon the members of the Senate to assemble at the capitol on a specified day not later than 10 days after receipt of the notice from the Speaker of the House, for the purpose of hearing and trying the articles of impeachment against the Governor, Lieutenant Governor, or other officer administering the office of Governor, as may be preferred by the House of Representatives.
+
+Section 174.
+
+The judges of the district and circuit courts, judges of the probate courts, and judges of other courts from which an appeal may be taken directly to the supreme court, district attorneys, and sheriffs, may be removed from office for any of the causes specified in Section 173 or elsewhere in this constitution, by the supreme court, or under such regulations as may be prescribed by rule of the Supreme Court of Alabama or law. The Legislature may provide for the impeachment or removal of other officers than those named in this article.
+
+Section 175.
+
+A county officer and officer of an incorporated city or town may be tried for impeachment for any of the causes specified in Section 173 and upon conviction be removed from office by a court having jurisdiction to try felony cases in the county or circuit in which the officer holds his or her office. The Legislature shall provide by law the method of proceeding under this section, provided the right to trial by jury and appeal in such cases shall be secured.
+
+Section 176.
+
+The penalties in cases arising under this article does not extend beyond removal from office, and disqualifications from holding office, under the authority of this state, for the term for which the officer was elected or appointed; but the accused shall be liable to indictment and punishment as prescribed by law.
+
+III. This amendment shall become operative on January 1, 2017.
+
+## Amendment 905
+**Repeal of Article III; New Article III Added.**
+
+I. Article III of the Constitution of Alabama of 1901, and Amendment 582 of the Constitution of Alabama of 1901, are repealed.
+
+II. Article III is added to the Constitution of Alabama of 1901, to read as follows:
+
+Article III. SEPARATION OF POWERS.
+
+Section 42. (a) The powers of the government of the State of Alabama are legislative, executive, and judicial.
+
+(b) The government of the State of Alabama shall be divided into three distinct branches: legislative, executive, and judicial.
+
+(c) To the end that the government of the State of Alabama may be a government of laws and not of individuals, and except as expressly directed or permitted in this constitution, the legislative branch may not exercise the executive or judicial power, the executive branch may not exercise the legislative or judicial power, and the judicial branch may not exercise the legislative or executive power.
+
+Section 43. No order of a state court which requires disbursement of state funds shall be binding on the state or any state official until the order has been approved by a simple majority of both houses of the Legislature. This section shall not apply to orders, judgments, or decrees requiring payment of compensation for the taking of property by eminent domain or arising out of challenges to taxation or to such other orders, judgments, or decrees as may be otherwise required by statute, or settled principles of Alabama common law as decided by the Alabama appellate courts, not inconsistent with other provisions of this Constitution. Nothing herein shall be construed to preclude a court from making findings of fact or conclusions of law and orders relating thereto, that standards required by the United States Constitution, the Constitution of Alabama of 1901, laws of this state or of the United States, or rules or regulations promulgated pursuant thereto, are not being met, and from ordering the responsible entity or entities to comply with such standards.
+
+## Amendment 906
+**Amendment to Section 266.**
+
+Section 266.
+
+Section 1. (a) Auburn University shall be under the management and control of a board of trustees. The board of trustees shall consist of one member from each of the congressional districts in the state as the same were constituted on the first day of January, 1961, one member from Lee County, three at-large members who shall be residents of the continental United States, two additional at-large members who shall be residents of the continental United States and who shall enhance the diversity of the board of trustees by reflecting the racial, gender, and economic diversity of the state, and the Governor, who shall be ex officio president of the board.
+
+(b) The trustees from each congressional district, from Lee County, and all at-large trustees, including the two additional at-large members who shall enhance the diversity of the board, shall be appointed by the appointing committee created herein, by and with the advice and consent of the Senate. The appointment of members to fill a vacated position with a partially expired term of office shall also be made by the appointing committee as provided herein.
+
+(c) A board of trustees appointing committee is established composed of the following members:
+
+(1) The President Pro Tem of the Board of Trustees of Auburn University or the designee of the President Pro Tem. The designee shall be a member of the Board of Trustees of Auburn University.
+
+(2) A member of the Board of Trustees of Auburn University selected by the board of trustees.
+
+(3) Two members of the Auburn Alumni Association Board of Directors, who are not current employees of Auburn University, selected by the Auburn Alumni Association Board of Directors.
+
+(4) The Governor or a designee of the Governor who is an alumnus of Auburn University but who is not a current member of the Auburn Board of Trustees nor a current member of the Auburn Alumni Association Board of Directors nor a current employee of Auburn University.
+
+(d) The Governor, or the designee of the Governor, shall serve as chairperson of the appointing committee. If the chairperson fails to call a meeting within 90 days prior to the expiration of the term of a sitting board member or within 30 days following the creation of a vacancy by death, resignation, or other cause, a majority of the committee, in writing, may call a meeting giving at least 10 days notice. In the absence of the chairperson or another member designated by the chairperson to preside, the majority of the committee shall choose its own chairperson.
+
+(e) When appropriate, the appointing committee shall meet to address the appointment of any of the following:
+
+(1) Persons to fill an expired or soon-to-be expired term of office of any member of the Board of Trustees of Auburn University, including the five at-large positions .
+
+(2) Persons to fill the remainder of a partially expired term of office of any position on the Board of Trustees of Auburn University which has been vacated by reason of death, resignation, or other cause, including the five at-large positions.
+
+(f) The appointing committee, by majority vote, shall appoint an individual to fill the respective position on the board of trustees. The committee shall ensure that appointments are solicited from all constituencies, are inclusive, and reflect the racial, gender, and economic diversity of the state. A person may not be appointed to the Board of Trustees of Auburn University while serving on the appointing committee.
+
+(g) A trustee shall hold office for a term of seven years, and may serve no more than two full seven-year terms of office. Appointment and service for a portion of an unexpired term shall not be considered in applying the two-term limit.
+
+(h) For purposes of ensuring that transitions in board membership occur in a stable manner, if the secretary of the board determines that, as of January 1 of any calendar year, four or more members of the board hold seats the terms for which will expire during that calendar year, then the secretary shall provide written notice to the board of such fact and the term of the trustees whose term would otherwise expire during that subject year shall be adjusted in the following manner: The trustee who was first confirmed to a term expiring in the subject year shall have his or her term extended to the same month and day in the first subsequent year in which there are less than three trustees with terms expiring; if, after making this initial adjustment, there are still four or more trustees with terms expiring during the subject year, then the term of the next trustee or trustees whose terms are to expire during the subject year shall be adjusted, in order of their original confirmation to the term, to expire on the same month and day as their original term but in the next subsequent year or years in which there are less than three trustees with terms expiring that year; term adjustments to the next subsequent year or years in which there are less than three trustees with terms expiring shall occur regardless of whether the expiration is due to an original expiration date or due to an expiration date adjusted under this subsection, but in no case shall the term of more than three trustees expire during the same calendar year; and in making adjustments, the terms of the final three trustees with terms expiring during the subject year shall expire on the originally established dates. For purposes of this subsection, if two or more trustees were confirmed on the same date, then the order of expiration the terms of those trustees shall be determined alphabetically by last name.
+
+(i) Each member of the board of trustees as constituted on December 13, 2000, may serve the remainder of his or her current term and shall be eligible, if otherwise qualified, to serve for no more than two additional seven-year terms.
+
+(j) No person shall be appointed as a member of the board of trustees after having reached 70 years of age.
+
+(k) One more than half of the members of the board shall constitute a quorum, but a smaller number may adjourn from day to day until a quorum is present.
+
+(l) A term shall begin only upon confirmation by the Senate. A member may continue to serve until a successor is confirmed, but in no case for more than one year after completion of a term.
+
+(m) No trustee shall receive any pay or emolument other than his or her actual expenses incurred in the discharge of duties as such.
+
+(n) No employee of Auburn University shall be eligible to serve as a member of the board of trustees.
+
+(o)(1) The appointing committee shall submit the name of the persons selected for appointment to the Secretary of the Senate, who shall inform the Senate of the receipt of such submission. If the Senate is in regular session at that time, the submission shall be made by the conclusion of the next legislative day following the appointment. If the Senate is not in regular session at the time of appointment, the submission shall be made before the commencement of the next regular session.
+
+(2) If the entire Senate, by a majority vote, confirms the submission, the appointee shall immediately assume office. An appointee may not begin service prior to Senate confirmation.
+
+(3) If the submission is not confirmed by the entire Senate by a majority vote by the conclusion of the legislative session, the submission shall be considered rejected.
+
+(4) A submission to the Senate may be withdrawn at any time by the appointing committee in regard to appointments made by the committee.
+
+(5) Upon the rejection of a submission or the withdrawal of a submission, the appointment and confirmation process specified in this amendment shall commence anew.
+
+(p) The same name may be submitted to the Senate for the same position on the board more than one time.
+
+(q) Upon the expiration of a term of office, a member of the board of trustees shall continue to serve until a successor is appointed pursuant to this amendment, is confirmed by the entire Senate by majority vote, and assumes office. If a successor is not confirmed by the conclusion of the regular session in which one or more names for the position were initially submitted, the former holder of the position may continue to serve until a successor is appointed and confirmed, but in no case shall this continuation be longer than one year after completion of the term of office.
+
+(r) If any position on the board of trustees becomes vacant during a term of office by reason of death, resignation, or other cause, a person shall be appointed by the appointing committee to fill the remainder of the unexpired term of office pursuant to the procedure provided for other appointments made by the appointing committee. The position shall be considered vacant until a person is confirmed by a majority vote of the entire Senate.
+
+Section 2. Section 266 of article 14 of the Constitution of Alabama 1901 is hereby repealed.
+
+## Amendment 907
+**Autauga County: Amendment of Amendment 626.**
+
+(a) For the purposes of this amendment, the words "elected or appointed Autauga County official" shall mean any person holding an office that entitles the person to participate in a supernumerary program or any person appointed to serve the remaining term of an elected or appointed county official.
+
+(b) An elected or appointed Autauga County official may not assume a supernumerary office after January 6, 1999. Any person who, on January 6, 1999, is entitled to participate in that supernumerary program, may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every elected or appointed Autauga County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Elected or appointed Autauga County officials holding office on January 6, 1999, shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office; provided, however, the official shall forego the assumption of a supernumerary office and must make the election within one year of January 6, 1999.
+
+(c) A Sheriff of Autauga County first elected after the effective date of this amendment may not participate in a supernumerary program and may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. The Sheriff of Autauga County holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time he or she has served as sheriff. The sheriff shall forego the assumption of a supernumerary office and shall make the election within one year after the ratification date of this amendment.
+
+## Amendment 908
+**Winston County: Education - School Lands.**
+
+(a) All sixteenth section school and school land located in Winston County is vested in the Winston County Board of Education. The board may manage, sell, lease, and control the land and any timber, minerals, or other natural resources of the land.
+
+(b) Any proceeds from the sale of sixteenth section or school land shall be deposited into a trust account in Winston County.
+
+(c) Any interest earned on the funds deposited pursuant to subsection (b) shall be annually distributed to the Winston County school system.
+
+(d) Any proceeds generated from the sale of timber, minerals, or other natural resources of the land, or from the lease of sixteenth section or school land shall be paid directly to the Winston County Board of Education and deposited into the Winston County Board of Education General Fund.
+
+(e) It is the intent of the Legislature that this amendment supersede any other provision of this constitution which may be construed as being in conflict with this amendment as it relates to sixteenth section or school lands in Winston County and the rights, power, and control of the property relating to the sale, lease, or other disposition of the land or the sale of timber, minerals, or other natural resources generated by the land, or any proceeds or interest earned therefrom.
+
+(f) Upon ratification of this amendment, all proceeds realized from the sale, lease, or other disposition of sixteenth section or school land or the sale of timber, minerals, or other natural resources generated by Winston County sixteenth section or school lands occurring before ratification of this amendment, and held in trust by the State of Alabama, shall continue to be held in trust and any revenue and interest derived from those transactions shall be paid to the custodian of funds of the Winston County Board of Education.
+
+## Amendment 909
+**Administration of county affairs.**
+
+(a) Except where otherwise provided for or specifically prohibited by the constitution or by general or local law and subject to the limitations set forth herein, the county commission of each county in this state may exercise those powers necessary to provide for the administration of the affairs of the county through the programs, policies, and procedures described in subsection (b), subject to the limitations set forth in subsection (c).
+
+(b) Subject to the limitations of subsections (a) and (c), each county commission in the state may establish:
+
+(1) Programs, policies, and procedures relating to county personnel, including: Establishment of a county personnel system; the provision of employee benefits; allowing a deputy to be given his or her badge and pistol upon retirement; creating employee incentive programs related to matters such as attendance, performance, and safety; creating incentive programs related to the retirement of county employees; and creating employee recognition and appreciation programs.
+
+(2) Community programs to provide for litter-free roadways and public facilities and public property and subject to any limitations in general law, programs related to control of animals and animal nuisances, provided no programs shall: a. result in the destruction of an animal unless required by the public health laws of the state; or b. relate to or restrict the use of animals for hunting purposes or the use of animals being raised for sale or kept for breeding, food or fiber production purposes, or otherwise used in connection with farming, poultry and egg, dairy, livestock, and other agricultural or farming operations.
+
+(3) Programs related to public transportation and programs to promote and encourage safety when using public roads and rights-of-way, provided the programs do not in any way conflict with general law.
+
+(4) Programs related to county offices, including one-stop tag programs; commissaries for inmates at the county jail; disposal of unclaimed personal property in the custody of the county; management of the county highway department; automation of county activities; and establishment of unit or district systems for the maintenance of county roads and bridges. Programs involving the operation of the office of an elected county official may only be established pursuant to this subdivision with the written consent and cooperation of the elected official charged by law with the responsibility for the administration of the office.
+
+(5) Emergency assistance programs, including programs related to ambulance service and programs to improve county emergency management services.
+
+(c) Nothing in this amendment may be construed to provide a county commission any authority to levy or assess a tax or fee or to increase the rate of any tax or fee previously established, or to establish any program that would infringe on a citizen's rights with respect to the use of his or her private property or infringe on a right of a business entity with respect to its private property. Except as authorized in subdivision (4) of subsection (b), nothing in this amendment shall authorize the county commission to limit, alter, or otherwise impact the constitutional, statutory, or administrative duties, powers, or responsibilities of any other elected officials or to establish, increase, or decrease any compensation, term of office, or expense allowance for any elected officials of the county.
+
+(d) Any programs, policies, or procedures proposed for adoption by the county commission pursuant to the authority granted under subsection (a) shall only be voted on at a regular meeting of the county commission. Prior to the adoption of the programs, policies, and procedures, the county commission shall provide notice of its intention to consider the matter by announcing at a regular county commission meeting that the matter will be on the agenda at the next regular meeting of the county commission and that any members of the public desiring to be heard on the matter will be granted that opportunity at the meeting where the matter will be considered. Notice of the meeting at which the matter will be considered by the county commission shall be given in compliance with the notice requirements for county commissions provided in the general law. Nothing herein shall authorize a county commission to supersede, amend, or repel an existing local law.
+
+(e) The provisions of this amendment shall not apply to Jefferson County.
+
+## Amendment 910
+**Baldwin County: Retirement - Mayor.**
+
+In Baldwin County, mayors of municipalities that participate in the Employees' Retirement System of Alabama may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. A mayor holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office. No person may participate in both a supernumerary program and the Employees' Retirement System based on the same service.
+
+## Amendment 911
+**Jefferson County: Services, Garbage - Lien for Failure to Pay Fee.**
+
+In Jefferson County, notwithstanding any other provision of this Constitution, any bill for residential garbage service from the county, a municipality in the county, or a local governmental entity received in the name of the tenant or tenants shall be the sole responsibility of the tenant or tenants and shall not constitute a lien on the property where the garbage service was received. This amendment shall not be interpreted to impair the obligation of any contract entered into before the effective date of the amendment.
+
+## Amendment 912
+**DeKalb County: Repeal of Amendment 845.**
+
+Amendment No. 845 of the Constitution of Alabama of 1901, relating to DeKalb County, requiring the county commission of the county to call a special election to fill a vacancy in a county office under certain conditions, is repealed.
+
+## Amendment 913
+**Right to Work.**
+
+(a) It is hereby declared to be the public policy of Alabama that the right of persons to work may not be denied or abridged on account of membership or nonmembership in a labor union or labor organization.
+
+(b) An agreement or combination between an employer and labor union or labor organization which provides that a person who is not a member of the union or organization shall be denied the right to work for the employer, or where membership in the union or organization is made a condition of employment or continuation of employment by the employer, or where the union or organization acquires an employment monopoly in any enterprise, is hereby declared to be against public policy and an illegal combination or conspiracy.
+
+(c) No person shall be required by an employer to become or remain a member of any labor union or labor organization as a condition of employment or continuation of employment.
+
+(d) A person may not be required by an employer to abstain or refrain from membership in any labor union or labor organization as a condition of employment or continuation of his or her employment.
+
+(e) An employer may not require a person, as a condition of employment or continuation of employment, to pay dues, fees, or other charges of any kind to any labor union or labor organization.
+
+(f) This amendment shall not apply to any lawful contract in force on or prior to the date of the ratification of this amendment but it shall apply in all respects to contracts entered into after the date of the ratification of this amendment, and to any renewal or extension of an existing contract.
+
+## Amendment 914
+**Calhoun County: Police Jurisdiciton.**
+
+(a) This amendment shall apply only in Calhoun County.
+
+(b) Any territory located in Calhoun County shall be subject only to the police jurisdiction and planning jurisdiction of a municipality located wholly or partially in Calhoun County.
+
+## Amendment 915
+**Use of parks funding; amendment to Section 213.32.**
+
+PART I.
+
+The Legislature shall not pass any law authorizing nor shall any officer, agency, or employee transfer, use, or pledge any monies from the State Parks Fund, the Parks Revolving Fund, or any fund receiving revenues currently deposited in the State Parks Fund or the Parks Revolving Fund, and any monies currently designated by law and deposited into a public account for the use by the state parks system from being transferred to any other public account, fund or entity or used for any purpose other than the support, upkeep, and maintenance of the state parks system.
+
+Notwithstanding, in the event that guest revenues to the State Parks Revolving Fund exceed the threshold of $50 million (as annually adjusted based on increases in the consumer price index) in a fiscal year, the sales and use and cigarette tax revenue distributed to benefit the State Parks System shall be reduced in the following fiscal year.  The amount of the reduction shall correspond to the amount of guest revenue to the State Parks Revolving Fund exceeding the threshold.  The amount of tax revenue not distributed to benefit the State Parks System shall be distributed to the General Fund.
+
+PART II.
+
+Amendment of Amendment 617.
+
+The State of Alabama is authorized to become indebted for the purpose of the acquisition, provision, construction, improvement, renovation, equipping, and maintenance of the state parks system, public historical sites, and public historical parks, and in evidence of the indebtedness so incurred to sell and issue bonds, in addition to all other bonds of the state, not exceeding one hundred ten million dollars ($110,000,000) in aggregate principal amount. The bonds shall be direct general obligations of the state and the full faith and credit and taxing power of the state are hereby pledged to the prompt and faithful payment of the principal thereof and the interest thereon. One hundred four million dollars ($104,000,000) of the bonds shall be issued for the state by the Alabama State Parks System Improvement Corporation pursuant to the appropriate resolutions adopted by the board of directors of the corporation and the proceeds thereof shall be appropriated and used exclusively for the purpose of paying the expenses incurred in the sale and issuance of the bonds and for payment of the costs of the acquisition, provision, construction, improvement, renovation, equipping, and maintenance of the state parks system; provided, any lake acquired and/or built with the proceeds thereof by the Department of Conservation and Natural Resources as a part of a state park must have a minimum buffer of six hundred (600) lateral feet between the shoreline and any private property. In the event that the water from any said lake is sold, the cost thereof shall be equal to the periodic costs for that portion of the bond issue incurred by the Alabama State Parks System Improvement Corporation for said lake, and shall be repaid to the Department of Conservation and Natural Resources at the same rate as the debt service on said bond issue. Such acquisition, provision, construction, improvement, renovation, equipping and maintenance of the state parks system, shall be completed at the direction of the Alabama State Parks System Improvement Corporation with the advice and concurrence of the Joint Legislative Committee on State Parks, and all state park system land and facilities, except for  state park system land and facilities at those state parks with either (1) an establishment where sleeping or sleeping and eating accommodations are advertised or held out to be available to transients, including hotel rooms, cottages, and cabins, or (2) a golf course, or both, shall thereafter be exclusively and solely operated and maintained by the Department of Conservation and Natural Resources. This provision shall not mandate operations by entities other than the Department of Conservation and Natural Resources but shall be construed to permit such operations. Six million dollars ($6,000,000) of the bonds shall be issued for the state by the Alabama Public Historical Sites and Parks Improvement Corporation pursuant to the appropriate resolutions adopted by the board of directors of the corporation and the proceeds thereof shall be appropriated and used exclusively for the purpose of paying the expenses incurred in the sale and issuance of the bonds and for the payment of the costs of the acquisition, provision, construction, improvement, renovations, equipping, and maintenance of public historical sites and public historical parks not under the jurisdiction of the Department of Conservation and Natural Resources. Such acquisition, provision, construction, improvement, renovation, equipping, and maintenance of public historical sites and public historical parks shall be completed at the direction of the Alabama Public Historical Sites and Parks Improvement Corporation and shall thereafter be operated by the Alabama Historical Commission, or other entity as authorized by the commission, with the advice and concurrence of the Joint Legislative Committee on State Parks.
+
+The State of Alabama is further authorized to become indebted and in evidence thereof to sell and issue one or more series of bonds to refund all or any of the bonds hereinabove authorized by this amendment in such principal amount or amounts, which may exceed the principal amount of the bonds being refunded, and in such manner as may be provided by law duly enacted by the Legislature.
+
+The aforesaid corporations are hereby vested with the power and authority to provide for the sale and terms of the bonds hereby authorized and the issuance thereof, subject to the approval of the Governor. The bonds may be sold, executed, and delivered at any time and from time to time, may be in such forms, denominations, series, and numbers, may be of such tenor and maturities, may bear such date or dates, may be payable in such installments and at such place or places, may bear interest at such rate or rates payable and evidenced in such manner, and may contain provisions for redemption at the option of the state to be exercised by the corporations at such date or dates prior to their maturity and upon payment of such redemption price or prices, all as shall be provided by the corporations in the resolution or resolutions whereunder the bonds hereby authorized are issued. The principal of each series of bonds shall mature on such date and in such amounts as shall be specified in the resolution or resolutions of the board of directors of the corporations under which they are issued, the last of which installments shall mature not later than 20 years after the date of the bonds of the same series. All of the bonds, including refunding bonds, shall be sold only at public sale or sales, either on sealed bids or at public auction, after such advertisement as may be prescribed by the corporations, to the bidder whose bid reflects the lowest true interest cost to the state computed to the respective maturities of the bonds sold; provided, that if no bid deemed acceptable by the corporation is received, all bids may be rejected.
+
+The bonds shall be signed in the name of the state by the Governor of the State of Alabama and the Great Seal of the State of Alabama or a facsimile thereof shall be impressed, printed or otherwise reproduced thereon and shall be attested by the signature of the Secretary of State of the State of Alabama; provided that facsimile signatures of either or both of the officers may be reproduced on such bonds in lieu of their manually signing the same.
+
+All bonds issued under the provisions of this amendment, together with the interest income thereon, shall forever be exempt from all taxation in the state, except inheritance, estate and gift taxes.
+
+The proceeds from the sale of the bonds by the Alabama State Parks System Improvement Corporation hereby authorized, other than refunding bonds, after the payment of all expenses of the sale thereof, shall be set apart in a special fund in the State Treasury to be designated "The Alabama State Parks System Improvement Fund," and such proceeds, together with income derived from the investment and reinvestment thereof, shall be temporarily invested until needed and disbursed, on order of the aforesaid corporation solely for the purposes, hereinabove described, for which the bonds are authorized to be issued.
+
+The proceeds from the sale of the bonds by the Alabama Public Historical Sites and Parks Improvement Corporation hereby authorized, other than refunding bonds, after the payment of all expenses of the sale thereof, shall be set apart in a special fund in the State Treasury to be designated "The Alabama Public Historical Sites and Parks Improvement Fund," and such proceeds, together with income derived from the investment and reinvestment thereof, shall be temporarily invested until needed and disbursed, on order of the aforesaid corporation solely for the purposes, hereinabove described, for which the bonds are authorized to be issued.
+
+No further authorization from the Legislature shall be a prerequisite to the validity of any bonds issued hereunder. However, the Legislature shall enact appropriate legislation implementing the provisions hereof, including provisions for the issuance of refunding bonds as hereinabove authorized.
+
+The Alabama State Parks System Improvement Corporation and the Alabama Public Historical Sites and Parks Improvement Corporation authorized in this constitutional amendment are strongly encouraged to utilize businesses and companies in all aspects of the bond and construction portions of this amendment that reflect the racial and ethnic diversity of the state.
+
+## Amendment 916
+**Montgomery County: Retirement - Sheriff.**
+
+No elected or appointed sheriff in Montgomery County may assume a supernumerary office after the effective date of this amendment except as provided herein. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. The Sheriff of Montgomery County may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. The sheriff holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office; provided, however, the official shall forego the assumption of a supernumerary office.
+
+## Amendment 917
+**Fayette County: Retirement.**
+
+No person elected or appointed sheriff, or any elected or appointed Fayette County official may assume a supernumerary office after the effective date of this amendment. Any person who, on the effective date of this amendment, is entitled to participate in a supernumerary program may continue to participate in that supernumerary program, which shall include the assumption of a supernumerary office according to the terms and conditions of the law which established that supernumerary program. Every elected or appointed Fayette County official may participate in the Employees' Retirement System of Alabama upon the same terms and conditions as may be specified by law for any other employee in the same retirement system. Fayette County officials holding office at the time of the ratification of this amendment shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office. For the purposes of this amendment, the words "elected or appointed county official" shall include, subject only to express limitation, any person holding an office that entitles the person to participate in a supernumerary program and includes any person appointed to serve the remaining term of an elected or appointed county official, but shall not include a judge, district attorney, constable, legislator, school board member, or any official elected from a judicial circuit.
+
+## Amendment 918
+**Lauderdale County: Amendment of Amendment 819.**
+
+All vacancies in the office of judge of the circuit court and the office of judge of the district court holding in Lauderdale County shall be filled in the manner and for the time as herein provided.
+
+The Lauderdale County Judicial Commission is created for the purpose of nominating to the Governor persons for appointment to a vacancy. The commission shall be composed of five members, two of whom shall be appointed by the members of the bar residing in the county, two shall be appointed by the members of the county commission, and one, who shall be the chair, shall be appointed by the Chief Justice or the Acting Chief Justice of the Alabama Supreme Court.
+
+All members of the commission shall reside in the territorial jurisdiction of the circuit court holding in Lauderdale County.
+
+The Lauderdale County Bar Association, the Lauderdale County Commission, and the Chief Justice or Acting Chief Justice of the Alabama Supreme Court shall each certify in writing to the Judge of Probate of Lauderdale County the names of the persons selected as members of the commission.
+
+The terms of office of all members of the commission shall be six years. In the event that an initial appointment or vacancy of a member of the commission is not filled in 30 days, the appointment or vacancy shall be filled by the Chief Justice or Acting Chief Justice of the Alabama Supreme Court within 10 days. A vacancy in the office of a member of the commission shall be filled for the unexpired term in the same manner as the member was originally chosen.
+
+The Judge of Probate of Lauderdale County shall record all certificates of election and shall safely and permanently keep the original certificates. Forthwith upon his or her receipt and recordation of every certificate, the judge of probate shall send to the Governor a certified copy of every certificate.
+
+No member of the commission shall be eligible for nomination to the Governor for appointment as judge of the circuit court or the district court during the term of office of the commission member.
+
+The members of the commission shall not receive any salary or other compensation for their services as members. No member of the commission shall hold any public office, and no member of the commission shall hold any official position in any political party.
+
+If a vacancy occurs in the office of judge of the circuit court or the office of judge of the district court holding in Lauderdale County, the commission shall nominate within 30 days to the Governor three persons having the qualifications for the office. If the commission fails to nominate three names during the 30-day period, the names shall be selected by the Chief Justice or Acting Chief Justice of the Alabama Supreme Court within 10 days. The names of all persons considered for nomination shall be available for review by the public and shall be deemed a public record. The Governor shall appoint to the office in which the vacancy exists one of the three persons so nominated for the office. If the Governor fails to make an appointment from the list within 30 days from the date it is presented to the Governor, the appointment shall be made by the Chief Justice or the Acting Chief Justice of the Alabama Supreme Court from the same list. The term of office of a judge appointed to fill a vacancy shall be as otherwise provided in Section 153 of the Constitution of Alabama of 1901.
+
+## Amendment 919
+**Use of tax revenues collected within Major 21st Century Manufacturing Zones.**
+
+Notwithstanding any other provision of the Constitution, public moneys, including ad valorem tax revenues, collected within a tax increment district located within a Major 21st Century Manufacturing Zone as defined by law, and proceeds of obligations issued by the municipality or county establishing the district for the purposes of redevelopment or revitalization of property located therein, may be expended for the acquisition of the property and the redevelopment, rehabilitation, or conservation thereof, and the moneys, property, and proceeds may be disposed of, whether to or for the benefit of private interests or otherwise, for such consideration as shall be determined in the discretion of the governing body of the county or municipality, as the case may be, that established the district and without regard to Sections 93 and 94 of this Constitution. Any obligations of a municipality or county issued for the purposes set forth above shall not be chargeable against the constitutional debt limit of the municipality or county. The exercise of any powers granted in the Major 21st Century Manufacturing Zone Act, Act 2013-51, by any municipality or county, or the governing body thereof, shall not be subject to those limitations or restrictions that would otherwise have been applicable under Section 93 or Section 94 of this Constitution. The Major 21st Century Manufacturing Zone Act, Act 2013-51, is hereby validated and confirmed.
+
+## Amendment 920
+**Shelby County: Amendment of Amendment 804.**
+
+All vacancies in the office of the judge of the circuit court and the office of the judge of the district court of the 18th Judicial Circuit shall be filled in the manner and for the time as herein provided.
+
+The Shelby County Judicial Commission is hereby created for the purpose of nominating to the Governor persons for appointment to a vacancy. The commission shall be composed of five members.  The members of the commission shall be as follows: Two persons who are members of the Alabama State Bar; two persons who are not members of the Alabama State Bar; and the presiding judge of the 18th Judicial Circuit.
+
+All members of the commission shall reside in the territorial jurisdiction of the 18th Judicial Circuit.
+
+The two members of the commission who are required to be members of the Alabama State Bar shall be elected by the members of the bar who are regularly licensed and qualified to practice law in this state. The Executive Committee of the Shelby County Bar Association, or its successor body in such capacity, is authorized and directed to make rules, not inconsistent with this amendment, for the election of the two members of the commission who are required to be members of the Alabama State Bar. The executive committee shall certify in writing to the Judge of Probate of Shelby County the names of the persons elected as members of the commission by the members of the bar and the name of the presiding judge of the circuit court who shall serve on the commission by virtue of his or her position as presiding judge.
+
+The members of the Legislature representing Shelby County shall elect the two members of the commission who are required not to be members of the Alabama State Bar.
+
+The members of the Legislature representing Shelby County shall certify in writing to the judge of probate the names of the persons elected by them as members.
+
+The terms of office of all members of the commission shall be six years, except that the terms of office of the two members of the State Bar first elected shall be for one and two years respectively, and of the two members first elected by the members of the Legislature representing Shelby County shall be for three and four years respectively; the length of the terms of office of the members of the commission being indicated by the respective electing bodies. The terms of the initial members of the commission shall begin on January 1, 2009. A vacancy in the office of a member of the commission shall be filled for the unexpired term in the same manner as that member was originally chosen.
+
+The Judge of Probate of Shelby County shall record all certificates of election and shall safely and permanently keep the original certificates. Upon receipt and recordation of each certificate, the judge of probate shall send to the Governor a certified copy of each certificate.
+
+No member of the commission shall be eligible to succeed himself or herself as a member or for nomination to the Governor for appointment as judge of the circuit or district court during the term of office for which the member shall have been selected.
+
+The members of the commission shall not receive any salary or other compensation for their services as members. No member of the commission other than the member who is the presiding judge of the 18th Judicial Circuit shall hold any public office and no member of the commission shall hold any official position in any political party.
+
+If, subsequent to January 1, 2009, a vacancy occurs in the office of judge of the circuit or district court in the 18th Judicial Circuit, the commission shall nominate to the Governor three persons having the qualifications for the office. The nomination shall be made only by the concurrence of a majority of the members of the commission. The Governor shall appoint to the office in which the vacancy exists one of the three persons so nominated for the office. The term of office of a judge appointed to fill a vacancy shall be as otherwise provided in Section 153 of this constitution. The judicial authority of any person appointed to fill a judicial vacancy in the judicial circuit prior to January 16, 2017, is ratified and confirmed.
+
+Any vacancy occurring in the office of judge of the 18th Judicial Circuit, which is required to be filled by appointment on nominations made by the commission, shall be filled within 90 days from the date of the submission of the nominations. In the event the Governor fails to fill the vacancy from the nominations within that period, the appointment shall be made by the Chief Justice of the Supreme Court of Alabama.
+
+## Amendment 921
+**Baldwin County: Traffic Laws - Golf Carts.**
+
+(a) A municipality in Baldwin County may designate municipal streets or public roads within the municipality for use by golf carts. Before making that designation, the municipality shall first determine that golf carts may safely travel on or across the street or road. The municipality making the safety determination shall consider factors including, but not limited to, the speed, volume, and character of motor vehicle traffic using the road or street. Upon a determination that golf carts may be safely operated on the designated street or road, the municipality shall post appropriate signs to indicate that the operation of golf carts is authorized.
+
+(b) A municipality that authorizes the use of golf carts pursuant to subsection (a) shall inspect any golf cart that an owner wishes to use pursuant to subsection (a) to determine if the safety equipment required by subsection (e) is present on the golf cart and shall verify that the operator of the golf cart on a municipal street or public road is covered by a policy of liability insurance held by the owner of the golf cart. The liability limits for operation of the golf cart shall be the same as for operation of a motor vehicle. If the proper safety equipment is present and the golf cart is covered by liability insurance, the municipality shall issue a permit to the owner upon payment of a permit fee. The municipality may designate the appropriate department of the municipality to inspect and permit golf carts and may adopt rules for permitting golf carts, including providing for a permit fee.
+
+(c) A municipality may not allow a golf cart to operate on a municipal street or public road where the posted speed limit exceeds 25 miles per hour.
+
+(d) A municipality may limit the operation of a golf cart pursuant to this section to only between the hours of sunrise and sunset.
+
+(e) The golf cart shall be equipped with headlights, brake lights, turn signals, and a windshield.
+
+(f) No person may operate a golf cart on a public street or road without a driver's license.
+
+(g) A municipality may enact an ordinance regarding golf cart operation and equipment that is more restrictive than the restrictions enumerated in this section. Upon enactment, the municipality shall post appropriate signs or otherwise inform residents that the ordinance exists and will be enforced within the jurisdictional limits of the municipality.
+
+(h) All golf carts shall be entitled to full use of a lane, and no motor vehicle shall be driven in such a manner as to deprive any golf cart of the full use of a lane.
+
+(i) The operator of a golf cart may not overtake and pass in the same lane occupied by the vehicle being overtaken.
+
+(j) A golf cart may not be operated between lanes of traffic or between adjacent lines or rows of vehicles.
+
+(k) Golf carts may not be operated two or more abreast in a single lane.
+
+(l) The unauthorized operation of a golf cart on a municipal street or public road is a violation for which the municipality may collect a civil penalty of up to fifty dollars ($50).
+
+(m) Notwithstanding any other provision of this amendment, a municipality may enact an ordinance regarding golf cart operation and equipment that is less restrictive than the restrictions enumerated in this amendment authorizing the use of golf carts for periods not to exceed 80 hours by the municipality or a civic organization in conjunction with civic events or events to raise funds, promote economic development, or similar purposes as authorized in the ordinance.
+
+## Amendment 922
+**Madison County: Amendment of Amendment 334.**
+
+All vacancies in the office of judge of the circuit court and the office of judge of the district court holding in Madison County shall be filled in the manner and for the time as herein provided.
+
+The Madison County Judicial Commission is created for the purpose of nominating to the Governor persons for appointment to such a vacancy. The commission shall be composed of nine members. The members of the commission shall be two persons who are members of the Alabama State Bar, one judge of the circuit court holding in Madison County, two members appointed by Members of the Alabama House of Representatives who represent Madison County, irrespective of whether such Members of the House of Representatives reside in Madison County, two members appointed by Members of the Alabama Senate who represent Madison County, irrespective of whether such Members of the Senate reside in Madison County, and two members appointed jointly by these Members of the House of Representatives and Members of the Senate.
+
+All members of the commission shall reside in the territorial jurisdiction of the circuit court holding in Madison County.
+
+The two members of the commission who are required to be members of the Alabama State Bar shall be elected by the members of such bar who are regularly licensed and qualified to practice law in this state and who reside in the territorial jurisdiction of the circuit court holding in Madison County. The Executive Committee of the Madison County Bar Association or its successor body in such capacity, is authorized and directed to make rules, not inconsistent with this amendment, for the election of such members of the commission as are required to be members of the Alabama State Bar. The executive committee shall certify in writing to the Judge of Probate of Madison County the names of the persons elected as members of the commission by these members of the bar.
+
+The Members of the Alabama House of Representatives who represent Madison County, irrespective of whether these members reside in Madison County, shall make one initial appointment of a member of the commission immediately upon the adoption of the amendment adding this amendatory language and shall make the other initial appointment upon the first expiration of the term of office of a member previously appointed pursuant to this amendment by the Senators and Representatives in the Alabama Legislature residing in Madison County. These Members of the Alabama House of Representatives representing Madison County shall make all succeeding appointments to these two positions. These appointees shall not be members of the Alabama State Bar.
+
+The Members of the Alabama Senate representing Madison County, irrespective of whether these members reside in Madison County, shall make one initial appointment of a member of the commission immediately upon the adoption of the amendment adding this amendatory language and shall make the other initial appointment upon the expiration of the term of office of the last member previously appointed pursuant to this amendment by the Senators and Representatives of the Alabama Legislature residing in Madison County. These Members of the Alabama Senate representing Madison County shall make all succeeding appointments to these two positions. These appointees shall not be members of the Alabama State Bar. The Members of the House of Representatives and Senate representing Madison County, irrespective of whether these members reside in Madison County, shall jointly make two initial appointments upon the adoption of the amendment adding this amendatory language. These Members of the House of Representatives and the Senate shall jointly make all succeeding appointments to these two positions. These appointees shall not be members of the Alabama State Bar.
+
+These Members of the House of Representatives and Senate, respectively, shall certify in writing to the Judge of Probate of Madison County the names of persons appointed by them to the commission.
+
+The judges of the circuit court holding in Madison County shall elect the member of the commission who is required to be a judge of the circuit court. The judges of the circuit court shall certify in writing to the judge of probate the name of the circuit judge elected by the circuit judges as a member.
+
+The terms of office of all members of the commission shall be six years. A vacancy in the office of a member of the commission shall be filled for the unexpired term in the same manner as the member was originally chosen.
+
+The Judge of Probate of Madison County shall record all such certificates of election and shall safely and permanently keep the original certificates. Forthwith upon his or her receipt and recordation of every certificate, the judge of probate shall send to the Governor a certified copy of every certificate.
+
+No member of the commission shall be eligible for nomination to the Governor for appointment as judge of the circuit court or the district court during the term of office of the commission member.
+
+The members of the commission shall not receive any salary or other compensation for their services as members. No member of the commission other than the member required to be a judge of the circuit court shall hold any public office, and no member of the commission shall hold any official position in any political party.
+
+If a vacancy occurs in the office of judge of the circuit court or the office of judge of the district court holding in Madison County, the commission shall nominate to the Governor three persons having the qualifications for the office. The names of all persons considered for nomination shall be available for review by the public and shall be deemed a public record. A nomination shall be made only by the concurrence of at least five members of the commission, which vote shall be conducted at a public meeting. The member of the commission elected by the judges of the circuit court holding in Madison County shall only vote on matters before the commission in instances when the vote by other commission members has resulted in a tie. The Governor shall appoint to the office in which the vacancy exists one of the three persons so nominated for the office. If the Governor fails to make an appointment from the list within 30 days from the date it is presented to the Governor, the appointment shall be made by the Chief Justice or the acting Chief Justice of the Supreme Court from the same list.  The term of office of a judge appointed to fill a vacancy shall be as otherwise provided in the Constitution of Alabama of 1901.
+
+## Amendment 923
+**Baldwin County: Amendment of Amendment 660.**
+
+All vacancies in the office of judge of the circuit court and the office of judge of the district court holding in Baldwin County shall be filled in the manner and for the time as herein provided.
+
+The Baldwin County Judicial Commission is created for the purpose of nominating to the Governor persons for appointment to a vacancy. The commission shall be composed of five members. The members of the commission shall be one person who is a member of the Alabama State Bar nominated by the Baldwin County Bar Association, the presiding circuit judge holding in Baldwin County, one member selected by the Baldwin County Commission, one member selected by the Baldwin County Mayors' Association where at least two thirds of the members are in attendance at the meeting where the selection is made, and one member who is not a member of the Legislature selected by the Baldwin County Legislative Delegation selected by random selection as designed by the members of the Alabama House of Representatives and the Alabama Senate who represent Baldwin County.
+
+All members of the commission shall reside in the territorial jurisdiction of the circuit court holding in Baldwin County.
+
+Only the member selected by the Baldwin County Bar Association and the presiding circuit judge holding in Baldwin County may be a member of the Alabama State Bar. The member of the commission who is required to be a member of the Alabama State Bar shall be elected by the members of the bar who are regularly licensed and qualified to practice law in this state and who reside in the territorial jurisdiction of the circuit court holding in Baldwin County. The Executive Committee of the Baldwin County Bar Association, or its successor body in that capacity, shall make rules, not inconsistent with this amendment, for the election of the member of the commission required to be a member of the Alabama State Bar. The executive committee shall certify in writing to the Judge of Probate of Baldwin County the name of the person elected as member of the commission by these members of the bar.
+
+The presiding circuit judge holding in Baldwin County shall certify in writing to the Judge of Probate of Baldwin County the remaining names of the persons selected as members of the commission.
+
+The terms of office of all members of the commission shall be six years. In event that an initial appointment or vacancy is not filled in 30 days, the vacancy shall be filled by the members of the Baldwin County Legislative Delegation residing in Baldwin County within 10 days. A vacancy in the office of a member of the commission shall be filled for the unexpired term in the same manner as the member was originally chosen.
+
+The Judge of Probate of Baldwin County shall record all certificates of election and shall safely and permanently keep the original certificates. Forthwith upon his or her receipt and recordation of every certificate, the judge of probate shall send to the Governor a certified copy of every certificate.
+
+No member of the commission shall be eligible for nomination to the Governor for appointment as judge of the circuit court or the district court during the term of office of the commission member.
+
+The members of the commission shall not receive any salary or other compensation for their services as members. No member of the commission other than the member required to be a judge of the circuit court shall hold any public office, and no member of the commission shall hold any official position in any political party.
+
+If a vacancy occurs in the office of judge of the circuit court or the office of judge of the district court holding in Baldwin County, the commission shall nominate within 30 days to the Governor three persons having the qualifications for the office. If the commission fails to nominate three names during the 30-day period, the names shall be selected by the members of the Baldwin County Legislative Delegation residing in the county within 10 days. The names of all persons considered for nomination shall be available for review by the public and shall be deemed a public record. The Governor shall appoint to the office in which the vacancy exists one of the three persons so nominated for the office. If the Governor fails to make an appointment from the list within 30 days from the date it is presented to the Governor, the appointment shall be made by the Chief Justice or the acting Chief Justice of the Supreme Court from the same list. The term of office of a judge appointed to fill a vacancy shall be as otherwise provided in Section 153 of the Constitution of Alabama of 1901.
+
+## Amendment 924
+**Marion County: Fire Protection.**
+
+Commencing with the levy for the tax year for which taxes will become due and payable on October 1, 2017, there is hereby levied a fire protection tax of three mills. The fire protection tax levied herein shall be based upon the value of real and personal property assessed by affected property owners, as shown on the records of the Revenue Commissioner of Marion County, and shall be assessed and collected as are all ad valorem taxes in the county. The amount collected each year from assessment of the fire protection tax shall be paid to the Marion County Firefighters Association, to be distributed equally among the paid and volunteer fire departments in the county.
+
+## Amendment 925
+**Removal of age restrictions for appointed or elected officials.**
+
+1. Any provision of the constitution or other law that imposes a maximum age restriction for the appointment, election, or service of an appointed or elected official, with the exception of persons elected or appointed to a judicial office pursuant to Section 155, is repealed.
+
+2. The Legislature may not enact any law imposing a maximum age restriction for the appointment, election, or service of any appointed or elected official.
+
+## Amendment 926
+**Amendment of Amendment 448.**
+
+(A) The following words and phrases, whenever used in this amendment, shall have the following respective meanings:
+
+"Basic Appropriations" means, with respect to any regular session of the legislature, such appropriations as the legislature may deem appropriate for the expenditures by the state during the ensuing budget period for the ordinary expenses of the executive, legislative and judicial departments of the state, for payment of the public debt, and for education (excluding, however, any item within the scope of the foregoing that is at the time provided for by a continuing appropriation or otherwise).
+
+"Budget Period" means a fiscal year of the state or such period other than [a] fiscal year as may hereafter be fixed by law as the period with respect to which state budgets are prepared and state appropriations are made.
+
+(B) On or before the second legislative day of each regular session of the legislature, beginning with the first regular session after January 1, 1983, the governor shall transmit to the legislature for its consideration a proposed budget for the then next ensuing budget period.
+
+(C) The duty of the legislature at any regular session to make the basic appropriations for any budget period that will commence before the first day of any succeeding regular session shall be paramount; and, accordingly, beginning with the first regular session held after January 1, 1983, no bill (other than a bill making any of the basic appropriations) shall be signed by either the presiding officer of the house or senate and transmitted to the other house until bills making the basic appropriations for the then ensuing budget period shall have been signed by the presiding officer of each house of the legislature in accordance with Section 66 of this Constitution and presented to the governor in accordance with Section 125 of this Constitution; provided, that this paragraph (C) shall not affect the adoption of resolutions or the conduct of any other legislative functions that do not require a third reading; and provided further, that following adoption, by vote of either house of not less than three-fifths of a quorum present, of a resolution declaring that the provisions of this paragraph (C) shall not be applicable in that house to a particular bill, which shall be specified in said resolution by number and title, the bill so specified may proceed to final passage therein.
+
+(D) Upon the signing and presentation to the governor in accordance with the said Sections 66 and 125 of bills making the basic appropriations, the provisions of the foregoing paragraph (C) prohibiting the final passage of bills in the house and senate (other than bills making any part of the basic appropriations) shall cease to be effective and shall not be revived or become again effective as a result of (i) the subsequent legislative history of any bill so signed and presented, including any veto, return with executive amendment, or any other action, or failure to act, by either the governor or the legislature under the provisions of the said Section 125; or (ii) a determination, by either judicial decree or opinion of the justices of the Alabama Supreme Court, that any bill so signed and presented is wholly or in part invalid.
+
+(E) The legislature may, by statute or rule, make such further provisions for the timely passage of bills making the basic appropriations as are not inconsistent with the provisions of this Constitution.
+
+(F) Nothing contained herein shall be construed as requiring the legislature to make any appropriation not otherwise required by this Constitution to be made.
+
+(G) Notwithstanding any provision of this amendment, any resolution authorizing the consideration of a bill proposing a local law adopted before November 8, 2016, that conformed to the rules of either body of the Legislature at the time it was adopted, is ratified, approved, validated, and confirmed and the application of any such resolution is effective from the date of original adoption.
