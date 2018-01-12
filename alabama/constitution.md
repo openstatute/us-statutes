@@ -12245,3 +12245,13 @@ Commencing with the levy for the tax year for which taxes will become due and pa
 (F) Nothing contained herein shall be construed as requiring the legislature to make any appropriation not otherwise required by this Constitution to be made.
 
 (G) Notwithstanding any provision of this amendment, any resolution authorizing the consideration of a bill proposing a local law adopted before November 8, 2016, that conformed to the rules of either body of the Legislature at the time it was adopted, is ratified, approved, validated, and confirmed and the application of any such resolution is effective from the date of original adoption.
+
+## Amendment 927
+**Geneva County: Courts - Judge of Probate, Age Registriction.**
+
+Notwithstanding the provision of Section 6.16, as added by Amendment 328 to the Constitution of Alabama of 1901, now appearing as Section 155 of the Official Recompilation of the Constitution of Alabama of 1901, as amended, a person who is not over the age of 75 at the beginning time of qualifying for election, or at the time of his or her appointment, may be elected or appointed to the office of Judge of Probate of Geneva County.
+
+## Amendment 928
+**Lamar County: Repeal of Amendment 710.**
+
+Amendment 710 to the Constitution of Alabama of 1901, now appearing as Section 1, Local Amendments, Lamar County, Official Recompilation of the Constitution of Alabama of 1901 is repealed, and any actions taken or payments made in accordance with Amendment 710 are hereby ratified, approved, validated, and confirmed.
