@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "lint": "eslint ./src ./tools --ext js",
+    "generate": "node src/generate.js",
+    "dist": "node src/dist.js"
+  },
+  "devDependencies": {
+    "eslint": "4.17.0",
+    "eslint-config-airbnb": "16.1.0",
+    "eslint-plugin-import": "2.8.0",
+    "eslint-plugin-jsx-a11y": "6.0.3",
+    "eslint-plugin-react": "7.6.1"
+  },
+  "private": true,
+  "dependencies": {
+    "cached-request": "1.1.2",
+    "cheerio": "1.0.0-rc.2",
+    "fs-extra": "5.0.0",
+    "glob": "7.1.2",
+    "gray-matter": "4.0.1",
+    "request": "2.85.0",
+    "yaml-js": "0.2.3"
+  }
+}
