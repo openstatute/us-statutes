@@ -12,7 +12,7 @@ glob('data/**/*.md', null, (er, files) => {
   const commits = files
     .map((file) => {
       const fileName = path.basename(file);
-      const date = fileName.replace('.md', '').replace('-00-00', '-12-31');
+      const date = fileName.replace('.md', '');
       const documentPath = file.replace(`/${fileName}`, '').replace('data/', '');
 
       return { date, documentPath };
@@ -32,7 +32,7 @@ glob('data/**/*.md', null, (er, files) => {
 
   commits.forEach((commit) => {
     p = p.then(() => {
-      const t = commit.date.split('-');
+      const t = commit.date.replace('-00-00', '-12-31').split('-');
       const epochDate = new Date('1970', '01', '01').toISOString();
       // Git only supports date > epoch
       const commitDate = t[0] > '1970' ? new Date(t[0], t[1], t[2]).toISOString() : epochDate;
