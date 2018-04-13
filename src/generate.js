@@ -12,7 +12,7 @@ glob('data/**/*.md', null, (er, files) => {
   const commits = files
     .map((file) => {
       const fileName = path.basename(file);
-      const date = fileName.replace('.md', '');
+      const date = fileName.replace('.md', '').replace('-00-00', '-12-31');
       const documentPath = file.replace(`/${fileName}`, '').replace('data/', '');
 
       return { date, documentPath };
@@ -75,7 +75,7 @@ glob('data/**/*.md', null, (er, files) => {
         `git config user.email "${authorEmail}"`,
         'git add .',
         `GIT_COMMITTER_NAME="${committerName}" GIT_COMMITTER_EMAIL="${committerEmail}" GIT_AUTHOR_DATE="${commitDate}" GIT_COMMITTER_DATE="${commitDate}" git commit -m "${commit.documentPath} (${commit.date})
-          
+
           ${data.data.changeTitle || ''}
 
           ${refs}
